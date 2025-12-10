@@ -1,0 +1,837 @@
+id,term,translation
+1,abattoir,aboa kum fie
+2,aboiteau,nsu ban ɔkwan
+3,acaricide,nkramamoadi kum aduro
+4,acreage,asase dodoɔ
+5,acre-foot,eka-nan susudua
+6,adjuvant,nkabom aduro
+7,aerial seeding,wim aba nnua
+8,aeroponics,wim mfudeɛ
+9,agrarian system,kuadwuma nhyehyɛeɛ
+10,agrarianism,kuadwuma gyedie
+11,agribusiness,kuadwuma aguadie
+12,agricultural aircraft,kuadwuma wimhyɛn
+13,agricultural cooperative,kuadwuma nkabom kuo
+14,agricultural cycle,kuadwuma mmerɛ nhyehyɛeɛ
+15,agricultural economics,kuadwuma sikasɛm
+16,agricultural engineering,kuadwuma mfidwuma
+17,agricultural extension,kuadwuma nkyerɛkyerɛ
+18,agricultural fencing,kuadwuma aban
+19,agricultural land,kuadwuma asase
+20,agricultural machinery,kuadwuma mfiri
+21,agricultural productivity,kuadwuma nsodeɛ
+22,agricultural recession,kuadwuma asehweɛ
+23,agricultural science,kuadwuma nimdeɛ
+24,agriculture,kuadwuma
+25,agriculturist,okuafoɔ
+26,agritourism,kuadwuma nsrahwɛ
+27,agrivoltaics,kuadwuma anyinam ahoɔden
+28,agrobiology,kuadwuma abɔdeɛ mu nimdeɛ
+29,agroecology,kuadwuma tebea ho nimdeɛ
+30,agroecosystem,kuadwuma tebea nhyehyɛeɛ
+31,agroforestry,kuadwuma ne kwaeɛ
+32,agrology,asase mu nimdeɛ
+33,agronomy,mfudeɛ ho nimdeɛ
+34,algaculture,nkyene yɛ
+35,animal engine,aboa mfiri
+36,animal feed,aboa aduane
+37,animal unit,aboa dodow
+38,animal-free agriculture,aboa nni kuadwuma
+39,apiculture,nwowa yɛ
+40,aquaculture,nsu mu mmoa yɛ
+41,aquaponics,nsu ne mpataa yɛ
+42,arable land,asase a wɔtumi dua
+43,arboricide,nnua kum aduro
+44,artificial daylight supplementation,awia hann nkabom
+45,artificial selection,nsa paw
+46,assarting,kwaeɛ yi
+47,backfat,akyi srade
+48,backgrounding,mmoa yɛneyɛ
+49,bale,ɛho akyekyere
+50,bale wrapper,ɛho akyekyere nkataho
+51,barbed wire,ntweaban hankare
+52,barn,mmoa dan
+53,barnyard,mmoa dan adiwo
+54,barrow,prako a wɔayi ne mma
+55,bearing acres,eka a ɛsow aba
+56,beef cattle,nantwi a wɔde yɛ nam
+57,beefalo,nantwi ne efuo mmoawa
+58,beekeeping,nwowa hwɛ
+59,biennial bearing,mfeɛ mmienu mu aba
+60,billy goat,paprɛko
+61,bin burn,aboa aduan hyeɛ
+62,biochar,abɔdeɛ bidie
+63,biodynamic agriculture,abɔdeɛ ahoɔden kuadwuma
+64,bioeffector,abɔdeɛ nsakraeɛ
+65,biofertilizer,abɔdeɛ asase ahoɔdennuro
+66,biofortification,abɔdeɛ ahoɔdennuro nkabom
+67,biofuel,abɔdeɛ fango
+68,bioinoculant,abɔdeɛ mmoawa de hyɛ
+69,biological farming,abɔdeɛ kuadwuma
+70,biosaline agriculture,nkyene kuadwuma
+71,biosolarization,owia so abɔdeɛ kum
+72,bioturbation,abɔdeɛ asase wosow
+73,blood meal,mogya aduane
+74,boar,prako
+75,bobby calf,nantwi ba ketewa
+76,boll,kotoku dabere
+77,bolting,ntɛm nhwiren
+78,bone meal,nnompe aduane
+79,border irrigation,ahye so nsu gugu
+80,bran,aburoo ho nwini
+81,branding,gyinaberɛ hyɛ
+82,branding iron,dadeɛ a wɔde hyɛ gyinaberɛ
+83,breadbasket,aduane bea
+84,broadacre,asase kɛseɛ
+85,broadcast seeding,aba pete
+86,broadfork,aforɔ kɛseɛ
+87,broiler,akokɔ a wɔde yɛ nam
+88,brood,akokɔ mma
+89,brooding,akokɔ mma hwɛ
+90,brown manure,mono sumina
+91,browsing,nhaban didi
+92,Bt crop,Bt mfudeɛ
+93,buck,aponkye anini
+94,bucking,ntweaban mu didi
+95,bull,nantwinini
+96,bullock,nantwi a wɔayi ne mma
+97,bumper crop,otwa pii
+98,bushel,busɛl susudua
+99,calf,nantwi ba
+100,calf hutch,nantwi ba dan ketewa
+101,calving,nantwi ba wo
+102,candling,nkesua mu hwɛ
+103,cane mill,asɛɛ yam fie
+104,capon,akokɔnini a wɔayi ne mma
+105,care farming,hwɛ kuadwuma
+106,carryover,nkaeɛ
+107,carton,kaatɔn
+108,cash crop,sika otwa
+109,castration,mma yi
+110,catalo,nantwi ne efuo mmoawa
+111,catch crop,ntɛm otwa
+112,cattle,anantwie
+113,cattle cycle,nantwi mmerɛ nhyehyɛeɛ
+114,cattle drive,nantwi ka kɔ
+115,cattle prod,nantwi kanea
+116,cattle station,nantwi fie
+117,cattleman,ɔnantwiyɛfoɔ
+118,cellular agriculture,nkwammoa kuadwuma
+119,cellulosic fiber,nnua ntoma
+120,census of agriculture,kuadwuma nkontaa
+121,center-pivot irrigation,mfimfini so nsu gugu
+122,cereal,aburoo
+123,certified seed,aba a wɔagye atom
+124,chaff,aburoo ho
+125,chemical fallow,aduro gua so
+126,chemigation,aduro ne nsu gugu
+127,chevon,aponkye nam
+128,chisel plough,funtum
+129,circle irrigation,ahinanan nsu gugu
+130,citriculture,ankaa dua
+131,cloche,ahwehwɛ nkataho
+132,cock,akokɔnini
+133,cockerel,akokɔnini kumaa
+134,cold frame,awɔ ahwehwɛ dan
+135,collective farming,nkabom kuadwuma
+136,colostrum,nufosuo a ɛdi kan
+137,colt,pɔnkɔ ba
+138,columbarium,mmorɔnoma dan
+139,combine harvester,otwa ne ntwaho mfiri
+140,companion planting,nkabom dua
+141,complete feed,aduane a ɛyɛ ma
+142,compost,nwira sumina
+143,compound feed,aduane a wɔaka bom
+144,condensery,nufosuo so yɛ fie
+145,conservation tillage,asase kora funtum
+146,container gardening,nkuku mu turo
+147,continuous harvest,daa otwa
+148,contour farming,bepɔ so kuadwuma
+149,contract farming,apam so kuadwuma
+150,conventional tillage,daa funtum
+151,coop,akokɔ dan
+152,co-op,nkabom kuo
+153,coppicing,nnua twa ma ɛnnya bio
+154,copse,nnua kumaa
+155,corn crib,aburo kora dan
+156,corporate farming,adwumakuo kuadwuma
+157,cotton gin,asaawa yi mfiri
+158,cow,nantwi bere
+159,cowbell,nantwi dawuro
+160,cow–calf operation,nantwi ne ne ba hwɛ
+161,cow-calf separation,nantwi ne ba mu te
+162,creamery,srade yɛ fie
+163,creep feeding,mma adidi
+164,crop,otwa
+165,crop insurance,otwa banbɔ
+166,crop mark,otwa gyinaberɛ
+167,crop residue,otwa nkaeɛ
+168,crop rotation,otwa nsakraeɛ
+169,crop water productivity,otwa nsu nsodeɛ
+170,crop weed,otwa mu wura
+171,cropdusting,otwa so aduro pete
+172,crop-lien system,otwa bɔ nhyehyɛeɛ
+173,cropping,otwa yɛ
+174,crutching,odwan ho nwi yi
+175,cryophilous crop,awɔ otwa
+176,cull,paw fi mu
+177,cultipacker,asase sosoɔ mfiri
+178,cultivar,dua ɔkyɛfa
+179,cultivation,dua
+180,cultural control,amammerɛ so hwɛ
+181,cultured meat,nkwammoa nam
+182,custom harvesting,pɛ so otwa
+183,dairy cattle,nufosuo nantwi
+184,dam,nsubura
+185,damping off,nsuo pii wu
+186,dead hedge,aban a awu
+187,dead stock,mmoa a wɔawu
+188,deadheading,nhwiren a awu yi
+189,deadweight,aboa duru a awu
+190,deblossoming,nhwiren yi
+191,defoliant,nhaban yi aduro
+192,deintensified farming,kuadwuma a wɔate so
+193,dessert crop,aduan pa otwa
+194,detasseling,aburoo ti yi
+195,dewatering,nsu yi
+196,dewattling,mene yi
+197,deworming,nsono yi
+198,diatomaceous earth,diatom asase
+199,dibber,tokuro yɛ adeɛ
+200,digeponics,fam mu mfudeɛ
+201,digital agriculture,dijitaal kuadwuma
+202,dipping,aboa de hyɛ aduro mu
+203,dockage,nneɛma bɔne yi
+204,docking,dua yi
+205,doddie,nantwi a ɔnni mmɛn
+206,doe,wansane bere
+207,dogie,nantwi ba a ɔnni maame
+208,domestication,fie aboa yɛ
+209,dovecote,mmorɔnoma dan
+210,draff,adeɛ a wɔanoa
+211,draft animal,aboa a ɔtwe
+212,drawbar,atwedeɛ
+213,drenching,aduro ma aboa nom
+214,dressed weight,aboa duru a wɔayi ne ho
+215,drinker,nsuo nom adeɛ
+216,drip irrigation,nsuo susu
+217,drop shed,aboa wo dan
+218,droving,mmoa ka kɔ
+219,dry cow,nantwi a ɔnnyɛ nufosuo
+220,dry milling,sukɔɔ yam
+221,dryland farming,asase a ɛnyɛ tɔɔ so kuadwuma
+222,dubbing,akokɔ ti aboa mu twa
+223,dynamic compaction,ahoɔden asase sosoɔ
+224,earlage,aburo mmofra
+225,earmark,aso so gyinaberɛ
+226,earthing up,asase de kata
+227,ecological farming,tebea kuadwuma
+228,ecology,tebea ho nimdeɛ
+229,economic maturity,sika so nyin
+230,edaphology,asase su ho nimdeɛ
+231,edge effects,ano nsunsuansoɔ
+232,effective precipitation,osutɔ a ɛboa
+233,emblements,otwa a ɛda so
+234,energy crop,ahoɔden otwa
+235,ensilaging,aduane kora wɔ dan mu
+236,entire,aboa a wɔnnyii ne mma
+237,ewe,odwan bere
+238,exclosure,ban a wɔato
+239,extensive agriculture,kuadwuma a ɛtrɛ
+240,factory farming,fektri kuadwuma
+241,fallow,asase a wɔagua so
+242,fallow crop,gua so otwa
+243,family farm,abusua kuafuo
+244,farm,kuafuo
+245,farm assurance,kuafuo banbɔ
+246,farm crisis,kuafuo ɔhaw
+247,farm gate value,kuafuo ɛpono so boɔ
+248,farm stand,kuafuo tɔn bea
+249,farm water,kuafuo nsu
+250,farmer,okuafoɔ
+251,farmers' co-op,akuafoɔ nkabom kuo
+252,farmers' market,akuafoɔ gua
+253,farming,kuadwuma
+254,farmland,kuadwuma asase
+255,farmstead,kuafuo fie
+256,farm-to-table,kuafuo kɔ pon so
+257,farrow,prako mma wo
+258,farrowing,prako mma awo
+259,fatling,aboa a wɔama asrade
+260,fatstock,mmoa a wɔama asrade
+261,fattening,srade ma
+262,feather meal,ntakra aduane
+263,fed cattle,anantwie a wɔama wɔn aduane
+264,feed,aduane ma
+265,feed grain,aburoo a wɔde ma mmoa
+266,feedlot,mmoa adidibea
+267,fencerow,aban ho
+268,fertigation,ahoɔdennuro ne nsu gugu
+269,fertilizer,ahoɔdennuro
+270,fiber crop,ntoma otwa
+271,field,afuo
+272,field crop,afuo otwa
+273,field day,afuo da
+274,filly,pɔnkɔ ba bere
+275,filter strip,nsusue ntadeɛ
+276,finishing,aboa awie yɛ
+277,fire farming,ogya kuadwuma
+278,fired,wɔato ogya
+279,fish emulsion,mpataa nsu ahoɔdennuro
+280,fish farming,mpataa yɛ
+281,fixing,siesie
+282,flat planting,dada so dua
+283,flood irrigation,osutɔ gugu
+284,fleece,odwan ho nwi
+285,flock,odwan kuo
+286,floriculture,nhwiren yɛ
+287,flushing,mmoa ma aduane pa
+288,foal,pɔnkɔ ba
+289,foaling,pɔnkɔ ba wo
+290,fodder,mmoa aduane
+291,food security,aduane ahobammɔ
+292,food systems,aduane nhyehyɛeɛ
+293,foodscaping,aduane turo
+294,foodshed,aduane bea
+295,food-feed system,aduane ne mmoa aduane nhyehyɛeɛ
+296,foliar feeding,nhaban so aduane
+297,forage,mmoa aduane hwehwɛ
+298,forcing,hyɛ ma enyin ntɛm
+299,forest farming,kwaeɛ kuadwuma
+300,founder,anan mu yareɛ
+301,free range,mpɔtam hɔ nantew
+302,freemartin,nantwi ba bere a ɔnwo
+303,freshening,nufosuo firi aseɛ
+304,frost control,awɔkyeneeɛ si ano
+305,fruticulture,nnuaba yɛ
+306,fryer,akokɔ a wɔde kyekyere
+307,fuelwood,nnua a wɔde so ogya
+308,fungiculture,mmire yɛ
+309,fur farming,nwi mmoa yɛ
+310,furrow irrigation,tokuro mu nsu gugu
+311,garden,turo
+312,gardening,turo yɛ
+313,gelding,pɔnkɔ a wɔayi ne mma
+314,germination,aba fifiri
+315,gestation crate,aboa nyanso dan
+316,gilt,prako bere a ɔnwoo
+317,ginning,asaawa yi
+318,glasshouse,ahwehwɛ dan
+319,gleaning,otwa akyi aboa
+320,glyphosate,glyphosate aduro
+321,goad,mmoa kanea
+322,gobbler,kɔkɔte
+323,grain,aburoo
+324,grain drying,aburoo hye
+325,grain elevator,aburoo mma ɛso
+326,grain leg,aburoo ɔkwan
+327,granary,aburoo kora dan
+328,grass-fed,ɛserɛ a wɔde yɛnee
+329,grazier,ɔnantwiyɛfoɔ
+330,grazing,ɛserɛ didi
+331,grease wool,srade odwan ho nwi
+332,green chop,mono twa
+333,green manure,mono ahoɔdennuro
+334,Green Revolution,mono nsakraeɛ
+335,greenhouse,ahwehwɛ dan
+336,grelinette,aforɔ kɛseɛ
+337,grist,aburoo a wɔayam
+338,gristmill,aburoo yam fie
+339,groundcover,fam kata
+340,growing season,dua bere
+341,hake bar,hake dua
+342,hardpan,asase den
+343,harrow,asase boboɔ mfiri
+344,harvest,otwa
+345,harvest index,otwa akontaa
+346,harvested acres,eka a wɔatwa
+347,harvesting,otwa yɛ
+348,hay,ɛserɛ a wɔahye
+349,hay bucking,ɛserɛ kyekyere
+350,hay fever,ɛserɛ yareɛ
+351,hay knife,ɛserɛ sekan
+352,hay rake,ɛserɛ boaboa
+353,hay steaming,ɛserɛ nsu a ɛyɛ hyeɛ
+354,haycock,ɛserɛ boaboa
+355,haylage,ɛserɛ a wɔakora
+356,hayloft,ɛserɛ kora soro
+357,hayrack,ɛserɛ didiadeɛ
+358,hayseed,ɛserɛ aba
+359,haystack,ɛserɛ boaboa kɛseɛ
+360,headland,afuo ano asase
+361,headrace,nsu ɔkwan
+362,heifer,nantwi ba bere a ɔnwoo
+363,hefting,odwan bea
+364,heirloom,awo ntoatoaso
+365,heliciculture,nwa yɛ
+366,hemerochory,nnipa aba pete
+367,hen,akokɔ bere
+368,herbicide,wura kum aduro
+369,herbicide resistance,wura kum aduro nnyɛ hwee
+370,herding,mmoa hwɛ
+371,hide,aboa ho were
+372,high tunnel,soro ahwehwɛ dan
+373,hill farming,bepɔ kuadwuma
+374,hilling,bepɔ ketewa yɛ
+375,hinny,pɔnkɔ ne afunumu mmoawa
+376,hobby farm,anigyedeɛ kuafuo
+377,hoe,asɔ
+378,hog,prako
+379,hog off,prako didi
+380,hogget,odwan a wadi afe
+381,home-grown,fie mu dua
+382,honey plant,nwoɔ afifideɛ
+383,honey wagon,sumina teaseɛnam
+384,hoophouse,ahwehwɛ dan ketewa
+385,hop kiln,hop hye dan
+386,horticulture,turo yɛ
+387,hot dressed carcass weight,ɔhyeɛ aboa duru
+388,hotbed,ɔhyeɛ afuo
+389,hothouse,ɔhyeɛ dan
+390,humus,asase pa
+391,husbandry,mmoa hwɛ
+392,hybrid,mmoawa
+393,hybrid vigor,mmoawa ahoɔden
+394,hydroponics,nsu mu mfudeɛ
+395,idle land,asase a wɔmfa nyɛ hwee
+396,incubator,nkesua fifiri mfiri
+397,indicator species,nkyerɛkyerɛ adeɛ
+398,industrial agriculture,dwumadie kuadwuma
+399,industrial crop,dwumadie otwa
+400,input,nneɛma a wɔde hyɛ mu
+401,insecticide,mmoawa kum aduro
+402,intact,aboa a wɔnnyii ne mma
+403,intensive agriculture,kuadwuma a emu yɛ den
+404,intensive animal farming,mmoa yɛ a emu yɛ den
+405,intercropping,mfudeɛ ka bom dua
+406,irrigation,nsu gugu
+407,jack,afunumu anini
+408,jenny,afunumu bere
+409,kernel,aburoo mu adeɛ
+410,kid,aponkye ba
+411,kidding,aponkye ba wo
+412,lamb,odwan ba
+413,lairage,mmoa dan
+414,lambing,odwan ba wo
+415,land improvement,asase tu mpɔn
+416,landrace,asase su mfudeɛ
+417,lard,prako srade
+418,layer,nkesua to akokɔ
+419,leaching,nsu so twe
+420,liming,kalɛki de gu
+421,linear aeration,atɛtrɛmu mframa
+422,lint,asaawa ntoma
+423,liquid manure,sumina a ɛyɛ nsu
+424,livestock,mmoa
+425,liveweight,aboa duru a ɔte ase
+426,living mulch,afifideɛ fam kata
+427,lodging,afifideɛ hwe
+428,lumber,nnua a wɔatwa
+429,lynchet,bepɔ so afuo
+430,magnanery,abuburo yɛ dan
+431,malt,aburoo a wɔama anɔ
+432,malt house,malt yɛ dan
+433,manger,aboa adidibea
+434,manure,sumina
+435,manure spreader,sumina pete mfiri
+436,marc,aba a wɔahye
+437,mare,pɔnkɔ bere
+438,mariculture,po mu mmoa yɛ
+439,mash,aduane a wɔayam
+440,mast,nnua aba
+441,maternity pen,aboa awo dan
+442,matron,aboa bere
+443,maverick,nantwi a ɔnni wura
+444,meadow,ɛserɛ bea
+445,mechanized agriculture,mfiri kuadwuma
+446,merchantable volume,tɔn dodow
+447,microbial inoculant,mmoawa nketenkete de hyɛ
+448,micro-irrigation,nsu gugu ketewa
+449,middlings,aburoo mu nneɛma
+450,milk,nufosuo
+451,milk cow,nufosuo nantwi
+452,milking,nufosuo twe
+453,milking parlor,nufosuo twe bea
+454,milkshed,nufosuo bea
+455,mill,yam fie
+456,milling,yam
+457,millrace,yam fie nsu ɔkwan
+458,minimum tillage,funtum kakra
+459,minor crop,otwa ketewa
+460,miticide,nkramamoadi kum aduro
+461,mixed farming,kuadwuma a wɔaka bom
+462,monocropping,otwa baako dua
+463,monoculture,mfudeɛ baako dua
+464,mote,aburoo bɔne
+465,mouldboard,asase dan
+466,mouthing,ano mu hwɛ
+467,mulch,fam kata
+468,mule,pɔnkɔ ne afunumu mmoawa
+469,muley,nantwi a ɔnni mmɛn
+470,multigerm seed,aba pii
+471,multiple cropping,otwa pii dua
+472,mustering,mmoa boaboa
+473,mutton,odwan nam
+474,nanny goat,paprɛ bere
+475,naps,ntoma so nwi
+476,neps,ntoma mu bɔne
+477,net farm income,kuafuo sika a wɔanya
+478,neutering,mma yi
+479,non-program crop,otwa a ɛnni nhyehyɛeɛ
+480,northern vigor,atifi fam ahoɔden
+481,no-till farming,funtum nni kuadwuma
+482,noxious weed,wura a ɛyɛ bɔne
+483,NPK,ahoɔdennuro ahodoɔ baasa
+484,nurse cow,nantwi a ɔhwɛ mma
+485,nurse crop,otwa a ɔhwɛ foforɔ
+486,nursery,afifideɛ yɛ bea
+487,nutrient pollution,ahoɔdennuro fi
+488,oast,hop hye dan
+489,off-farm stocks,kuafuo akyi nneɛma
+490,oilseed crop,ngo aba otwa
+491,olericulture,atosodeɛ yɛ
+492,once grown seed,aba a wɔadua prɛko pɛ
+493,once-over tillage,funtum prɛko pɛ
+494,on-farm stocks,kuafuo so nneɛma
+495,on-the-hoof,aboa a ɔte ase
+496,open,wɔabue
+497,open range,mpɔtam a wɔabue
+498,orchard,nnuaba turo
+499,orchardry,nnuaba turo yɛ
+500,organic farming,abɔdeɛ kuadwuma
+501,organic fertilizer,abɔdeɛ ahoɔdennuro
+502,orthodox seed,aba a ɛyɛ daa
+503,outbuilding,abɔnten dan
+504,outfarm,kuafuo akyi
+505,out-wintering,awɔ bere wɔ abɔnten
+506,overcropping,otwa pii dodo
+507,ox,nantwi a wɔde yɛ adwuma
+508,packinghouse,nneɛma pɛɛkyɛ dan
+509,paddy farming,ɛmo kuadwuma
+510,paddy field,ɛmo afuo
+511,pannage,kwaeɛ mu mmoa adidi
+512,pasteurization,nufosuo hye
+513,pastoral farming,mmoa hwɛ kuadwuma
+514,pastoralism,mmoa hwɛ
+515,pasture,mmoa adidibea
+516,pastureland,mmoa adidi asase
+517,pegging,dua de bɔ
+518,pellet mill,pellet yɛ mfiri
+519,perishable,ɛsɛe ntɛm
+520,perlite,aboɔ mu adeɛ
+521,permaculture,daa kuadwuma
+522,permanent crop,daa otwa
+523,pesticide,mmoawa kum aduro
+524,pesticide refuge,mmoawa kum aduro guabea
+525,pharming,aduro kuadwuma
+526,pig,prako
+527,piglet,prako ba
+528,pigsty,prako dan
+529,pineapple pit,borɔdɔma tokuro
+530,pinery,nnua turo
+531,pioneer crop,otwa a ɛdi kan
+532,pisciculture,mpataa yɛ
+533,pitchfork,aforɔ
+534,plant breeding,afifideɛ yɛ
+535,plantation,dua kɛseɛ
+536,plashing,aban yɛ
+537,plastic mulch,palastiki fam kata
+538,plasticulture,palastiki kuadwuma
+539,pleaching,nnua boboɔ
+540,plough,funtum
+541,plough pan,funtum asase den
+542,plough planting,funtum dua
+543,ploughing,funtum yɛ
+544,ploughshare,funtum ano
+545,plug,afifideɛ ketewa
+546,plunge dip,de hyɛ aduro mu
+547,poddy,nantwi ba a wɔde nufosuo ma
+548,pollarding,nnua ti twa
+549,polled,mmoa a ɔnni mmɛn
+550,pollen drift,mpɔtɔ tu kɔ
+551,polyculture,mfudeɛ ahodoɔ pii dua
+552,polytunnel,palastiki ahwehwɛ dan
+553,pomology,nnuaba ho nimdeɛ
+554,ponding,nsu gyina
+555,pork,prako nam
+556,postemergent,efifiri akyi
+557,postharvest,otwa akyi
+558,postharvest losses,otwa akyi hwere
+559,poult,kɔkɔ ba
+560,poultry,nnomaa
+561,poundage quota,duru akontaa
+562,precision seeding,pɛpɛɛpɛ aba dua
+563,precleaning,kane ho yi
+564,preemergent,efifiri ansa
+565,preharvest,otwa ansa
+566,prices paid index,ka a wɔatua akontaa
+567,prices received index,sika a wɔanya akontaa
+568,prilled,nkuruwa nketenkete
+569,primary tillage,funtum a ɛdi kan
+570,priming,aba siesie
+571,prod,kanea
+572,produce,nnɔbaeɛ
+573,profit crop,mfasoɔ otwa
+574,program crop,nhyehyɛeɛ otwa
+575,protein crop,protein otwa
+576,provender,mmoa aduane
+577,pruning,nnua twa
+578,pseudocereal,aburoo sɛso
+579,puddling,asase yɛ dɔte
+580,pullet,akokɔ bere kumaa
+581,pulpwood,pɛpa nnua
+582,push–pull technology,twe-pia mfiridwuma
+583,quern-stone,aburoo yam ɛboɔ
+584,rafter,dan soro dua
+585,rainfed field,osutɔ afuo
+586,raised-bed gardening,mpoano turo
+587,ram,odwan anini
+588,ramification,mman pii
+589,ranch,mmoa fie kɛseɛ
+590,rancher,ɔmmoa hwɛfoɔ
+591,ranching,mmoa hwɛ kɛseɛ
+592,rangeland,mmoa adidi asase kɛseɛ
+593,ratooning,ntin fifiri bio
+594,reaping,otwa
+595,recalcitrant seed,aba a ɛhye ntɛm
+596,registered livestock,mmoa a wɔakyerɛw wɔn din
+597,registered seed,aba a wɔakyerɛw wɔn din
+598,relay cropping,ntoatoaso otwa
+599,remainder,nkaeɛ
+600,rendering,srade yɛ
+601,residue,nkaeɛ
+602,residue-to-product ratio,nkaeɛ ne nnɔbaeɛ bu
+603,ribbon farm,kuafuo tiatia
+604,riddle,pampaa
+605,ridge-till,bepɔ ketewa funtum
+606,ridging,bepɔ ketewa yɛ
+607,ripper,asase paapae mfiri
+608,roaster,akokɔ a wɔde toto
+609,roguing,afifideɛ bɔne yi
+610,roller,asase sosoɔ mfiri
+611,rooster,akokɔnini
+612,root crop,nhini otwa
+613,root pruning,nhini twa
+614,root zone,nhini bea
+615,rotation crop,nsakraeɛ otwa
+616,rotational grazing,nsakraeɛ didi
+617,roughage,aduane a ɛyɛ den
+618,row cover,nkyekyɛmu kata
+619,row crop,nkyekyɛmu otwa
+620,runholder,asase a wɔde ma mmoa didi wura
+621,ruralism,akuraa asetra
+622,scalping,nhaban twa
+623,scarify,aba ho paapae
+624,scion,dua mman a wɔde bata
+625,scythe,ɛserɛ twa sekan
+626,season extension,bere trɛ
+627,second,nea ɛtɔ so mmienu
+628,secondary tillage,funtum a ɛtɔ so mmienu
+629,seed cotton,asaawa aba
+630,seed crop,aba otwa
+631,seed dressing,aba ho siesie
+632,seed drill,aba dua mfiri
+633,seed enhancement,aba tu mpɔn
+634,seedbed,aba dua bea
+635,seeding,aba dua
+636,seedling,afifideɛ ketewa
+637,seedlot,aba kuo
+638,sericulture,abuburo yɛ
+639,set,de si
+640,setting,de si
+641,shade house,nwunu dan
+642,share,kyɛfa
+643,sharecropping,kyɛfa kuadwuma
+644,sharefarming,kyɛfa kuadwuma
+645,shattering,apae
+646,sheaf,ɛserɛ akyekyere
+647,shearing,odwan ho nwi yi
+648,shearing shed,odwan ho nwi yi dan
+649,shearling,odwan a wɔayi ne ho nwi prɛko pɛ
+650,sheep dip,odwan de hyɛ aduro mu
+651,sheep station,odwan fie
+652,sheet mulching,ntadeɛ fam kata
+653,shelterbelt,nwunu nnua
+654,shifting cultivation,asase nsakraeɛ kuadwuma
+655,shoat,prako ba
+656,shock,ɛserɛ boaboa
+657,shrinkage,tesɛ
+658,sickle,sekan ketewa
+659,sickle feather,ntakra a ɛkyea
+660,side dressing,nkyɛn so ahoɔdennuro
+661,silage,aduane a wɔakora
+662,silo,aduane kora dan kɛseɛ
+663,silviculture,kwaeɛ yɛ
+664,sire,aboa anini
+665,slash-and-burn,twa hyehye
+666,slash-and-char,twa yɛ bidie
+667,slaughter,aboa kum
+668,slaughter weight,aboa duru a wɔkum
+669,slaughterhouse,mmoa kum fie
+670,sled row,nkyekyɛmu a wɔatwe
+671,slip,dua ketewa
+672,slurry,sumina nsu
+673,slurry pit,sumina nsu tokuro
+674,smallholding,kuafuo ketewa
+675,smother crop,otwa a ɛkata
+676,smudge pot,wisie kora
+677,soil amendment,asase tu mpɔn
+678,soil compaction,asase den
+679,soil inoculant,asase mmoawa de hyɛ
+680,soil science,asase ho nimdeɛ
+681,soil solarization,owia so asase kum
+682,southwest injury,atɔeɛ fam pirapira
+683,sow,prako bere
+684,sow stall,prako bere dan
+685,sowing,aba dua
+686,spaying,mmoa bere mma yi
+687,spoilage,adeɛ sɛe
+688,sprigging,mman ketewa dua
+689,springer,nantwi a ɔrebɛwo
+690,sprinkler irrigation,nsuo pete gugu
+691,sprout damage,fifiri ɔsɛeɛ
+692,stable,mmoa dan
+693,stag,aboa anini a wɔayi ne mma
+694,staking,dua si
+695,stallion,pɔnkɔ anini
+696,staple fiber,ntoma titire
+697,staple food,aduane titire
+698,station,mmoa fie
+699,steer,nantwi a wɔayi ne mma
+700,stocker,aboa a wɔrehwɛ
+701,stockgrower,ɔmmoa yɛfoɔ
+702,stockyard,mmoa dan adiwo
+703,stook,ɛserɛ boaboa
+704,storage clamp,akorabea
+705,stover,mfudeɛ nkaeɛ
+706,stratification,aba nhyehyɛeɛ
+707,straw,aburoo dua
+708,strip cropping,nkyekyɛmu tiatia otwa
+709,stubble,otwa akyi nkaeɛ
+710,stubble-mulching,otwa akyi nkaeɛ fam kata
+711,stud,aboa anini a wɔde wo
+712,stumage,nnua a wɔatwa boɔ
+713,sty,prako dan
+714,subirrigation,ase nsu gugu
+715,subsistence agriculture,asetena kuadwuma
+716,subsoiler,ase funtum
+717,succession planting,ntoatoaso dua
+718,suckle,nufo
+719,suckling,nufo
+720,sugar bush,asikyire afifideɛ
+721,summer fallow,ahuhuro gua
+722,summer range,ahuhuro mmoa adidibea
+723,sun-cured,owia so hye
+724,sunscald,owia hye
+725,super seeder,aba dua mfiri pa
+726,support price,mmoa boɔ
+727,sustainable agriculture,kuadwuma a ɛkɔ so
+728,swampbusting,ɔwora paapae
+729,swathe,ɛserɛ twa
+730,swather,ɛserɛ twa mfiri
+731,sweetening,dɛ ma
+732,swill,prako aduane nsu
+733,swine,mprako
+734,tagging,gyinaberɛ de bɔ
+735,tailing,dua nkaeɛ
+736,tailrace,nsu ɔkwan a ɛyɛ ano
+737,tailwater,nsu a aka
+738,tallow,mmoa srade
+739,tame hay,ɛserɛ a wɔadua
+740,tankage,mmoa aduane a wɔayam
+741,tapping,nsu yi
+742,teart,asase a emu yɛ bɔne
+743,tedder,ɛserɛ pete mfiri
+744,tedding,ɛserɛ pete
+745,tempering,adeɛ ma ɛnyɛ den
+746,tenant farmer,okuafoɔ a ɔtua ka
+747,tensiometer,asase nsu susudua
+748,terrace,bepɔ so afuo
+749,threshing,aburoo po
+750,threshing floor,aburoo po bea
+751,threshing machine,aburoo po mfiri
+752,threshing stone,aburoo po ɛboɔ
+753,tillage,funtum
+754,tiller,mman fifiri
+755,tilth,asase a wɔasiesie
+756,timber,nnua
+757,tobacco ban,tawa hye dan
+758,tom,kɔkɔ anini
+759,top dressing,soro ahoɔdennuro
+760,topographical tetrazolium test,asase su nhwehwɛmu
+761,topping,soro twa
+762,topsoil,asase soro
+763,towbar,atwedeɛ
+764,tractor,terekta
+765,transhumance,bere mu mmoa tu
+766,transplanter,afifideɛ tu mfiri
+767,transplanting,afifideɛ tu
+768,trap crop,mmoawa twetwe otwa
+769,tree farm,nnua kuafuo
+770,tree wrapping,nnua ho nkataho
+771,trellis,mman mmoa adeɛ
+772,trench silo,tokuro kora dan
+773,trickle irrigation,nsu susu gugu
+774,trough,mmoa nsuo nom bea
+775,truck farm,atosodeɛ kuafuo
+776,turnrow,dan bea
+777,twibill,mfiri mmienu
+778,U-fork,U aforɔ
+779,U-Pick,wo ankasa paw
+780,udder,nufo
+781,urban agriculture,kuro kuadwuma
+782,vapor drift,ahuru tu kɔ
+783,Vavilovian mimicry,Vavilov sɛso
+784,veal,nantwi ba nam
+785,vealer,nantwi ba a wɔde yɛ nam
+786,veganic farming,afifideɛ kuadwuma
+787,vermicompost,nsono sumina
+788,vermiculite,aboɔ mu adeɛ
+789,vermiculture,nsono yɛ
+790,vermiponics,nsono ne nsu mfudeɛ
+791,vernalization,awɔ nhwiren mmoa
+792,vertical farming,soro kuadwuma
+793,vineyard,bobesa turo
+794,virtual water,nsu a wɔde yɛ
+795,viticulture,bobesa dua
+796,volunteer,afifideɛ a efifiri ankasa
+797,walking tractor,terekta a wɔnante
+798,warm-up ration,ɔhyeɛ aduane
+799,water rights,nsu ho hokwan
+800,water wheel,nsu afidie
+801,waterlogging,nsuo pii gyina
+802,water-meadow,ɛserɛ bea a nsu wɔ
+803,watermill,nsu yam fie
+804,water-wheel irrigation,nsu afidie gugu
+805,weaning,nufo gyae
+806,weanling,aboa ba a wɔagyae nufo
+807,weed,wura
+808,weed control,wura si ano
+809,weed of cultivation,kuadwuma wura
+810,weeder,wura yi mfiri
+811,weeding,wura yi
+812,wether,odwan a wɔayi ne mma
+813,wet-milling,nsu yam
+814,wigging,ntakra yi
+815,wild hay,ɛserɛ a efifiri ankasa
+816,wildcrafting,kwaeɛ mmoa aboa
+817,wildling,afifideɛ a efifiri ankasa
+818,wilting point,afifideɛ wu bere
+819,windbreak,mframa si ano
+820,windmill,mframa yam fie
+821,windrow,ɛserɛ nkyekyɛmu
+822,windrower,ɛserɛ nkyekyɛmu mfiri
+823,windsnap,mframa bu
+824,windthrow,mframa hwe
+825,winnowing,aburoo hu
+826,winter range,awɔ mmoa adidibea
+827,wool,odwan ho nwi
+828,wool alien,odwan ho nwi bɔne
+829,woolshed,odwan ho nwi dan
+830,worming,nsono yi
+831,xeriscaping,nsuo kakra turo
+832,yean,aponkye ba wo
+833,yeanling,aponkye ba
+834,yearling,aboa a wadi afe
+835,yield,nnɔbaeɛ
+836,yield mapping,nnɔbaeɛ mɛp
