@@ -1,446 +1,2277 @@
-english_word,twi_word,part_of_speech
-,Eno,Definite article/Pronoun/Adjective/Conjunction/adverb
-Adjective.,Edin Nkyerekyeremu,noun
-Adverb.,Okyerefuo,noun
-Advertise.,Dawuro,noun.
-Africa/Black Nation.,Abibiman,noun
-Africans/Black people.,Abibifuo,noun
-Age.,Mfee,noun
-Albino.,Ofiri,noun
-All.,Nyinaa,"Adjective, noun"
-Alphabet/Writing.,Ntweredee,noun
-Alright/Okay.,Enee,adverb
-And.,Na,conjunction (for connecting clauses and sentences)
-Anger.,Abufuo,verb
-April.,Oforisuo,noun
-April.,Ebobira,noun
-Area.,Beaee,noun
-Argument.,Akyinnye,noun
-Argument/Dispute.,Ntawantawa,noun
-Argument/Squabble/Row.,Twemamentwe,noun
-Arrest/Seize/Capture.,KyE,verb
-Artificial intelligence.,Nipa adeye nyansa,noun
-Artificial.,Dee efiri nipa,adjective
-Ask/Consult/Request.,Bisa,verb
-Attorney.,Kwaadubofuo,noun
-August.,Dzifuu,noun
-August.,Osanaa,noun
-Bag.,Boto,noun
-Banana.,Kwadu,noun
-Base.,Nnyinasuo,noun
-Be (am/is/are/was/were/been); Act.,Ye,verb
-Be (am/is/are/was/were/been); Act.,Ye,verb
-Be (am/is/are/was/were/been); Act.,Ye,verb
-Bed.,Mpa,noun
-Beetle.,Obankuo,noun
-Bend/Flex.,Koa,verb
-Big/Fat/Great/Large/Loud.,Kese,
-Birth.,Wo,
-Birth.,Wo,
-Black.,Tuntum,adjective/noun
-Blush/Shy.,Fere,Verb/Adjective
-Boyfriend/Girlfriend.,Mpena,noun
-Boyfriend/Girlfriend.,Mpena,noun
-Breathe/Rest.,Home,verb
-Bucket.,Bokiti,noun
-Burn.,HyE,verb
-Burn.,HyE,verb
-Butterfly.,Afofanto,noun
-Calabash.,Kora,noun
-Car/Vehicle.,Ehyen,noun
-Carpenter.,Dwomfuo,noun
-Carry.,Soa,verb
-Cassava.,Bankye,noun
-Cat.,Agyinamoa,
-Cat.,Agyinamoa,
-Cattle.,Nantwie,
-Caucasian.,Broni,noun
-Chair.,akonnwa,noun
-Chest.,Kokuo,
-Chest.,Kokuo,
-Chew/Lose.,We,
-Chicken/Cock/Hen.,Akoko,noun
-Chief or King.,Ohene,noun
-Chief or King.,Ohene,noun
-Child/Baby.,Abofra,noun
-Child/Baby.,Abofra,noun
-Chimpanzee.,Kontromfi,noun
-Cholesterol.,Sradee,
-Christmas.,Buronya,noun
-Cigarette.,Taa,noun
-Citizen.,Omanba,noun
-Clap.,Nsambo,
-Coconut.,Kube,
-Colour/Color.,Ahosuo,noun
-Complicated.,Wonworan,Adjective
-Complicated.,Wonworan,Adjective
-Computer programming.,Nkonta afidie nhyehyeee,noun
-Computer.,Nkonta afidie,noun
-Copper.,Kobere,noun
-Council.,Agyina,noun
-Counsel.,Afotuo,noun
-Courage.,Akokuoduro,
-Cripple.,Obubuafuo,noun
-Curse.,Duabo,noun
-Darkness/Gloom.,Esum,noun
-Death.,Owuo,noun
-December.,Mumu,noun
-December.,Openimma,noun
-Determination/Serious.,Anibere,noun
-Dew,Bo,noun
-Dew,Bo,noun
-Die.,Wu,verb
-Division/Verse/Section.,Nkyekyemu,noun.
-Do you understand what I am saying.,Te asee,verb
-Doctor/Physician.,Oyaresafuo,
-Dog.,Okraman,noun
-Door.,Epono,noun
-Download.,Twe,verb
-Dry.,Hata,verb
-Eczema.,Ekoro,noun
-Eight/8.,Nwotwe,number
-Elephant.,Osono,noun
-End/Ultimate.,Awiei,noun
-Enema.,Asa,noun
-Enema.,Asa,noun
-Equal.,Koro,adjective
-Evacuate/Fly.,Tu,verb
-Evacuate/Fly.,Tu,verb
-Evacuate/Fly.,Tu,verb
-Evacuate/Fly.,Tu,verb
-Evacuate/Fly.,Tu,verb
-Eye.,Ani,noun
-Fabric/Textile.,Etam,
-Fabric/Textile.,Etam,
-Face.,Anim,noun
-Farewell.,Dote yie,noun
-Fart/Flatulence.,Eta,noun
-Father.,Agya,noun
-Father.,Papa,noun
-February.,Ogyefuo,noun
-February.,Kwakwar,noun
-Feces.,Ebeni,noun
-Fetus.,Mogyatoa,noun
-Fiction.,Anansesem,noun
-Fight.,ko,verb
-Fire ants.,Nkran,noun
-Fire.,Ogya,noun
-Fist.,Kuturuku,noun
-Five/5.,Enum,number
-Food.,Aduane,
-Fool.,Kwasea,
-Fool.,Kwasea,
-Force.,Nhye,noun
-Forgetfulness.,Awerefire,noun
-Forgive.,Fakye,verb
-Fornication.,Adwaman,noun
-Four/4.,Enan,number
-Freedom.,Fawohodie,
-Friday.,Fiada,
-From/To from/Go away from.,Firi,
-Fuck.,Di,
-Fuck.,Di,
-Full.,Ma,ADJECTIVE
-Fungus.,Apotobibire,noun
-Gamble.,Kyakya,verb
-Game/Play.,Agoro,verb
-Get/Achieve.,Nya,verb
-Girl/Female/Woman.,Obaa,
-God/Supreme Being.,Nyame,noun
-Good Morning.,Maakye,noun
-Good afternoon.,Maaha,noun
-Good evening.,Maadwo,noun
-Goodbye.,Nante yie,noun
-Gravity.,Asaseduru,noun
-Greed/Selfishness.,Pesemenkomenya,noun
-Greed/Selfishness.,Pesemenkomenya,noun
-Greet.,Kyea,verb
-Grill.,Ho,verb
-Grill.,Ho,verb
-Grill.,Ho,verb
-Grow.,Nyini,verb
-Grow.,Nyini,verb
-Half.,Fa,Number (nasal)
-Half.,Fa,Number (nasal)
-Half.,Fa,Number (nasal)
-Half.,Fa,Number (nasal)
-Hand.,Nsa,noun
-Happiness/Joy.,Anigye,noun
-Happy New Year/Happy anniversary.,Afehyiapa,noun
-Harlot/Prostitute.,Odwamanfuo,noun
-Have.,Wo,verb
-Headache.,Tipaee,noun
-Hello/How are you?,Wo ho te sen,Phrase.
-Hello/How are you?,Wo ho te sen,Phrase.
-Hello/How are you?,Wo ho te sen,Phrase.
-Hiccup.,Kotereko,noun
-Hide.,Te,verb
-Hide.,Te,verb
-Hill/Mountain.,Bepo,noun
-Hill/Mountain.,Bepo,noun
-Hold.,Kita,
-Holy.,Kronkron,Adjective
-Horse.,Ponko,noun
-How much is this?,Wei,Pronoun/Adjective
-How much is this?,Wei,Pronoun/Adjective
-How much is this?,Wei,Pronoun/Adjective
-Hunger.,Ekom,noun
-Husband.,Kunu,noun
-I come from.,mefiri,noun
-I don’t like it.,Mempe,noun
-I feel lazy.,Akwadworo,adjective
-I have lost my way.,Yera,verb
-I know you are home.,Nim,verb
-Income/Wage/Salary.,Akatua,noun
-Inhibit.,Si kwan,verb
-Insane person/Lunatic.,Obodamfuo,noun
-It is daybreak.,Ade akye,idiom
-It is nighttime.,Ade asa,noun
-January.,Sanda,noun
-January.,Opepon,
-Judge.,Otenmuafuo,noun
-Judge.,Otenmuafuo,noun
-Judgement.,Atemmuo,noun
-July.,Ayewoho,noun
-July.,Kitawonsa,noun
-June.,Ayewohomumu,noun
-June.,Obiradzi,noun
-Justice.,Atentenenee,noun
-Kerosene.,Kresin,noun
-Kidney,Sawa,noun
-Knife.,Sekan,noun
-Knowledge.,Nimdee,noun
-Kumasi/Capital of Ashanti Region.,Kumasi,noun
-Landlord.,Efiewura,noun
-Later.,Akyire yi,adverb
-Laugh.,Sere,verb
-Lawyer.,Mmaranimfuo,noun
-Let us live with love and understand.,Odo,verb
-Lion.,Gyata,noun
-Lose in competition.,Di nkoguo,
-Lose.,Hwere,
-Lunch.,Awia aduane,noun
-Lust.,Akonno bone,noun
-Machine learning.,Afidie nwomasua,noun
-Male/Boy/Man.,Barima,noun
-Male/Boy/Man.,Barima,noun
-March.,Ebow,noun
-March.,Obenem,noun
-Marijuana.,Tampe,noun
-May.,Esusow,noun
-May.,Kotonimma,noun
-Me/I.,me,
-Me/I.,me,
-Me/I.,me,
-Measurement.,Nsusuie,
-Meet.,Hyia,verb
-Menstruation,Bra,noun
-Menstruation.,Afikyireko,noun
-Menstruation.,Afikyireko,noun
-Menstruation.,Afikyireko,noun
-Menstruation.,Afikyireko,noun
-Message.,Nkra,noun
-Microphone.,Okasamu,noun
-Mighty/His or Her Majesty.,Otumfuo,noun
-Miss/Ms/Mistress.,Awuraa,noun
-Mobile phone.,Akasabonten,noun
-Modern.,Abeefo,noun
-Momentum.,Anoden,noun
-Monday.,Edwoada,noun
-Money/Gold.,Sika,noun.
-Mother.,Ena,noun
-Music/Song.,Nnwom,noun
-Music/Song.,Nnwom,noun
-Name.,Din,noun
-Name.,Din,noun
-Name.,Din,noun
-Nation/Country.,Man,noun
-Native.,Kuromani,Adjective
-Natural.,Dee efiri abodee,adjective
-Nature/Personality.,Su,adjective.
-Nausea.,Abofono,noun
-Need/Want.,Hia,verb
-News.,Kaseebo,noun
-Nine/9.,Nkron,Number
-No.,Daabi,Exclamation/noun
-North.,Atifi,noun
-November.,Obubuo,noun
-November.,Oberefew,noun
-Numbers.,Nnumre,noun.
-Oath/Swear.,Ntam,noun
-Object.,Adee,noun
-October.,Ahinime,noun
-October.,Obese,noun
-Okay.,Yoo,noun
-Once.,Preko,adverb
-One/1.,Baako,
-Open.,Bue,verb
-Or.,Anaa,Conjunction
-Orgasm.,Ahoba,noun
-O’clock.,Don,adjective
-Pain.,Eyeaa,verb
-Painkiller.,Kum yaw,noun
-Paragraph.,Kasapen,noun
-Parents.,Awofo,noun
-Parliament.,Mmarahyebadwa,noun
-Photo/Picture/Photography.,Mfonin,noun
-Please.,Mepa Wo Kyew,verb
-Population.,Oman mu nnipa doduo,noun
-Potato.,Aborodwomaa,noun
-President.,Omanpanin,noun
-Pressure.,Nhyesuo,noun
-Price/Amount/Cost/Stone/Worth.,Bo,
-Price/Stone.,Buo,Noun
-Pride/Arrogance/Ego.,Ahomasuo,noun
-Problem.,Ohaw,noun
-Profit/Function.,Mfasuo,noun
-Promise.,Bohye,Noun
-Pronoun.,Edinnsiananmu,noun
-Punishment.,Asotwee,noun
-Put the cup in the basket.,mu,verb
-Put the cup in the basket.,mu,verb
-Quarrel/Fight/Wrestle/Brawl.,Ntokwa,noun
-Question.,Asemmisa,noun
-Reduce/Tear.,TE,verb.
-Region.,Omantam,noun.
-Rent.,Hae,noun
-Resemble.,Se,verb
-Respect.,Obuo,noun
-Respect/Regard,Bu,verb
-Respect/Regard,Bu,verb
-Respect/Regard,Bu,verb
-Return and get it.,Sankofa,
-Rice.,Emoo,
-Road.,Kwan,noun
-Roast/Smoke the meat.,Toto,verb
-Rot.,Pro,verb
-Sacrificial.,Aforebo,Adjective
-Saliva.,Ntasuo,noun
-Saliva.,Ntasuo,noun
-Sand.,Anwea,noun
-Sandal/Slippers.,Mpaboa,noun
-Sauce/Stew/Gravy.,Abom,noun
-Scar.,Twa,"noun, nasal"
-Scar.,Twa,"noun, nasal"
-Search.,Hwehwe,verb
-Secret.,Ahintasem,noun
-Secret.,Ahintasem,noun
-See you.,Yebehyia,noun
-Sell.,Ton,verb
-Send.,Soma,verb
-September.,Ebo,noun
-September.,Fankwa,noun
-Seven/7.,Nson,number
-Sibling.,Onua,
-Sir/Mister/Mr.,Owura,noun
-Six/6.,Nsia,number
-Sleep.,Da,verb
-Small.,Ketewa,Adjective
-Smoke.,Wisie,noun
-Snake.,Owo,noun
-Soap/Detergent.,Samina,noun
-Soft/Flabby.,Betee,adjective
-Soil.,Dotee,noun
-Soon.,Enkye,adverb
-Sorry.,Kose,
-Sparrow.,Akasanoma,noun
-"Speak, I am listening.",Kasa,verb
-"Speak, I am listening.",Kasa,verb
-"Speak, I am listening.",Kasa,verb
-Speak.,Ka,verb.
-Speak.,Ka,verb.
-Speak.,Ka,verb.
-Speed.,Mirika,noun
-Stink.,Bon,verb
-Stop/Halt/Abandon/leave behind.,Gyae,verb
-Stop/Halt/Abandon/leave behind.,Gyae,verb
-Stop/Halt/Abandon/leave behind.,Gyae,verb
-Storm.,Ahum,noun
-Strife/Quarrel/Argument.,Akasakasa,noun
-Strife/Quarrel/Argument.,Akasakasa,noun
-Sugar.,Asikyire,noun
-Sun/Afternoon/Noon.,Awia,noun
-Sun/Afternoon/Noon.,Awia,noun
-Sun/Afternoon/Noon.,Awia,noun
-Tall/High/Long.,Tenten,Adjective
-Teach/Show.,Kyere,verb
-Teacher.,Okyerekyereni,noun
-Teeth.,Ese,noun
-Telephone.,Ahomatorofuo,
-Ten/10.,Edu,number
-Ten/10.,Edu,number
-Thank you.,Medaase,noun
-Thanks be to God.,Nka,verb
-Thanks/Gratitude/Acknowledgement.,Aseda,noun
-That is mine.,Me dee,Pronoun.
-That is what I meant.,Saa,adjective
-That tree behind the house has fallen.,A,Pronoun.
-That/it.,No,Pronoun
-The Grace of God be with you.,Adom,noun
-The house is big.,Edan,noun
-The house is big.,Edan,noun
-The peace of God be with you.,Asomdwoee,verb
-They/Them.,Won,Pronoun
-They/Them.,Won,Pronoun
-Thief.,Okoromfuo,adjective
-Thirst.,Nsukom,noun
-Those.,Enonom,pronoun
-Three (3).,Mmiensa,number
-Thrice.,Mprensa,adverb
-Thursday.,Yawoada,noun
-Tie.,Kyekyere,verb
-To come down/To alight/To descend.,Si fam,verb
-To join together.,Bom,verb
-To join together.,Bom,verb
-To stop/To remain.,Gyina,verb
-Today.,Enne,noun
-Toilet/Feces/Stools.,Tiafi,noun
-Tomorrow.,Okyena,noun.
-Town.,Kuro,noun
-Town.,Kuro,noun
-Town.,Kuro,noun
-Town.,Kuro,noun
-Train.,Keteke,noun
-Trinity.,Onyame Baasakoro,noun
-Tuesday.,Benada,Calendar
-Tutor.,Okyerekyerefuo,noun.
-Twice.,Mprenu,adverb
-Twin.,Ata,
-Two (2).,Mmienu,number
-Underground.,Asase ase,
-Unity.,Nkabom,noun
-University/College.,Sukuupon,noun
-University/College.,Sukuupon,noun
-Urine.,Dwonso,noun
-Urine.,Dwonso,noun
-Velocity.,Emirika,noun
-Verb.,Adeyo,noun
-Vomit.,Efee,Noun
-Vulture.,Kokosakyi,
-Vulture.,Kokosakyi,
-Wash.,Si,verb
-Watch your step.,Hwe fam,verb
-We/Us.,Yen,Pronoun
-Wear/Score.,Hye,verb
-Wear/Score.,Hye,verb
-Wear/Score.,Hye,verb
-Wear/Score.,Hye,verb
-Wear/Score.,Hye,verb
-"Weave, Create.",Nwene,verb
-Website/World Wide Web.,Wiase ntontan,noun
-Wednesday.,Wukuada,
-Weight.,Emuduru,noun
-Welcome.,Akwaaba,verb
-What do you like?,Deen,pronoun
-What is your name?,De sen,Pronoun
-Where are you going?,Ne,conjunction (for connecting words and phrases)
-Where are you going?,Ne,conjunction (for connecting words and phrases)
-Width.,Tetrete,noun
-Width.,Tetrete,noun
-Window.,Mpoma,noun
-Yes.,Aane,Interjection
-Yesterday.,Ennora,noun/adverb
-Zero/0.,Hwee,number
-count/read.,Kan,verb
-count/read.,Kan,verb
-home,Fie,noun
+english_word,twi_word,part_of_speech,url
+,Adinkra Numerical Value,,https://www.akandictionary.com/2020/05/04/adinkra-numerical-value/
+,Count 1 – 20 in Akan (Twi),,https://www.akandictionary.com/2022/02/07/count-1-20-in-akan-twi/
+,Adinkra Pamphlet10102021,,https://www.akandictionary.com/2021/08/11/adinkra-pamphlet10102021/
+,Welcome to Adinkra Alphabet Akan (Twi) Dictionary,,https://www.akandictionary.com/2018/10/27/welcome-to-akan-dictionary/
+,Abusua or Clans in Akan,,https://www.akandictionary.com/2021/08/25/abusua-or-clans-in-akan/
+,Adinkra Pamphlet07272023,,https://www.akandictionary.com/2023/07/27/adinkra-pamphlet07272023/
+,2021 Akwasidae Dates,,https://www.akandictionary.com/2021/08/24/2021-akwasidae-dates/
+,Hwemudua,,https://www.akandictionary.com/2020/11/29/hwemudua/
+,Wiase Nsase nhyehyeee,,https://www.akandictionary.com/2020/01/23/wiase-nsase-nhyehyeee/
+,Akwasidae Dates 2022,,https://www.akandictionary.com/2022/01/09/akwasidae-dates-2022/
+,"Body Parts in Akan(Twi), female",,https://www.akandictionary.com/2020/03/08/body-parts-in-akan-female/
+,Adinkra Supersymmetry N = 8,,https://www.akandictionary.com/2021/01/10/adinkra-supersymmetry-n-8/
+,Meditation on Creation through Adinkra,,https://www.akandictionary.com/2019/07/07/meditation-on-creation-through-adinkra/
+,Adinkra Alphabet Special and Double Consonants,,https://www.akandictionary.com/2022/09/05/adinkra-alphabet-special-and-double-consonants/
+,Contact Us,,https://www.akandictionary.com/2021/04/25/contact-us/
+,Awukudae Dates 2026,,https://www.akandictionary.com/2025/08/29/awukudae-dates-2026/
+,W. E. B Du Bois,,https://www.akandictionary.com/2020/07/12/w-e-b-du-bois/
+,Thalamus in Akan (Twi),,https://www.akandictionary.com/2022/03/12/thalamus-in-akan-twi/
+,Akan Twi Vowels,,https://www.akandictionary.com/2023/07/29/akan-twi-vowels/
+,Fante,,https://www.akandictionary.com/2022/09/18/fante/
+,Adinkra Alphabet,,https://www.akandictionary.com/2020/08/01/adinkra-alphabet/
+,"Adinkra Numerical Value, Alphabet",,https://www.akandictionary.com/2020/05/04/adinkra-numerical-value-alphabet/
+,Count 40 to 60 in Akan (Twi),,https://www.akandictionary.com/2022/02/07/count-40-to-60-in-akan-twi/
+,Common disease names in Akan(Twi),,https://www.akandictionary.com/2018/12/16/common-disease-names-in-akan/
+,Akan Asranna Calendar December 2025,,https://www.akandictionary.com/2025/11/12/akan-asranna-calendar-december-2025/
+,Akyire dompe,,https://www.akandictionary.com/2021/09/09/akyire-dompe/
+,Fetu Afahye,noun,https://www.akandictionary.com/2021/09/04/fetu-afahye/
+,Nzema,,https://www.akandictionary.com/2022/09/18/nzema/
+,Mogya ne Mogyatoa,,https://www.akandictionary.com/2022/01/31/mogya-ne-mogyatoa/
+,Akwasidae Dates 2025,,https://www.akandictionary.com/2024/04/02/akwasidae-dates-2025/
+,Day Names in Akan (Twi),,https://www.akandictionary.com/2023/11/25/day-names-in-akan-twi/
+,Ghana Ewe Alphabet,,https://www.akandictionary.com/2021/07/04/ghana-ewe-alphabet/
+,Akan Asranna Calendar October 2025,,https://www.akandictionary.com/2025/11/09/akan-asranna-calendar-october-2025/
+,Akwasidae Dates 2024,,https://www.akandictionary.com/2023/07/17/akwasidae-dates-2024/
+,Akan Twi Vowels and Consonants Combination,,https://www.akandictionary.com/2022/09/05/akan-twi-vowels-and-consonants-combination/
+,Eno,Definite article/Pronoun/Adjective/Conjunction/adverb,https://www.akandictionary.com/2021/10/11/eno/
+,Adinkra Pamphlet10272021,,https://www.akandictionary.com/2021/10/27/adinkra-pamphlet10272021/
+,Count 60 to 80 in Akan (Twi),,https://www.akandictionary.com/2022/02/07/count-60-to-80-in-akan-twi/
+,Akan Asranna Calendar June 2025,,https://www.akandictionary.com/2025/07/24/akan-asranna-calendar-june-2025/
+,"Nea Onnim No Sua A, Ohu",,https://www.akandictionary.com/2020/07/12/nea-onnim-no-sua-a-ohu/
+,Ghana Dagbani Alphabet,,https://www.akandictionary.com/2021/07/04/ghana-dagbani-alphabet/
+,Nyame Nwu Na Mawu,,https://www.akandictionary.com/2020/07/12/nyame-nwu-na-mawu/
+,Count 80 to 100 in Akan (Twi),,https://www.akandictionary.com/2022/02/07/count-80-to-100-in-akan-twi/
+,De,adjective,https://www.akandictionary.com/2021/05/17/de/
+,I will buy,,https://www.akandictionary.com/2021/04/19/i-will-buy/
+,Adae kese,noun,https://www.akandictionary.com/2021/05/16/adae-kese/
+,Basal Ganglia in Akan (Twi),,https://www.akandictionary.com/2022/03/12/basal-ganglia-in-akan-twi/
+,Akan Asranna Calendar September 2025,,https://www.akandictionary.com/2025/08/31/akan-asranna-calendar-september-2025/
+,Ntoro,,https://www.akandictionary.com/2022/11/14/ntoro-2/
+,Akan Asranna Calendar November 2025,,https://www.akandictionary.com/2025/11/09/akan-asranna-calendar-november-2025/
+,Simone Biles,,https://www.akandictionary.com/2021/06/13/simone-biles/
+,The Seven Principles (Nguzo Saba) of Kwanzaa,,https://www.akandictionary.com/2018/12/23/the-seven-principles-nguzo-saba-of-kwanzaa/
+,Awudie,noun,https://www.akandictionary.com/2021/05/17/awudie/
+,Akwasidae Dates 2023,,https://www.akandictionary.com/2022/10/31/akwasidae-dates-2023/
+,Akan Asranna Calendar January 2025,,https://www.akandictionary.com/2025/02/28/akan-asranna-calendar-january-2025/
+,Akwasidae and Adinkra,,https://www.akandictionary.com/2021/08/22/akwasidae-and-adinkra/
+,Odwira,noun,https://www.akandictionary.com/2021/09/04/odwira/
+,"Body Parts in Akan, male",,https://www.akandictionary.com/2020/03/08/body-parts-in-akan-male/
+,Nyame Biribi Wo Soro,,https://www.akandictionary.com/2020/09/01/nyame-biribi-wɔ-soro/
+,Awukudae Dates 2025,,https://www.akandictionary.com/2024/04/02/awukudae-dates-2025/
+,Ghana Adinkra Akan(Twi),,https://www.akandictionary.com/2021/07/04/adinkra-alphabet-akantwi/
+,Artery and Vein in Akan(Twi),,https://www.akandictionary.com/2018/12/16/artery-and-vein-in-akan/
+,Days of the Week in Akan (Twi),,https://www.akandictionary.com/2023/11/25/days-of-the-week-in-akan-twi/
+,Ghana Ga Alphabet,,https://www.akandictionary.com/2021/07/04/ghana-ga-alphabet/
+,Esoro Epueee mantam,,https://www.akandictionary.com/2025/04/26/esoro-epueee-mantam/
+,Dede,noun,https://www.akandictionary.com/2021/05/17/dede/
+,Human internal organ names in Akan(Twi),,https://www.akandictionary.com/2018/12/16/human-internal-organ-names-in-akan/
+,Common Disease Signs and Symptoms in Akan(Twi),,https://www.akandictionary.com/2018/12/16/common-signs-and-symptoms-in-akan/
+,Awukudae Dates 2023,,https://www.akandictionary.com/2022/10/31/awukudae-dates-2023/
+,Fofie,,https://www.akandictionary.com/2023/12/01/fofie/
+,Babaso weremfoo mmoawammoawa,noun,https://www.akandictionary.com/2021/05/17/babaso-weremfoo-mmoawammoawa/
+,Akwasidae Adinkra name,,https://www.akandictionary.com/2021/08/14/akwasidae-adinkra-name/
+,Benada Dapaa,,https://www.akandictionary.com/2023/12/07/benada-dapaa-2/
+,Akan Asranna Calendar July 2025,,https://www.akandictionary.com/2025/07/24/akan-asranna-calendar-july-2025/
+,Awukudae Dates 2024,,https://www.akandictionary.com/2023/07/17/awukudae-dates-2024/
+,Naomi Osaka,,https://www.akandictionary.com/2021/06/13/naomi-osaka/
+,Akwasidae,noun,https://www.akandictionary.com/2021/05/16/akwasidae/
+,Adinkra Zodiac,,https://www.akandictionary.com/2019/10/29/adinkra-zodiac/
+,Akan (Twi) Language,,https://www.akandictionary.com/2022/09/18/akan-twi-language/
+,Ghana Adinkra Alphabet,,https://www.akandictionary.com/2020/09/20/ghana-adinkra-alphabet/
+,Katherine Johnson,,https://www.akandictionary.com/2020/07/12/katherine-johnson/
+,Akan Asranna Calendar February 2025,,https://www.akandictionary.com/2025/02/28/akan-asranna-calendar-february-2025/
+,Kete Pa,,https://www.akandictionary.com/2021/01/16/kɛtɛ-pa/
+,Awukudae Dates 2022,,https://www.akandictionary.com/2022/05/13/awukudae-dates-2022/
+,Adinkra Pamphlet04302020,,https://www.akandictionary.com/2020/05/01/adinkra-pamphlet04302020/
+,"Martin Luther King, Jr",,https://www.akandictionary.com/2020/01/23/martin-luther-king-jr/
+,Adinkra Psychic Centers: Symbols,,https://www.akandictionary.com/2020/08/15/adinkra-psychic-centers-symbols/
+,Adinkra Pamphlet10282021,,https://www.akandictionary.com/2021/10/28/adinkra-pamphlet10282021/
+,Akan Asranna Calendar April 2025,,https://www.akandictionary.com/2025/02/28/akan-asranna-calendar-april-2025/
+,Adinkra Pamphlet01232020,,https://www.akandictionary.com/2020/01/23/adinkrapamphlet01232020/
+,Benada Kwabena,,https://www.akandictionary.com/2023/12/01/benada-dapaa/
+,Awukudae,noun,https://www.akandictionary.com/2021/09/04/awukudae/
+,Calendar in Akan,,https://www.akandictionary.com/2022/01/29/calendar-in-akan/
+,Boro nsuo,verb,https://www.akandictionary.com/2021/05/17/boro-nsuo/
+,Fodwo,,https://www.akandictionary.com/2023/12/01/fodwo/
+,How much is it,,https://www.akandictionary.com/2021/04/19/how-much-is-it/
+,Apow,noun,https://www.akandictionary.com/2021/09/04/apow/
+,Adinkra Meditation,,https://www.akandictionary.com/2021/04/22/adinkra-meditation/
+,Count 20 – 40 in Akan (Twi),,https://www.akandictionary.com/2022/02/07/count-20-40-in-akan-twi/
+,Adinkra Psychic Centers: Alphabets,,https://www.akandictionary.com/2020/08/22/adinkra-psychic-centers-alphabets/
+,Kofi Annan,,https://www.akandictionary.com/2020/05/31/kofi-annan/
+,Adinkra Clock Face,,https://www.akandictionary.com/2021/02/06/adinkra-clock-face/
+,Akwasidae Dates 2026,,https://www.akandictionary.com/2025/08/29/akwasidae-dates-2026/
+,Twi,,https://www.akandictionary.com/2022/09/18/twi-2/
+,"Adinkra Numerical Value, Africa",,https://www.akandictionary.com/2020/05/04/adinkra-numerical-value-africa/
+,Months in Akan (Twi),,https://www.akandictionary.com/2020/01/23/months-in-akan-twi/
+,Akan Twi Consonants,,https://www.akandictionary.com/2025/04/28/akan-twi-consonants/
+,"Adinkra Numerical Value, Adinkra",,https://www.akandictionary.com/2020/05/04/adinkra-numerical-value-adinkra/
+,Adinkra Pamphlet09012020,,https://www.akandictionary.com/2020/09/02/adinkra-pamphlet09012020/
+,Den,adjective/adverb,https://www.akandictionary.com/2021/05/17/den/
+,Maya Angelou,,https://www.akandictionary.com/2019/09/25/maya-angelou/
+,Akan Asranna Calendar March 2025,,https://www.akandictionary.com/2025/02/28/akan-asranna-calendar-march-2025/
+,Body Parts in Akan,,https://www.akandictionary.com/2020/03/04/body-parts-in-akan/
+,Heart (Akoma) Chambers in Akan(Twi),,https://www.akandictionary.com/2020/09/27/heart-akoma-chambers-in-adinkra-language/
+,Akan Asranna Calendar August 2025,,https://www.akandictionary.com/2025/08/02/akan-asranna-calendar-august-2025/
+,Adinkra Pamphlet03022020,,https://www.akandictionary.com/2020/03/02/adinkra-pamphlet03022020/
+,Memeneda Dapaa,,https://www.akandictionary.com/2022/08/22/memeneda-dapaa/
+,Akan Asranna Calendar May 2025,,https://www.akandictionary.com/2025/02/28/akan-asranna-calendar-may-2025/
+10×10 checker board game.,Dame Dame,,https://www.akandictionary.com/2021/04/15/dame-dame/
+A blind person.,Onifirani,noun,https://www.akandictionary.com/2024/10/03/onifirani/
+A dry season in Ghana from December to March.,Harmattan,noun,https://www.akandictionary.com/2022/07/25/harmattan/
+A lot.,Pii,noun,https://www.akandictionary.com/2021/04/16/pii/
+A particular day’s week.,Dapen,adverb,https://www.akandictionary.com/2021/08/03/dapen/
+A sacred day of rest on the Akan calendar dedicated to giving reference and honoring the ancestors that falls on day 10 (Awukudae) and day 28 (Akwasidae).,Adae,noun,https://www.akandictionary.com/2025/02/27/adae/
+AIDS (Acquired Immunodeficiency Syndrome).,Babaso weremfoo,noun,https://www.akandictionary.com/2021/04/18/babaso-weremfuo/
+Aback/Bewilderment.,Ahodwiri,Adverb,https://www.akandictionary.com/2025/03/25/ahodwiri/
+Abomination/Taboo.,Mmusuo,noun,https://www.akandictionary.com/2022/04/23/mmusuo/
+Abortion.,Nyinsenyiguo,noun,https://www.akandictionary.com/2023/02/12/nyinsenyiguo/
+Abrasion.,Atwitwie,noun,https://www.akandictionary.com/2023/02/12/atwitwie/
+Abrasion/Scratch.,Etwa,noun,https://www.akandictionary.com/2025/03/25/etwa/
+Abscess/Boil.,Pompo,noun,https://www.akandictionary.com/2022/01/16/pompo/
+Abstract.,Adwenemudee,adjective,https://www.akandictionary.com/2023/02/13/adwenemudee/
+Abundance/Excess.,Mmorosuo,noun,https://www.akandictionary.com/2023/02/13/mmorosuo/
+Abuse.,Ateetee,noun,https://www.akandictionary.com/2023/02/13/ateetee/
+Academy/Institution/School.,Sukuu,noun,https://www.akandictionary.com/2022/02/28/sukuu/
+Accelerate.,Tiaso,verb,https://www.akandictionary.com/2021/04/14/tiaso/
+Acceleration.,Ntiaso,noun,https://www.akandictionary.com/2021/04/14/ntiaso/
+Accommodation.,Tenabea,noun,https://www.akandictionary.com/2022/01/15/tenabea/
+Accusation.,Sobuo,noun,https://www.akandictionary.com/2023/03/25/sobuo/
+Accuser.,Nkurobofo,noun,https://www.akandictionary.com/2021/10/08/nkurobofo/
+Add.,Ka bom,noun,https://www.akandictionary.com/2025/08/31/ka-bom/
+Adder.,Nanka,noun,https://www.akandictionary.com/2021/04/16/nanka/
+Adinkra Seed of Life (ASOL).,Adinkra Aba,,https://www.akandictionary.com/2021/04/22/adinkra-aba/
+Adinkra Tree of Life (ATOL).,Adinkra Dua,noun,https://www.akandictionary.com/2021/04/22/adinkra-dua/
+Adjective.,Edin Nkyerekyeremu,noun,https://www.akandictionary.com/2021/04/12/edin-nkyerekyeremu/
+Adopted child.,Abanoma,verb,https://www.akandictionary.com/2021/05/08/abanoma/
+Adoption.,Obagyee,noun,https://www.akandictionary.com/2021/05/08/obagyee/
+Adverb.,Okyerefuo,noun,https://www.akandictionary.com/2021/04/12/okyerefuo/
+Advertise.,Dawuro,noun.,https://www.akandictionary.com/2021/04/29/dawuro/
+Advertisement/Promotion.,Dawurubo,noun.,https://www.akandictionary.com/2022/08/21/dawurubo/
+Advice.,Afotu,noun,https://www.akandictionary.com/2021/04/18/afotu/
+Advise.,Afotusem,noun,https://www.akandictionary.com/2021/04/18/afotusem/
+Affordable/Economical/Inexpensive.,Eye fo,Adjective,https://www.akandictionary.com/2025/03/16/eye-fo/
+Africa/Black Nation.,Abibiman,noun,https://www.akandictionary.com/2021/04/19/abibiman/
+African Civet.,Kankane,noun,https://www.akandictionary.com/2021/04/16/kankane/
+Africans/Black people.,Abibifuo,noun,https://www.akandictionary.com/2021/04/19/abibifuo/
+Afterwards.,Akyiri,adverb,https://www.akandictionary.com/2021/05/18/akyiri/
+Age.,Mfee,noun,https://www.akandictionary.com/2021/10/11/mfee/
+Age.,Mfe,noun,https://www.akandictionary.com/2021/08/13/mfe/
+Agreement.,Anodie,noun,https://www.akandictionary.com/2021/08/16/anodie/
+Agriculture/Farming.,Kuadwuma,noun,https://www.akandictionary.com/2021/12/11/kuadwuma/
+Agyawa’s child.,Agyawaba,noun,https://www.akandictionary.com/2021/04/13/agyawaba/
+Ahanta Francolin.,Akokohwedee,noun,https://www.akandictionary.com/2021/05/11/akokohwedee/
+Aidan fruit.,Prekese,noun,https://www.akandictionary.com/2022/07/18/prekese/
+Air conditioning.,Abomframa,noun,https://www.akandictionary.com/2021/08/10/abomframa/
+Air/Wind.,Mframa,noun,https://www.akandictionary.com/2021/04/15/mframa/
+Aircraft/Aeroplan/Airplane.,Wiemhyen,noun,https://www.akandictionary.com/2021/04/18/wiemhyen-2/
+Airport.,Wiemhyen gyinabea,noun,https://www.akandictionary.com/2021/05/22/wiemhyen-gyinabea/
+Akan handwoven strips of silk and cotton cloth.,Kente,noun,https://www.akandictionary.com/2022/01/16/kente/
+Akan symbols that represent concepts or aphorisms.,Adinkra,noun,https://www.akandictionary.com/2021/04/14/adinkra/
+Albino.,Ofiri,noun,https://www.akandictionary.com/2021/10/11/ofiri/
+Alcoholic.,Kowensani,noun,https://www.akandictionary.com/2021/04/25/kowensani/
+Algebra.,Nsesaee nkontabuo,noun,https://www.akandictionary.com/2023/04/29/nsesaee-nkontabuo/
+All.,Nyinaa,"Adjective, noun",https://www.akandictionary.com/2021/09/01/nyinaa/
+Alligator.,Okyekye,noun,https://www.akandictionary.com/2024/03/10/okyekye/
+Almond.,Abrofo nkatee,noun,https://www.akandictionary.com/2021/08/10/abrofo-nkatee/
+Alphabet/Writing.,Ntweredee,noun,https://www.akandictionary.com/2021/04/17/ntweredee/
+Alright/Okay.,Enee,adverb,https://www.akandictionary.com/2021/04/17/enee/
+Amen/So be it.,Enye ho,noun,https://www.akandictionary.com/2022/05/28/enye-ho/
+Amnesia.,Awerefireyaree,noun,https://www.akandictionary.com/2022/05/28/awerefireyaree/
+Amount/Quantity.,Dodoo,noun,https://www.akandictionary.com/2021/05/10/dodoo/
+Ancestors.,Nananom nsamanfuo,noun.,https://www.akandictionary.com/2021/09/19/nananom-nsamanfuo/
+And.,Na,conjunction (for connecting clauses and sentences),https://www.akandictionary.com/2023/05/25/na/
+Anesthetic.,Aduru a ete yaw so,noun,https://www.akandictionary.com/2021/08/02/aduru-a-ete-yaw-so/
+Angel.,Obofuo,noun,https://www.akandictionary.com/2021/04/14/obofuo/
+Anger.,Abufuo,verb,https://www.akandictionary.com/2021/10/04/abufuo/
+Animal.,Aboa,noun,https://www.akandictionary.com/2021/04/29/aboa/
+Animals.,Mmoadoma,noun.,https://www.akandictionary.com/2021/09/19/mmoadoma/
+Ankle.,Nanposo,noun,https://www.akandictionary.com/2023/10/09/nanposo/
+Anniversary.,Afirihyia,noun,https://www.akandictionary.com/2021/08/10/afirihyia/
+Announcement.,Nkaebo,noun,https://www.akandictionary.com/2021/06/17/nkaebo-2/
+Anointing.,Ngosra,noun,https://www.akandictionary.com/2022/05/28/ngosra/
+Ant.,Tetea,noun,https://www.akandictionary.com/2021/04/16/tetea/
+Antelope.,Otwee,noun,https://www.akandictionary.com/2023/12/16/otwee/
+Antibiotics/Antiseptic.,Aduru a ekum mmoawamoawa,noun,https://www.akandictionary.com/2021/08/02/aduru-a-ekum-mmoawamoawa/
+Antonym.,Abirabo,noun,https://www.akandictionary.com/2022/10/10/abirabo/
+Anus.,Trumu ano,noun.,https://www.akandictionary.com/2021/09/19/trumu-ano/
+Anxiety.,Akomatuo yaree,noun,https://www.akandictionary.com/2021/05/22/akomatuo-yaree/
+Anyone/Anybody.,Obiara,pronoun,https://www.akandictionary.com/2021/05/09/obiara/
+Anyone/Anybody.,Obi biara,pronoun,https://www.akandictionary.com/2021/05/09/obi-biara/
+Anywhere.,Baabiara,noun,https://www.akandictionary.com/2021/05/16/baabiara/
+Apologize/Plead.,Pa kyew,verb.,https://www.akandictionary.com/2021/05/21/pa-kyew/
+Apology/Plea.,Akyewpa,noun.,https://www.akandictionary.com/2021/05/21/akyewpa/
+Apostrophe.,Ogya nsenkyerene,noun.,https://www.akandictionary.com/2021/05/21/ogya-nsenkyerene/
+Appendicitis.,Nsono to kaka,noun,https://www.akandictionary.com/2023/12/05/nsono-to-kaka/
+Appreciate.,Ani so,verb,https://www.akandictionary.com/2021/05/08/ani-so/
+Appreciation.,Aniso,noun,https://www.akandictionary.com/2021/05/08/aniso/
+April.,Ebobira,noun,https://www.akandictionary.com/2021/04/14/ebobira/
+April.,Oforisuo,noun,https://www.akandictionary.com/2021/04/14/oforisuo/
+Area.,Beaee,noun,https://www.akandictionary.com/2022/07/27/beaee/
+Argument.,Akyinnye,noun,https://www.akandictionary.com/2021/05/18/akyinnye/
+Argument/Dispute.,Ntawantawa,noun,https://www.akandictionary.com/2021/10/13/ntawantawa/
+Argument/Squabble/Row.,Twemamentwe,noun,https://www.akandictionary.com/2021/10/13/twemamentwe/
+Aristocrat/Mighty.,Obrempong,noun,https://www.akandictionary.com/2022/12/14/obrempong/
+Array (Mathematics).,Bemman,noun,https://www.akandictionary.com/2022/10/16/bemman/
+Arrest/Seize/Capture.,KyE,verb,https://www.akandictionary.com/2021/05/06/kye/
+Arrive.,Du,verb,https://www.akandictionary.com/2021/04/30/du-2/
+Arrogance.,Dwaee,"noun, adjective",https://www.akandictionary.com/2022/08/28/dwaee/
+Arrogance.,Ahantan,noun,https://www.akandictionary.com/2022/08/28/ahantan/
+Arrogant.,Homasoni,Adjective,https://www.akandictionary.com/2024/11/16/homasoni/
+Arrow.,Akyerekyerekwan,noun,https://www.akandictionary.com/2022/10/16/akyerekyerekwan/
+Artery.,Foro,noun,https://www.akandictionary.com/2021/04/12/foro/
+Arthritis.,Sasaboro,noun,https://www.akandictionary.com/2022/03/05/sasaboro/
+Artificial intelligence.,Nipa adeye nyansa,noun,https://www.akandictionary.com/2022/07/30/nipa-adeye-nyansa/
+Artificial.,Dee efiri nipa,adjective,https://www.akandictionary.com/2022/07/30/dee-efiri-nipa/
+Ash.,Nso,noun,https://www.akandictionary.com/2023/07/10/nso/
+Ashanti Region.,Asante mantam,noun,https://www.akandictionary.com/2022/09/16/asante-mantam/
+Ask/Consult/Request.,Bisa,verb,https://www.akandictionary.com/2021/05/08/bisa/
+Asleep.,Ada,adjective,https://www.akandictionary.com/2021/08/10/ada/
+Assistant.,Oboafoo,noun,https://www.akandictionary.com/2021/05/08/oboafoo/
+Association/Fraternity/Brotherhood/Organization.,Fekuo,noun,https://www.akandictionary.com/2025/05/11/fekuo/
+Asthma.,Ntehyeewa,noun,https://www.akandictionary.com/2021/04/18/ntehyeewa/
+Atom.,Ahim Mmosea,noun,https://www.akandictionary.com/2021/04/22/ahim-mmosea/
+Attorney.,Kwaadubofuo,noun,https://www.akandictionary.com/2021/12/11/kwaadubofuo/
+August.,Dzifuu,noun,https://www.akandictionary.com/2021/04/14/dzifuu/
+August.,Osanaa,noun,https://www.akandictionary.com/2021/04/14/osanaa/
+Aunt (Father’s sisters only).,Agyawa,noun,https://www.akandictionary.com/2021/04/13/agyawa/
+Author.,Twerefuo,noun,https://www.akandictionary.com/2021/08/27/twerefuo/
+Authority.,Tumidie,noun,https://www.akandictionary.com/2022/01/15/tumidie/
+Avoid.,Kyi,verb,https://www.akandictionary.com/2021/05/06/kyi/
+Award/promotion/Raise.,Abasobo,noun,https://www.akandictionary.com/2022/08/21/abasobo/
+Awhile.,Kakra,adverb,https://www.akandictionary.com/2021/05/17/kakra/
+Axe.,Akuma,noun,https://www.akandictionary.com/2021/04/22/akuma/
+Bachelor.,Sigyani,noun,https://www.akandictionary.com/2022/01/16/sigyani/
+Back wing Commander.,Nkyidomhene,noun,https://www.akandictionary.com/2022/10/13/nkyidomhene/
+Backbiting.,Nsekuro,noun,https://www.akandictionary.com/2021/05/08/nsekuro/
+Backyard.,Efikyere,noun,https://www.akandictionary.com/2021/05/08/efikyere/
+Bacteria.,Mmoawammoawa nketenkete,noun,https://www.akandictionary.com/2021/04/22/mmoawammoawa-nketenkete/
+Bad.,Enye,noun,https://www.akandictionary.com/2021/05/10/enye/
+Bad/Offence.,Bone,Adjective,https://www.akandictionary.com/2021/05/17/bone-2/
+Bag.,Boto,noun,https://www.akandictionary.com/2021/12/23/boto/
+Bag/Sack/Pocket.,Kotoku,noun,https://www.akandictionary.com/2021/05/17/kotoku/
+Balcony.,Abranaa so,noun,https://www.akandictionary.com/2022/08/03/abranaa-so/
+Ball.,Bool,noun,https://www.akandictionary.com/2021/07/26/bool/
+Bamboo.,Pampuro,noun,https://www.akandictionary.com/2022/08/03/pampuro/
+Banana.,Kwadu,noun,https://www.akandictionary.com/2021/04/16/kwadu/
+Bank.,Sikakorabea,noun,https://www.akandictionary.com/2021/04/18/sikakorabea/
+Banquet/Party/Feast.,Apontuo,noun,https://www.akandictionary.com/2022/05/28/apontuo/
+Base.,Nnyinasuo,noun,https://www.akandictionary.com/2022/03/27/nnyinasuo/
+Basis.,Fapem,noun,https://www.akandictionary.com/2022/03/27/fapem/
+Bat.,Apan,noun,https://www.akandictionary.com/2021/04/16/apan/
+Bath.,Dware,verb,https://www.akandictionary.com/2021/07/24/dware/
+Battle/War.,Oko,noun.,https://www.akandictionary.com/2021/05/21/oko/
+Bay duiker.,Abedee,noun,https://www.akandictionary.com/2023/12/16/abedee/
+Be (am/is/are/was/were/been); Act.,Ye,verb,https://www.akandictionary.com/2021/08/27/ye/
+Beach.,Mpoano,noun,https://www.akandictionary.com/2021/05/10/mpoano/
+Bead.,Ahene,noun,https://www.akandictionary.com/2021/05/19/ahene/
+Beak.,Anoma ano,noun,https://www.akandictionary.com/2021/05/19/anoma-ano/
+Beans.,Adua,noun,https://www.akandictionary.com/2021/04/16/adua/
+Beans.,Ase,noun,https://www.akandictionary.com/2021/05/19/ase-3/
+Bear fruit.,Sow aba,verb,https://www.akandictionary.com/2021/05/19/sow-aba/
+Bear.,Sisire,,https://www.akandictionary.com/2021/04/16/sisire/
+Beard.,Abodwese,noun,https://www.akandictionary.com/2021/11/17/abodwese-2/
+Beautiful.,Feefe,adjective,https://www.akandictionary.com/2021/08/02/feefe/
+Beauty.,Ahuofe,,https://www.akandictionary.com/2021/04/20/ahuofe/
+Bed.,Mpa,noun,https://www.akandictionary.com/2021/05/10/mpa/
+Bed.,Kete,noun,https://www.akandictionary.com/2021/05/10/kete/
+Bedbug.,Nsonkuronsuo,,https://www.akandictionary.com/2021/04/16/nsonkuronsuo/
+Bee.,Wowa,noun,https://www.akandictionary.com/2023/05/20/wowa/
+Beer.,Bia,noun,https://www.akandictionary.com/2021/06/13/beer/
+Beetle.,Obankuo,noun,https://www.akandictionary.com/2021/04/16/obankuo/
+Beggars.,Odesrefuo,noun,https://www.akandictionary.com/2021/08/02/odesrefuo/
+Begin.,Hye asee,verb,https://www.akandictionary.com/2022/07/19/hye-asee/
+Beginning.,Ahyeasee,noun,https://www.akandictionary.com/2022/07/19/ahyeasee/
+Behavior.,Abrabo,noun,https://www.akandictionary.com/2021/05/19/abrabo/
+Belch.,Keesu,verb,https://www.akandictionary.com/2022/07/19/keesu/
+Believe.,Gye di,noun,https://www.akandictionary.com/2021/05/12/gye-di/
+Belly burton.,Furoma,noun,https://www.akandictionary.com/2021/04/12/furoma/
+Belt.,Abomu,noun,https://www.akandictionary.com/2021/07/31/abomu/
+Bend/Flex.,Koa,verb,https://www.akandictionary.com/2021/06/10/koa/
+Benefit.,Mfaso,noun,https://www.akandictionary.com/2021/05/19/mfaso/
+Bent/Crooked.,Akyea,Adjective,https://www.akandictionary.com/2021/04/24/akyea/
+Betrayal.,Nyima,noun,https://www.akandictionary.com/2022/05/21/nyima/
+Bible.,Twere Kronkron,noun,https://www.akandictionary.com/2021/07/26/twere-kronkron/
+Bicycle.,Dadeponko,noun,https://www.akandictionary.com/2021/04/17/dadeponko/
+Big.,So,adjective,https://www.akandictionary.com/2021/08/03/so-2/
+Big/Fat/Great/Large/Loud.,Kese,Adjective,https://www.akandictionary.com/2021/08/13/kese/
+Bill/Debt.,Eka,noun.,https://www.akandictionary.com/2021/08/03/eka/
+"Billion (1,000,000,000).",Opepepem,number,https://www.akandictionary.com/2021/08/14/opepepem/
+Bird.,Ntakraboa,noun,https://www.akandictionary.com/2021/04/16/ntakraboa/
+Bird.,Anoma,noun,https://www.akandictionary.com/2021/04/12/anoma/
+Birth.,Wo,verb,https://www.akandictionary.com/2021/04/10/wo/
+Birth.,Awuo,noun,https://www.akandictionary.com/2023/08/14/awuo/
+Bitch.,Kraman bedee,,https://www.akandictionary.com/2021/04/16/kraman-bedee/
+Bite not one another.,Bi Nka Bi,Adinkra symbol/Alphabet,https://www.akandictionary.com/2021/04/14/bi-nka-bi/
+Bitter.,Nwono,adjective,https://www.akandictionary.com/2022/01/15/nwono/
+Black Cobra.,Pramire,noun,https://www.akandictionary.com/2024/02/14/pramire/
+Black.,Tuntum,adjective/noun,https://www.akandictionary.com/2021/04/12/tuntum/
+Blacksmith.,Otomfuo,noun,https://www.akandictionary.com/2021/05/08/otomfuo/
+Bladder.,Dwonsotwaa,,https://www.akandictionary.com/2021/04/15/dwonsotwaa/
+Blanket.,Kuntu,noun,https://www.akandictionary.com/2021/06/10/kuntu/
+Blasphemy.,Abususem,noun.,https://www.akandictionary.com/2021/05/20/abususem/
+Bless.,Hyira,verb,https://www.akandictionary.com/2021/06/10/hyira/
+Blindfold.,Kata ani,verb,https://www.akandictionary.com/2024/10/03/kata-ani/
+Blink.,Bo ani,verb,https://www.akandictionary.com/2024/10/03/bo-ani/
+Blood bank.,Mogya korabea,noun,https://www.akandictionary.com/2025/04/12/mogya-korabea/
+Blood vessel.,Ntini,noun,https://www.akandictionary.com/2021/04/12/ntini/
+Blood.,Mogya,,https://www.akandictionary.com/2021/04/16/mogya/
+Blow/Fan/Sieve.,Huhu,verb,https://www.akandictionary.com/2021/09/19/huhu/
+Blue.,Bibire,Adjective,https://www.akandictionary.com/2021/04/18/bibire/
+Bluff.,Anomdwa,verb,https://www.akandictionary.com/2024/10/06/anomdwa/
+Blush/Shy.,Fere,Verb/Adjective,https://www.akandictionary.com/2021/11/17/fere/
+Boar.,Prakonini,,https://www.akandictionary.com/2021/04/16/prakonini/
+Boastful/Pompous,Kyere wo ho,Phrase.,https://www.akandictionary.com/2024/11/16/kyere-wo-ho/
+Boat/Canoe.,Koduo,noun,https://www.akandictionary.com/2021/11/17/koduo/
+Body/Anatomy.,Nipadua,noun,https://www.akandictionary.com/2021/09/04/nipadua/
+Body/Skin.,Honam,noun,https://www.akandictionary.com/2021/04/15/honam/
+Boil.,Huru,verb,https://www.akandictionary.com/2022/01/28/huru/
+Bolt.,Korokoro,noun,https://www.akandictionary.com/2021/05/16/korokoro/
+Bomb.,Topaee,noun,https://www.akandictionary.com/2021/09/23/topaee/
+Bondservant/Slave.,Osomfuo,noun,https://www.akandictionary.com/2021/04/21/osomfuo/
+Bone.,Dompe,noun,https://www.akandictionary.com/2021/05/06/dompe/
+Bongo (antelope).,Tromo,noun,https://www.akandictionary.com/2021/04/16/tromo/
+Boo/Booing.,Huro,verb/noun,https://www.akandictionary.com/2022/01/28/huro/
+Book.,Nhoma,,https://www.akandictionary.com/2021/04/18/nhoma/
+Booklet.,Nhomawa,,https://www.akandictionary.com/2021/04/18/nhomawa/
+Books.,Nhoma ahoruo,noun,https://www.akandictionary.com/2021/04/18/nhoma-ahoroo/
+Border.,Ehyee so,noun,https://www.akandictionary.com/2025/06/21/ehyee-so/
+Boredom.,Aniha,noun,https://www.akandictionary.com/2021/09/23/aniha/
+Bosom.,Kokom,noun,https://www.akandictionary.com/2021/12/12/kokom/
+Bowl/Mortar/Grinding pot.,Asanka,noun,https://www.akandictionary.com/2024/08/15/asanka/
+Box.,Adaka,noun,https://www.akandictionary.com/2021/06/10/adaka/
+Boyfriend.,Yonko barima,noun,https://www.akandictionary.com/2021/08/27/yonko-barima/
+Boyfriend/Girlfriend.,Mpena,noun,https://www.akandictionary.com/2021/05/08/mpena/
+Brackets.,Yiho,noun,https://www.akandictionary.com/2021/04/14/yiho/
+Brain/Idea/Intellect.,Adwene,noun,https://www.akandictionary.com/2021/04/15/adwene/
+Brass.,Yaawa,noun,https://www.akandictionary.com/2021/05/08/yaawa/
+Bravado.,Akokooduro,noun,https://www.akandictionary.com/2021/05/08/akokooduro/
+Brave.,Akokoodurofoo,Adjective,https://www.akandictionary.com/2021/05/08/akokoodurofoo/
+Bread.,Burodo,noun,https://www.akandictionary.com/2021/04/16/burodo/
+Bread.,Paanoo,noun,https://www.akandictionary.com/2021/04/16/paanoo/
+Breadth.,Ntwemu,,https://www.akandictionary.com/2021/04/18/ntwemu/
+Breast cancer.,Nufoom kokoram,noun,https://www.akandictionary.com/2021/04/18/nufoom-kokoram/
+Breast.,Nufuo,noun,https://www.akandictionary.com/2021/04/12/nufuo/
+Breastmilk.,Nufosuo,noun,https://www.akandictionary.com/2021/12/25/nufuonsu/
+Breathe/Rest.,Home,verb,https://www.akandictionary.com/2021/04/29/home/
+Breed.,Yene,verb,https://www.akandictionary.com/2022/11/27/yene/
+Bribery.,kataasehye,verb,https://www.akandictionary.com/2021/04/18/kataasehye/
+Bride.,Ayefre,,https://www.akandictionary.com/2021/04/19/ayefre/
+Bring the orange that is ripped home.,Abere,adjective,https://www.akandictionary.com/2021/05/15/abere/
+Broken.,Abu,verb,https://www.akandictionary.com/2021/08/10/abu/
+Brong Ahafo Region.,Brong Ahafo mantam,noun,https://www.akandictionary.com/2024/08/25/brong-ahafo-mantam/
+Bronze Mannakin.,Aturuhwee,noun,https://www.akandictionary.com/2023/12/16/aturuhwee/
+Broom.,Praye,noun,https://www.akandictionary.com/2021/05/08/praye/
+Brother or Sister.,Nua,noun,https://www.akandictionary.com/2021/04/13/nua/
+Brown.,Dodoee,noun,https://www.akandictionary.com/2021/04/22/dodoee/
+Bucket.,Bokiti,noun,https://www.akandictionary.com/2021/12/23/bokiti/
+Buffalo.,Ekoo,,https://www.akandictionary.com/2021/04/16/ekoo/
+Bulb syringe.,Bentoa,noun,https://www.akandictionary.com/2024/05/18/bentoa/
+Bullet.,Tuo abobaa,noun,https://www.akandictionary.com/2022/01/15/tuo-abobaa/
+Burial.,Afunsie,noun,https://www.akandictionary.com/2022/11/19/afunsie/
+Burn.,HyE,verb,https://www.akandictionary.com/2021/05/15/hye/
+Bushbuck.,Owansane,,https://www.akandictionary.com/2021/04/16/owansane/
+Busy.,Adagye nni ho,adjective,https://www.akandictionary.com/2021/08/10/adagye-nni-ho/
+But.,Nanso,conjunction,https://www.akandictionary.com/2021/09/01/nanso/
+Butterfly.,Afofanto,noun,https://www.akandictionary.com/2021/04/12/afofanto/
+Buy.,To,verb,https://www.akandictionary.com/2021/05/12/to-2/
+Café.,Adidibea Ketewa,noun,https://www.akandictionary.com/2021/08/02/adidibea-ketewa/
+Cage.,Ebuo,noun,https://www.akandictionary.com/2021/05/02/ebuo/
+Calabash.,Kora,noun,https://www.akandictionary.com/2021/10/12/kora/
+Calculate.,Sese,verb,https://www.akandictionary.com/2021/07/30/sese/
+Calculus.,Sianeee nkontabuo,noun,https://www.akandictionary.com/2023/04/29/sianeee-nkontabuo/
+Calendar.,Asranna,noun,https://www.akandictionary.com/2025/01/04/asranna/
+Calf.,Nantuo,noun,https://www.akandictionary.com/2021/04/12/nantuo/
+Came.,Bae,,https://www.akandictionary.com/2021/04/18/bae/
+Camel.,Yoma,noun,https://www.akandictionary.com/2021/04/16/yoma/
+Camp.,Ahyiadie,noun,https://www.akandictionary.com/2021/05/23/ahyiadie/
+Cancel/Cross/Pass.,Twam,verb,https://www.akandictionary.com/2021/08/27/twam-2/
+Cancer.,Kokoram,noun,https://www.akandictionary.com/2021/08/31/kansa/
+Candy.,Tofe,noun,https://www.akandictionary.com/2022/01/15/tofe/
+Cane.,Abaa,,https://www.akandictionary.com/2021/04/21/abaa/
+Cannabis/Weed.,Tampe,noun,https://www.akandictionary.com/2022/10/06/tampe-2/
+Canopy.,Apata,noun,https://www.akandictionary.com/2021/11/17/apata/
+Capital of Western Region.,Sekondi Takoradi,noun,https://www.akandictionary.com/2022/09/16/sekondi-takoradi/
+Captain.,Asafohene,noun,https://www.akandictionary.com/2022/03/01/asafohene/
+Car/Vehicle.,Ehyen,noun,https://www.akandictionary.com/2021/04/17/ehyen/
+Careful.,Ahweyie,adjective,https://www.akandictionary.com/2021/09/19/ahweyie/
+Carnival.,Odiamono,noun,https://www.akandictionary.com/2025/09/05/odiamono/
+Carnivore.,Akekaboa,noun.,https://www.akandictionary.com/2021/09/19/akekaboa/
+Carpenter.,Dwomfuo,noun,https://www.akandictionary.com/2021/10/13/dwomfuo/
+Carry-on.,Ko so,verb,https://www.akandictionary.com/2021/08/16/ko-so/
+Carry.,Soa,verb,https://www.akandictionary.com/2022/01/16/soa/
+Cassava flour.,Gari,noun,https://www.akandictionary.com/2021/10/29/gari/
+Cassava.,Bankye,noun,https://www.akandictionary.com/2021/04/14/bankye/
+Cat.,Agyinamoa,,https://www.akandictionary.com/2021/04/16/agyinamoa/
+Cattle.,Nantwie,noun,https://www.akandictionary.com/2021/04/16/nantwie/
+Caucasian.,Broni,noun,https://www.akandictionary.com/2021/04/29/broni/
+Caucasian.,Oburoni,noun,https://www.akandictionary.com/2021/04/19/oburoni/
+Cave.,Obodan,noun,https://www.akandictionary.com/2021/10/08/obodan/
+Celebrate.,Yeadi,verb,https://www.akandictionary.com/2021/04/29/yeadi/
+Cemetery/Graveside/Graveyard.,Asieee,noun,https://www.akandictionary.com/2021/04/18/asieee/
+Center/Middle.,Mfinfini,noun,https://www.akandictionary.com/2021/08/13/mfinfini/
+Centipede.,Sakasaka,,https://www.akandictionary.com/2021/04/16/sakasaka/
+Central Region.,Mfimfini Mantam,noun,https://www.akandictionary.com/2024/08/25/mfimfini-mantam/
+Century.,Mfie ha,Num,https://www.akandictionary.com/2021/08/13/mfie-ha/
+Ceremonial umbrella.,Bamkyim,noun,https://www.akandictionary.com/2022/10/13/bamkyim/
+Certificate/Diploma.,Adansedi nhoma,noun,https://www.akandictionary.com/2021/06/10/adansedi-nhoma/
+Cervix.,Bosoa,Noun,https://www.akandictionary.com/2025/09/14/bosoa/
+Chain or Link.,Nkonsonkonson,,https://www.akandictionary.com/2021/04/28/nkonsonkonson-2/
+Chainsaw.,Asradaa Afidie,noun,https://www.akandictionary.com/2021/04/22/asradaa-afidie/
+Chair.,akonnwa,noun,https://www.akandictionary.com/2021/04/10/akonnwa/
+Chairman.,Otitenani,noun,https://www.akandictionary.com/2023/07/01/otitenani/
+Chakra/Psychic Centers.,Honhom gya,noun,https://www.akandictionary.com/2022/07/27/honhom-gya/
+Chameleon.,Abosomakotere,Animal,https://www.akandictionary.com/2021/04/16/abosomakotere/
+Change your character.,Sesa Wo Suban,Adinkra symbol,https://www.akandictionary.com/2022/06/28/sesa-wo-suban/
+Change/Exchange.,Sesa,verb,https://www.akandictionary.com/2021/07/21/sesa/
+Chapter/Section.,Ofa,noun,https://www.akandictionary.com/2021/04/18/ofa/
+Character.,Suban,noun,https://www.akandictionary.com/2021/04/12/suban/
+Cheek.,Afono,noun,https://www.akandictionary.com/2021/04/12/afono/
+Chest.,Kokuo,noun,https://www.akandictionary.com/2021/04/12/kokuo/
+Chew/Lose.,We,verb,https://www.akandictionary.com/2024/12/28/we/
+Chicken pox.,Buropete,noun,https://www.akandictionary.com/2022/03/05/buropete/
+Chicken/Cock/Hen.,Akoko,noun,https://www.akandictionary.com/2021/04/12/akoko/
+Chief or King of Adinkra symbols.,Adinkrahene,Adinkra symbol/Alphabet,https://www.akandictionary.com/2021/04/14/adinkrahene/
+Chief or King or Queen.,Nana,noun,https://www.akandictionary.com/2021/04/13/nana/
+Chief or King.,Ohene,noun,https://www.akandictionary.com/2021/04/11/ohene/
+Chiefs.,Ahenfo,noun,https://www.akandictionary.com/2021/05/07/ahenfo/
+Child/Baby.,Abofra,noun,https://www.akandictionary.com/2021/06/13/abofra/
+Child/Son or Daughter.,Ba,noun,https://www.akandictionary.com/2021/04/13/ba/
+Children/Sons and Daughters.,Mba,noun,https://www.akandictionary.com/2021/04/13/mba/
+Chills.,Huraee,noun,https://www.akandictionary.com/2022/01/14/huraee/
+Chimpanzee.,Kontromfi,noun,https://www.akandictionary.com/2021/10/12/kontromfi/
+Chin.,Abodwe,noun,https://www.akandictionary.com/2021/04/12/abodwe/
+Cholecystitis/Gall Bladder infection.,Bonwono kaka,noun,https://www.akandictionary.com/2023/12/05/bonwono-kaka/
+Cholesterol.,Sradee,noun,https://www.akandictionary.com/2021/12/24/sradee/
+Christian.,Kristoni,noun,https://www.akandictionary.com/2021/07/26/kristoni/
+Christians.,Kristofo,noun,https://www.akandictionary.com/2021/07/26/kristofo/
+Christmas.,Buronya,noun,https://www.akandictionary.com/2021/05/14/buronya/
+Church.,Asore,noun,https://www.akandictionary.com/2021/05/05/asore/
+Church/Chapel/Temple.,Asoredan,noun,https://www.akandictionary.com/2021/05/05/asoredan/
+Cigarette.,Taa,noun,https://www.akandictionary.com/2022/01/15/taa/
+Circle.,Kanko,noun,https://www.akandictionary.com/2022/08/10/kanko-2/
+Circumcision.,Twetiatwire,noun,https://www.akandictionary.com/2022/12/29/twetiatwire/
+Citizen.,Omanba,noun,https://www.akandictionary.com/2021/05/21/omanba/
+Clap.,Nsambo,noun,https://www.akandictionary.com/2021/10/16/nsambo/
+Clause.,Okasamufa,noun,https://www.akandictionary.com/2022/10/10/okasamufa/
+Climate.,Wiem nsakraee,noun,https://www.akandictionary.com/2022/01/15/wiem-nsakraee/
+Climb/Mount.,Fro,verb,https://www.akandictionary.com/2021/05/14/fro/
+Clitoris.,Etweba,anatomy,https://www.akandictionary.com/2021/04/15/etweba/
+Close.,To mu,verb (Compound),https://www.akandictionary.com/2021/05/10/to-mu/
+Cocaine.,Kookeen,noun,https://www.akandictionary.com/2021/08/16/kookeen/
+Cock.,Akokonini,noun,https://www.akandictionary.com/2021/04/16/akokonini/
+Cockroach.,Tefre,noun,https://www.akandictionary.com/2021/04/16/tefre/
+Cocoa.,Kookoo,noun,https://www.akandictionary.com/2021/08/16/kookoo/
+Coconut.,Kube,,https://www.akandictionary.com/2021/04/16/kube/
+Cocoyam leaves.,Nkontomire,noun,https://www.akandictionary.com/2021/04/16/nkontomire/
+Cocoyam.,Mankani,noun,https://www.akandictionary.com/2021/04/16/mankani/
+Coffee.,Kofe,noun,https://www.akandictionary.com/2021/12/12/kofe-2/
+Cold/Chill.,Awo,noun,https://www.akandictionary.com/2021/10/09/awo/
+Cold/Frozen.,Nwunu,adjective,https://www.akandictionary.com/2023/11/04/nwunu/
+Colleagues.,Mfefo,,https://www.akandictionary.com/2021/04/18/mfefo/
+Collect/Save/Except.,Gye,verb,https://www.akandictionary.com/2021/05/14/gye/
+Colon/Punctuation mark.,Osiprenu,noun,https://www.akandictionary.com/2022/04/12/osiprenu/
+Colour/Color.,Ahosuo,noun,https://www.akandictionary.com/2022/04/12/ahosuo/
+Come and eat.,Bra bedidi,Phrase.,https://www.akandictionary.com/2025/07/25/bra-bedidi/
+Come here.,Bra ha,Phrase.,https://www.akandictionary.com/2024/11/28/bra-ha/
+Commerce/Shopping/Trading/Buy and Sell.,Dwadie,verb,https://www.akandictionary.com/2021/04/24/dwem/
+Commitment.,Ahyemdie,noun,https://www.akandictionary.com/2021/08/16/ahyemdie/
+Common Cold.,Papu,,https://www.akandictionary.com/2021/04/18/papu/
+Common noun.,Edin hunu,noun,https://www.akandictionary.com/2022/10/10/edin-hunu/
+Companion/Best Friend.,Oyonkuo,noun,https://www.akandictionary.com/2021/04/21/oyonkuo/
+Company/Gang/Party/Group/Society.,Asafo,noun,https://www.akandictionary.com/2022/03/01/asafo/
+Compass direction,Wiase Akwankyere,noun,https://www.akandictionary.com/2024/08/25/wiase-akwankyere/
+Complacency.,Atirimuode,verb,https://www.akandictionary.com/2022/01/27/atirimuode/
+Complaint.,Nkurobo,noun,https://www.akandictionary.com/2021/10/08/nkurobo/
+Complicated.,Wonworan,Adjective,https://www.akandictionary.com/2022/01/27/wonworan/
+Composition.,Susutwere,noun,https://www.akandictionary.com/2022/10/10/susutwere/
+Compound sentence.,Okasamu tenten,noun,https://www.akandictionary.com/2022/10/10/okasamu-tenten/
+Compound.,Adiho,noun,https://www.akandictionary.com/2023/01/27/adiho/
+Computer lab.,Nkonta afidie mpensempensemmubea,Noun,https://www.akandictionary.com/2025/12/01/nkonta-afidie-mpensempensemmubea/
+Computer programming.,Nkonta afidie nhyehyeee,noun,https://www.akandictionary.com/2022/07/30/nkonta-afidie-nhyehyeee/
+Computer technology.,Nkonta afidie nimdee soronko,adjective,https://www.akandictionary.com/2022/07/31/nkonta-afidie-nimdee-soronko/
+Computer.,Nkonta afidie,noun,https://www.akandictionary.com/2021/04/17/nkonta-afidie/
+Concentration.,Adwen Nsisuo,,https://www.akandictionary.com/2021/04/22/adwen-nsisuo/
+Concoction.,Dudo,noun.,https://www.akandictionary.com/2022/03/28/dudo/
+Confidential/Privacy.,Kokoam,noun,https://www.akandictionary.com/2021/08/16/kokoam/
+Confuse.,Basaa,verb,https://www.akandictionary.com/2021/07/24/basaa/
+Conjoined crocodiles.,Funtunfunefu Denkyemfunefu,,https://www.akandictionary.com/2021/04/28/funtunfunefu-denkyemfunefu-2/
+Conjunction.,Nkabomdee,noun,https://www.akandictionary.com/2021/04/17/nkabomdee/
+Conqueror of the ends of the stream.,Okotwaasuo,noun,https://www.akandictionary.com/2022/10/13/okotwaasuo/
+Conqueror/General.,Osagyefo,noun,https://www.akandictionary.com/2022/10/13/osagyefo/
+Consequence.,Nsunsuansuo,noun,https://www.akandictionary.com/2022/05/28/nsunsuansuo/
+Consonant.,Menemusi,noun,https://www.akandictionary.com/2021/04/12/menemusi/
+Consonants.,Anom nnyegyee,noun,https://www.akandictionary.com/2022/10/10/anom-nnyegyee/
+Constellation.,Nsorommakuw,,https://www.akandictionary.com/2021/04/18/nsorommakuw/
+Constituency.,Abatuo mpasua,noun,https://www.akandictionary.com/2024/03/08/abatuo-mpasua/
+Constitution.,Omammara,noun,https://www.akandictionary.com/2024/03/08/omammara/
+Contagion.,Nsaneyaree,noun,https://www.akandictionary.com/2023/12/08/nsaneyaree/
+Contemplation.,Adwen Nhwehwemu,,https://www.akandictionary.com/2021/04/22/adwen-nhwehwemu/
+Continent.,Asasepon,noun,https://www.akandictionary.com/2024/05/24/asasepon/
+Continuous tense.,Ensiie kabea,noun,https://www.akandictionary.com/2022/10/10/ensiie-kabea/
+Contract.,Kontraagye,noun,https://www.akandictionary.com/2021/08/16/kontraagye/
+Contract.,Apam,noun,https://www.akandictionary.com/2021/08/16/apam/
+Conversation/Dialogue.,Nkommo,noun,https://www.akandictionary.com/2022/03/25/nkommo/
+Cook.,Noa,verb,https://www.akandictionary.com/2024/11/29/noa/
+Cooked mixture of slightly fermented corn and cassava doughs.,Banku,noun,https://www.akandictionary.com/2023/09/29/banku/
+Cooked rice and beans dish.,Waakye,noun,https://www.akandictionary.com/2022/01/16/waakye/
+Cooking oil.,Anwa,noun,https://www.akandictionary.com/2021/04/16/anwa/
+Cooking.,Aduane noa,noun.,https://www.akandictionary.com/2021/09/19/aduane-noa/
+Copper.,Kobere,noun,https://www.akandictionary.com/2021/12/12/kobere/
+Corpse/Carcass.,Efunu,noun,https://www.akandictionary.com/2021/11/17/efunu/
+Corrode.,Wewe,noun,https://www.akandictionary.com/2022/02/24/wewe/
+Corruption.,Proye,,https://www.akandictionary.com/2021/04/18/proye/
+Cotton/Wool.,Asaawa,noun,https://www.akandictionary.com/2021/05/05/asaawa/
+Could you repeat yourself?,Wobetumi,conditional verb,https://www.akandictionary.com/2021/04/26/wobetumi/
+Council.,Agyina,noun,https://www.akandictionary.com/2022/04/24/agyina/
+Counsel.,Afotuo,noun,https://www.akandictionary.com/2022/04/24/afotuo/
+Courage.,Akokuoduro,Adjective,https://www.akandictionary.com/2021/10/19/akokuoduro/
+Courage.,Kokoduro,verb.,https://www.akandictionary.com/2021/04/14/kokoduro/
+Court.,Asennibea,noun,https://www.akandictionary.com/2021/05/23/asennibea/
+Crab.,Koto,noun,https://www.akandictionary.com/2021/04/16/koto/
+Crack.,Pae,verb,https://www.akandictionary.com/2025/07/18/pae/
+Crania nerves.,Adwene ahoma,noun,https://www.akandictionary.com/2021/04/15/adwene-ahoma/
+Crawl.,Wea,verb,https://www.akandictionary.com/2025/07/18/wea/
+Creator.,Oboadee,noun,https://www.akandictionary.com/2022/02/25/oboadee/
+Cremation.,Afunhye,noun,https://www.akandictionary.com/2021/08/11/afunhye-2/
+Crematorium.,Afunhyebea,noun,https://www.akandictionary.com/2021/08/11/afunhyebea/
+Crescent moon.,Bosome ato kankofa,noun,https://www.akandictionary.com/2025/09/15/bosome-ato-kankofa/
+Cricket.,Katakyire,,https://www.akandictionary.com/2021/04/16/katakyire/
+Cripple.,Obubuafuo,noun,https://www.akandictionary.com/2022/04/10/obubuafuo/
+Critic.,Osamufuo,noun,https://www.akandictionary.com/2022/04/10/osamufuo/
+Crocodile.,Denkyem,noun,https://www.akandictionary.com/2021/04/11/denkyem/
+Crooked.,Akoa,Adjective,https://www.akandictionary.com/2021/04/21/akoa/
+Crow.,Kwaakwaadabi,,https://www.akandictionary.com/2021/04/16/kwaakwaadabi/
+Crow.,Kwaakwaadabi,noun,https://www.akandictionary.com/2021/08/11/kwaakwaadabi-2/
+Crow.,Anene,,https://www.akandictionary.com/2021/04/16/anene/
+Crowd.,Dom,noun,https://www.akandictionary.com/2021/06/29/dom/
+Crown.,Ahemmotiri,,https://www.akandictionary.com/2021/04/18/ahemmotiri/
+Crutches.,Abubuafuo poma,noun,https://www.akandictionary.com/2021/08/10/abubuafuo-poma/
+Cup.,Kuruwa,,https://www.akandictionary.com/2021/04/22/kuruwa/
+Curse.,Duabo,noun,https://www.akandictionary.com/2022/04/10/duabo/
+Custodian of the Land. Second in command after theOmanhene.,Krontihene,noun,https://www.akandictionary.com/2022/10/13/krontihene/
+Custodian of the palace.,Ankobeahene,noun,https://www.akandictionary.com/2022/10/13/ankobeahene/
+Customs/Traditions.,Amammere,noun,https://www.akandictionary.com/2021/05/08/amammere/
+Dagger/Sword.,Sekammoa,,https://www.akandictionary.com/2021/04/22/sekammoa/
+Dandruff.,Ehoa,noun,https://www.akandictionary.com/2022/05/28/ehoa/
+Dark.,Sum,,https://www.akandictionary.com/2021/04/21/sum/
+Dark.,Tuum,Adjective,https://www.akandictionary.com/2021/08/27/tuum/
+Darkness/Gloom.,Esum,noun,https://www.akandictionary.com/2021/10/12/esum/
+Daughter.,Ba baa,noun,https://www.akandictionary.com/2021/05/16/ba-baa/
+Dawn/Early morning.,Ahemakye,noun,https://www.akandictionary.com/2021/04/18/ahemakye/
+Day/Date.,Da,noun,https://www.akandictionary.com/2021/05/02/da-2/
+Deaf.,Asosiee,noun,https://www.akandictionary.com/2021/05/16/asosiee/
+Death.,Owuo,noun,https://www.akandictionary.com/2022/02/17/owuo/
+Debit card.,Besea kad,noun,https://www.akandictionary.com/2021/08/01/besea-kad/
+Decade.,Mfe du,Num,https://www.akandictionary.com/2021/08/13/mfe-du/
+Decay/Rot/Decompose.,Poro,verb,https://www.akandictionary.com/2025/03/29/poro/
+Deceit.,Nnaadaa,noun,https://www.akandictionary.com/2021/05/08/nnaadaa/
+Deceive.,Daadaa,verb,https://www.akandictionary.com/2021/05/08/daadaa/
+December.,Openimma,noun,https://www.akandictionary.com/2021/04/14/openimma/
+December.,Mumu,noun,https://www.akandictionary.com/2021/04/14/mumu/
+Decision.,Gyinaesi,,https://www.akandictionary.com/2021/04/18/gyinaesi/
+Decisions.,Gyinaesi ahoruo,noun,https://www.akandictionary.com/2021/04/18/gyinaesi-ahoroo/
+Decline/Reject.,Po,verb,https://www.akandictionary.com/2021/07/26/po/
+Decorate/Repair.,Siesie,verb,https://www.akandictionary.com/2021/05/08/siesie/
+Decoration.,Asiesie,noun,https://www.akandictionary.com/2021/05/08/asiesie/
+Deep.,Do,Adjective,https://www.akandictionary.com/2021/04/18/do/
+Deer.,Oforotee,,https://www.akandictionary.com/2021/04/16/oforotee/
+Dentist.,Ese dokota,noun,https://www.akandictionary.com/2021/10/11/ese-dokota/
+Department.,Nkorabata,noun,https://www.akandictionary.com/2023/09/29/nkorabata/
+Departure.,Afiriye,noun,https://www.akandictionary.com/2021/08/10/afiriye/
+Depression.,Awerehuo yaree,noun,https://www.akandictionary.com/2021/05/22/awerehoo-yaree/
+Depth.,Emudo,,https://www.akandictionary.com/2021/04/18/emudo/
+Desert.,Esere,noun,https://www.akandictionary.com/2021/04/24/esere/
+Dessert.,Mpanum,noun,https://www.akandictionary.com/2021/09/04/mpanum/
+Determination/Serious.,Anibere,noun,https://www.akandictionary.com/2021/05/01/anibere/
+Development.,Mpuntuo,noun,https://www.akandictionary.com/2021/05/22/mpuntuo/
+Devil.,Obonsam,noun,https://www.akandictionary.com/2021/05/22/obonsam/
+Devil.,Bonsam,noun,https://www.akandictionary.com/2021/05/22/bonsam/
+Dew,Bo,noun,https://www.akandictionary.com/2021/04/11/bo/
+Diamond.,Denkyemmoo,noun,https://www.akandictionary.com/2021/05/22/denkyemmoo/
+Diamond.,Adaman,shape,https://www.akandictionary.com/2021/05/22/adaman-2/
+Dictation.,Okatwere,noun,https://www.akandictionary.com/2022/10/10/okatwere/
+Dictionary.,Nsemfua asekyere nhoma,noun,https://www.akandictionary.com/2021/05/14/nsemfua-asekyere-nhoma/
+Dictionary.,Nsemfua nkyereasee nwoma,noun,https://www.akandictionary.com/2023/07/16/nsemfua-nkyereasee-nwoma/
+Didn’t think.,Nnwene,verb/negative,https://www.akandictionary.com/2021/05/22/nnwene/
+Die.,Wu,verb,https://www.akandictionary.com/2021/04/26/wu/
+Different.,Sononko,noun,https://www.akandictionary.com/2021/05/14/sononko/
+Difficult.,Dee eye den,adjective,https://www.akandictionary.com/2022/12/14/dee-eye-den/
+Dignity/Honor.,Animuonyam,noun,https://www.akandictionary.com/2021/05/14/animuonyam/
+Dine.,Adidie,verb,https://www.akandictionary.com/2021/08/02/adidie/
+Dinning room.,Adidie dan,noun,https://www.akandictionary.com/2021/08/02/adidie-dan/
+Dirt/Filth.,Fi,noun,https://www.akandictionary.com/2021/05/08/fi/
+Discounts/Reduction/Decrement.,Ntesuo,noun,https://www.akandictionary.com/2024/08/12/ntesuo/
+Disease/Illness.,Yaree,noun,https://www.akandictionary.com/2021/08/27/yaree/
+Diseases.,Nyarewa,noun,https://www.akandictionary.com/2021/05/23/nyarewa/
+Dishes.,Nkukuo,noun,https://www.akandictionary.com/2021/10/19/nkukuo/
+Disobedience/Obstinacy/Stubborn.,Asuoden,noun,https://www.akandictionary.com/2022/03/01/asuoden/
+Distance.,Kwantwa,noun,https://www.akandictionary.com/2021/04/14/kwantwa/
+Distant/Remote.,Akyirikyiri,adjective,https://www.akandictionary.com/2021/05/18/akyirikyiri-2/
+District.,Mansini,noun,https://www.akandictionary.com/2021/08/13/mansini/
+Dividend.,Kyefa,noun,https://www.akandictionary.com/2021/04/15/kyefa/
+Divider.,Nkyimu,Adinkra symbol,https://www.akandictionary.com/2021/04/19/nkyimu/
+Division/Verse/Section.,Nkyekyemu,noun.,https://www.akandictionary.com/2021/04/14/nkyekyemu/
+Divorce.,Awaregyaee,noun,https://www.akandictionary.com/2022/05/22/awaregyaee/
+Do you remember what I said.,Kae,verb,https://www.akandictionary.com/2021/04/18/kae/
+Do you speak English?,Woka borofo?,phrase,https://www.akandictionary.com/2021/04/21/woka-borofo/
+Do you speak Twi?,Woka,conditional verb,https://www.akandictionary.com/2021/04/26/woka/
+Do you understand English?,Wote borofo?,phrase,https://www.akandictionary.com/2021/04/21/wote-borofo/
+Do you understand what I am saying.,Te asee,verb,https://www.akandictionary.com/2021/04/13/te-asee/
+Do you understand?,Wote asee?,Phrase.,https://www.akandictionary.com/2025/07/20/wote-asee/
+Doctor/Physician.,Oyaresafuo,noun,https://www.akandictionary.com/2021/04/24/oyaresafuo/
+Documents.,Nkrataa,noun,https://www.akandictionary.com/2021/05/10/nkrataa/
+Dog flea.,Okramandwie,noun,https://www.akandictionary.com/2023/09/05/okramandwie/
+Dog.,Okraman,noun,https://www.akandictionary.com/2021/04/16/okraman/
+Doll.,Abaduaba,noun,https://www.akandictionary.com/2021/05/11/abaduaba/
+Donkey.,Afunumu,noun,https://www.akandictionary.com/2021/04/16/afunumu/
+Don’t mention it/No need to thank me.,Enda,verb,https://www.akandictionary.com/2021/04/19/enda/
+Door.,Epono,noun,https://www.akandictionary.com/2022/02/17/epono/
+Dough.,Mmore,noun,https://www.akandictionary.com/2021/08/01/mmore/
+Dove/Pigeon.,Abuburo,noun,https://www.akandictionary.com/2022/04/23/abuburo/
+Download.,Twe,verb,https://www.akandictionary.com/2022/11/14/twe/
+Dragon.,Otweasee,animal,https://www.akandictionary.com/2022/08/25/otweasee/
+Dried tears.,Impi,noun,https://www.akandictionary.com/2024/05/09/impi/
+Drink.,Nom,verb,https://www.akandictionary.com/2021/04/18/nom/
+Driver ants.,Nkrane,noun,https://www.akandictionary.com/2021/04/16/nkrane/
+Driver.,Ofidikafuo,,https://www.akandictionary.com/2021/04/21/ofidikafuo/
+Drool.,Ano nsuo,noun,https://www.akandictionary.com/2025/08/16/ano-nsuo/
+Drug/Chemical/Herb.,Aduru,noun,https://www.akandictionary.com/2021/08/02/aduru/
+Drugstore.,Adutonbea,noun,https://www.akandictionary.com/2021/08/02/adutonbea/
+Drum.,Twene,noun,https://www.akandictionary.com/2025/09/15/twene/
+Drummer.,Okyerema,noun,https://www.akandictionary.com/2025/09/15/okyerema/
+Dry Season.,Opebere,noun,https://www.akandictionary.com/2022/07/24/opebere/
+Dry.,Hata,verb,https://www.akandictionary.com/2021/12/04/hata/
+Duck.,Dabodabo,noun,https://www.akandictionary.com/2021/04/16/dabodabo/
+Duration.,Mmeresantene,noun,https://www.akandictionary.com/2021/10/11/mmeresantene/
+Dust.,Mfuturo,noun,https://www.akandictionary.com/2025/07/07/mfuturo/
+Duty/Obligation/Responsibility.,Ahyedee,noun,https://www.akandictionary.com/2021/05/11/ahyedee/
+Dwarfs/Dwarves.,Mmoatia,noun,https://www.akandictionary.com/2022/01/16/mmoatia/
+Dwell/Stay.,Tena,noun,https://www.akandictionary.com/2021/08/13/tena/
+Dwelling.,Atenaee,noun,https://www.akandictionary.com/2021/08/13/atenaee/
+Each Individual.,Ankoanko,noun,https://www.akandictionary.com/2021/05/22/ankoanko/
+Eagle.,Okodee,noun,https://www.akandictionary.com/2021/04/10/okodee/
+Ear.,Aso,noun,https://www.akandictionary.com/2021/04/12/aso/
+Earring.,Asomadee,noun,https://www.akandictionary.com/2022/01/16/asomadee/
+Earth/Land/Fied.,Asase,noun,https://www.akandictionary.com/2021/04/11/asaase/
+Earthquake.,Asasewosuo,noun,https://www.akandictionary.com/2021/05/23/asasewosuo/
+Earthquate.,Kukurudu,noun,https://www.akandictionary.com/2021/05/06/kukurudu/
+Earthworm.,Sonsono,,https://www.akandictionary.com/2021/04/16/sonsono/
+East.,Epueee,noun,https://www.akandictionary.com/2021/04/12/epueee/
+Eastern Region.,Epueee Mantam,noun,https://www.akandictionary.com/2024/11/28/epueee-mantam/
+Ebony.,Okisibiri,noun,https://www.akandictionary.com/2022/07/14/okisibiri/
+Economy.,Asetenamu,noun,https://www.akandictionary.com/2021/05/23/asetenamu/
+Eczema.,Ekoro,noun,https://www.akandictionary.com/2021/12/20/ekoro/
+Education.,Adesua,noun,https://www.akandictionary.com/2021/04/18/adesua/
+Eel.,Oyoyo,noun,https://www.akandictionary.com/2021/04/16/oyoyo/
+Egg.,Kosua,noun,https://www.akandictionary.com/2021/04/16/kosua/
+Eight (8) A.M.,Anopa nnonwotwe,noun,https://www.akandictionary.com/2023/07/22/anopa-nnonwotwe/
+Eight (8) O’clock.,Nnonwotwe,noun,https://www.akandictionary.com/2023/07/22/nnonwotwe/
+Eight.,Eto so nwotwe,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-nwotwe/
+Eight/8.,Nwotwe,number,https://www.akandictionary.com/2021/04/14/nwotwe/
+Eighteen/18.,Dunwotwe,,https://www.akandictionary.com/2021/08/02/dunwotwe/
+Eighty (80).,Aduowotwe,number,https://www.akandictionary.com/2022/02/14/aduowotwe/
+Eighty-eight (88).,Aduowotwe nwotwe,number,https://www.akandictionary.com/2022/02/14/aduowotwe-nwotwe/
+Eighty-five (85).,Aduowotwe num,number,https://www.akandictionary.com/2022/02/14/aduowotwe-num/
+Eighty-four (84).,Aduowotwe nan,number,https://www.akandictionary.com/2022/02/14/aduowotwe-nan/
+Eighty-nine (89).,Aduowotwe nkron,number,https://www.akandictionary.com/2022/02/14/aduowotwe-nkron/
+Eighty-one (81).,Aduowotwe baako,number,https://www.akandictionary.com/2022/02/14/aduowotwe-baako/
+Eighty-seven (87).,Aduowotwe nson,number,https://www.akandictionary.com/2022/02/14/aduowotwe-nson/
+Eighty-six (86).,Aduowotwe nsia,number,https://www.akandictionary.com/2022/02/14/aduowotwe-nsia/
+Eighty-three (83).,Aduowotwe mmiensa,number,https://www.akandictionary.com/2022/02/14/aduowotwe-miensa/
+Eighty-two (82).,Aduowotwe mmienu,number,https://www.akandictionary.com/2022/02/14/aduowotwe-mienu/
+Elder/Senior person.,Panin,noun,https://www.akandictionary.com/2021/04/16/panin-2/
+Elder/Senior person.,Opanin,noun,https://www.akandictionary.com/2021/05/20/opanin/
+Elder/Senior person.,Panyin,noun,https://www.akandictionary.com/2021/05/20/panyin/
+Elders/Senior persons.,Mpanimfoo,noun,https://www.akandictionary.com/2021/05/20/mpanimfoo/
+Election/Voting.,Abatoo,noun,https://www.akandictionary.com/2021/06/13/abatoo/
+Electrons.,Ahim Mmosea Nfirimu,,https://www.akandictionary.com/2021/04/22/ahim-mmosea-nfirimu/
+Elephant.,Osono,noun,https://www.akandictionary.com/2021/04/10/osono/
+Elevan (11) O’clock.,Nnondubaako,noun,https://www.akandictionary.com/2023/07/22/nnondubaako/
+Eleven/11.,Dubaako,,https://www.akandictionary.com/2021/05/09/dubaako/
+Elliptical.,Nyankanko,,https://www.akandictionary.com/2021/04/22/nyankanko/
+Emperor.,Opemsuo,Noun.,https://www.akandictionary.com/2021/04/29/opemsuo/
+Employee.,Adwumayeni,noun,https://www.akandictionary.com/2021/08/02/adwumayeni/
+Employer.,Adwuma wura,noun,https://www.akandictionary.com/2021/08/02/adwuma-wura/
+End.,Awiee,noun,https://www.akandictionary.com/2021/05/08/awiee/
+End/Ultimate.,Awiei,noun,https://www.akandictionary.com/2021/10/09/awiei/
+Ending.,Awieee,noun,https://www.akandictionary.com/2022/07/19/awieee/
+Enema syringe.,Bentoa,noun,https://www.akandictionary.com/2025/07/05/bentoa-2/
+Enema.,Asa,noun,https://www.akandictionary.com/2021/05/05/asa/
+Enemy.,Otamfo,noun,https://www.akandictionary.com/2021/05/21/otamfo/
+Energy.,Ahuoden,noun,https://www.akandictionary.com/2021/04/14/ahuoden/
+Engine/Machine.,Afidie,noun,https://www.akandictionary.com/2021/04/17/afidie/
+Engineer.,Mfididwumayefuo,noun,https://www.akandictionary.com/2022/07/10/mfididwumayefuo/
+English Language.,Brofo,noun,https://www.akandictionary.com/2023/07/16/brofo/
+Epilepsy/Seizure.,Etwire,noun,https://www.akandictionary.com/2022/07/10/etwire/
+Equal.,Koro,adjective,https://www.akandictionary.com/2022/07/10/koro/
+Equality.,Pepeepeyo,noun,https://www.akandictionary.com/2022/07/10/pepeepeyo/
+Equator.,Wiase Mfimfini,noun,https://www.akandictionary.com/2024/11/25/wiase-mfimfini/
+Erectile dysfunction/Impotence.,Kotewuie,noun,https://www.akandictionary.com/2022/07/16/kotewuie/
+Esophagus.,Dweedweewa,Noun,https://www.akandictionary.com/2025/09/29/dweedweewa/
+Especially.,Enkanka,Conjunction,https://www.akandictionary.com/2021/04/17/enkanka/
+European.,Yurop Abrokyiri ni,noun,https://www.akandictionary.com/2021/08/27/yurop-abrokyiri-ni/
+Evacuate/Fly.,Tu,verb,https://www.akandictionary.com/2021/08/27/tu/
+Evening.,Anwummere,noun,https://www.akandictionary.com/2022/02/17/anwummere/
+Every day.,Da biara,noun,https://www.akandictionary.com/2021/07/26/da-biara/
+Ewe.,Odwan bedee,noun,https://www.akandictionary.com/2021/04/16/odwan-bedee/
+Exam/Test/Quiz.,Nsohwe,noun,https://www.akandictionary.com/2021/05/14/nsohwe/
+Example.,Nhwesuo,noun,https://www.akandictionary.com/2021/04/10/nhwesuo/
+Except God.,Gye Nyame,,https://www.akandictionary.com/2021/04/15/gye-nyame/
+Exchange/Variation.,Nsesaee,noun,https://www.akandictionary.com/2021/08/11/nsesaee/
+Exclamation.,oo,Interjection,https://www.akandictionary.com/2021/04/29/oo/
+Excuse me.,Mesre,adverb,https://www.akandictionary.com/2021/04/25/mesre/
+Executioner.,Obrafuo,noun,https://www.akandictionary.com/2021/12/20/obrafuo/
+Exercise/Function/Task.,Dwumadie,noun,https://www.akandictionary.com/2022/10/10/dwumadie/
+Exhibit.,Yikyere,verb,https://www.akandictionary.com/2021/08/27/yikyere/
+Expensive.,Abooden,Adjective,https://www.akandictionary.com/2021/04/29/abuoden/
+Experience.,Suahunu,noun,https://www.akandictionary.com/2021/10/21/suahunu/
+Explain.,Kyere mu,verb,https://www.akandictionary.com/2021/05/06/kyere-mu/
+Export.,Mane ko,verb,https://www.akandictionary.com/2021/08/13/mane-ko/
+Extend.,Tre,verb,https://www.akandictionary.com/2021/06/10/tre/
+Eye disharge/Eye gunk/Rheum.,Empe,noun,https://www.akandictionary.com/2025/08/16/empe/
+Eye.,Ani,noun,https://www.akandictionary.com/2021/04/11/ani/
+Eyeglasses.,Ahwehweniwa,NOUN,https://www.akandictionary.com/2021/08/28/ahwehweniwa/
+Fabric/Textile.,Etam,noun,https://www.akandictionary.com/2021/08/13/etam/
+Face.,Anim,noun,https://www.akandictionary.com/2021/12/23/anim/
+Faith.,Gyedie,noun,https://www.akandictionary.com/2022/07/19/gyedie/
+False/Wrong.,Akohwie,noun,https://www.akandictionary.com/2021/04/15/akohwie/
+Family/Clan.,Abusua,noun,https://www.akandictionary.com/2021/04/13/abusua/
+Farewell.,Dote yie,noun,https://www.akandictionary.com/2025/08/31/dote-yie/
+Farm.,Afuo,noun,https://www.akandictionary.com/2021/08/10/afuo/
+Farmer.,Okuani,noun,https://www.akandictionary.com/2021/04/21/okuani/
+Fart/Flatulence.,Eta,noun,https://www.akandictionary.com/2022/04/24/eta/
+Fast.,Ntem,verb,https://www.akandictionary.com/2021/04/18/ntem/
+Fasting.,Buada,noun,https://www.akandictionary.com/2024/05/18/buada/
+Fat.,Bodee,adjective,https://www.akandictionary.com/2021/05/17/bodee/
+Fate.,Nkrabea,noun,https://www.akandictionary.com/2021/05/12/nkrabea/
+Father-in-law.,Ase barima,noun,https://www.akandictionary.com/2021/05/12/ase-barima/
+Father.,Agya,noun,https://www.akandictionary.com/2021/04/13/agya/
+Father.,Papa,noun,https://www.akandictionary.com/2021/05/14/papa/
+Fear/Panic.,Ehu,noun,https://www.akandictionary.com/2021/05/22/ehu/
+Feather.,Takra,noun,https://www.akandictionary.com/2022/02/25/takra/
+February.,Ogyefuo,noun,https://www.akandictionary.com/2021/04/14/ogyefuo/
+February.,Kwakwar,noun,https://www.akandictionary.com/2021/04/14/kwakwar/
+Feces.,Ebeni,noun,https://www.akandictionary.com/2021/04/21/ebeni/
+Federation.,Aman Nkabom,noun,https://www.akandictionary.com/2021/05/18/aman-nkabom/
+"Female, Friday born.",Afua,noun,https://www.akandictionary.com/2021/04/12/afua/
+"Female, Monday born.",Adwoa,noun,https://www.akandictionary.com/2021/04/12/adwoa/
+"Female, Saturday born.",Ama,,https://www.akandictionary.com/2021/04/11/ama/
+"Female, Sunday born.",Esi,noun,https://www.akandictionary.com/2021/04/12/esi/
+"Female, Thursday born.",Yaa,noun,https://www.akandictionary.com/2021/04/12/yaa/
+"Female, Tuesday born.",Abena,noun,https://www.akandictionary.com/2021/04/12/abena/
+"Female, Wednesday born.",Akua,noun,https://www.akandictionary.com/2021/04/12/akua/
+Female.,Basia,noun,https://www.akandictionary.com/2021/07/24/basia/
+Fence.,Eban,,https://www.akandictionary.com/2021/04/15/eban/
+Fern.,Aya,,https://www.akandictionary.com/2021/04/20/aya-2/
+Ferry.,Asutware,noun,https://www.akandictionary.com/2021/10/03/asutware/
+Fertile.,Etumi wo,noun,https://www.akandictionary.com/2023/05/21/etumi-wo/
+Festival.,Afahye,noun,https://www.akandictionary.com/2021/05/07/afahye/
+Fetish priest.,Obosomfo,noun.,https://www.akandictionary.com/2021/05/21/obosomfo/
+Fetish priests.,Abosomfo,noun.,https://www.akandictionary.com/2021/05/21/abosomfo/
+Fetish priests.,Akomfoo,noun.,https://www.akandictionary.com/2021/05/21/akomfoo/
+Fetish/Idol.,Obosom,noun.,https://www.akandictionary.com/2021/05/21/obosom/
+Fetus.,Mogyatoa,noun,https://www.akandictionary.com/2021/12/20/mogyatoa/
+Fever.,Atiridii,noun.,https://www.akandictionary.com/2021/09/23/atiridii/
+Fibroid/Fibroids/Uterine fibroids.,Awodeeho Mmire,noun,https://www.akandictionary.com/2024/03/12/awodeeho-mmire/
+Fiction.,Anansesem,noun,https://www.akandictionary.com/2021/12/20/anansesem/
+Field.,Afuo mu,noun,https://www.akandictionary.com/2021/08/10/afuo-mu/
+Field.,Asasetam,noun,https://www.akandictionary.com/2021/05/23/asasetam/
+Fifteen/15.,Dunum,,https://www.akandictionary.com/2021/08/02/dunum/
+Fifth.,Eto so num,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-num/
+Fifty (50).,Aduonum,number,https://www.akandictionary.com/2021/08/13/aduonum/
+Fifty (51).,Aduonum baako,number,https://www.akandictionary.com/2022/01/15/aduonum-baako/
+Fifty (52).,Aduonum mmienu,number,https://www.akandictionary.com/2022/01/15/aduonum-mmienu/
+Fifty (53).,Aduonum mmiensa,number,https://www.akandictionary.com/2022/01/15/aduonum-mmiensa/
+Fifty (54).,Aduonum nan,number,https://www.akandictionary.com/2022/01/15/aduonum-nan/
+Fifty (55).,Aduonum num,number,https://www.akandictionary.com/2022/01/15/aduonum-num/
+Fifty (56).,Aduonum nsia,number,https://www.akandictionary.com/2022/01/15/aduonum-nsia/
+Fifty (57).,Aduonum nson,number,https://www.akandictionary.com/2022/01/15/aduonum-nson/
+Fifty (58).,Aduonum nwotwe,number,https://www.akandictionary.com/2022/01/15/aduonum-nwotwe/
+Fifty (59).,Aduonum nkron,number,https://www.akandictionary.com/2022/01/15/aduonum-nkron/
+Fight against.,Tia,verb,https://www.akandictionary.com/2021/04/24/tia/
+Fight.,ko,verb,https://www.akandictionary.com/2021/04/19/ko/
+Film/Movie/Video.,Sini,noun,https://www.akandictionary.com/2021/04/17/sini/
+Filter it.,Sone,verb,https://www.akandictionary.com/2021/09/19/sone/
+Finger.,Nsatea,noun,https://www.akandictionary.com/2021/04/12/nsatea/
+Fingernail.,Bowere,noun,https://www.akandictionary.com/2021/04/21/no-3/
+Fire ants.,Nkran,noun,https://www.akandictionary.com/2021/10/03/nkran/
+Fire service.,Odumgya adwuma,noun,https://www.akandictionary.com/2022/02/25/odumgya-adwuma/
+Fire.,Ogya,noun,https://www.akandictionary.com/2021/04/22/ogya/
+First-born.,Abakan,Adjective/noun,https://www.akandictionary.com/2021/08/13/abakan/
+First.,Kane,Ordinal number,https://www.akandictionary.com/2025/04/10/kane/
+First.,Edi kan,ordinal number,https://www.akandictionary.com/2025/04/10/edi-kan/
+Fish hook.,Darewa,noun,https://www.akandictionary.com/2021/05/08/darewa/
+Fish.,Nsuomnam,noun,https://www.akandictionary.com/2021/04/16/nsuomnam/
+Fisherman.,Opofoni,noun,https://www.akandictionary.com/2021/05/23/galamsey/
+Fisherman.,Ofareni,,https://www.akandictionary.com/2021/04/21/ofareni/
+Fishing rod.,Daawa dua,noun,https://www.akandictionary.com/2021/05/02/daawa-dua/
+Fist.,Kuturuku,noun,https://www.akandictionary.com/2021/10/12/kuturuku/
+Fit/Suit/Deserve.,Fata,adjective,https://www.akandictionary.com/2021/08/02/fata/
+Five (5) O’clock.,Nnonnum,noun,https://www.akandictionary.com/2023/07/22/nnonnum/
+Five days.,Nnanum,adverb,https://www.akandictionary.com/2021/08/03/nnanum/
+Five tufts of hair.,Mpuanum,,https://www.akandictionary.com/2021/04/28/mpuanum-2/
+Five/5.,Enum,number,https://www.akandictionary.com/2021/04/14/enum/
+Flag.,Frankaa,noun,https://www.akandictionary.com/2021/08/13/frankaa/
+Flank.,Nkyenmu,noun,https://www.akandictionary.com/2022/02/25/nkyenmu/
+Flavor.,Hwa,noun,https://www.akandictionary.com/2021/12/04/hwa/
+Flea.,Sonkosuo,noun,https://www.akandictionary.com/2023/09/05/sonkosuo/
+Float.,Te ani,verb,https://www.akandictionary.com/2025/03/31/te-ani/
+Flood.,Nsuyiri,noun,https://www.akandictionary.com/2023/12/08/nsuyiri/
+Floor/Ground.,Fam,noun,https://www.akandictionary.com/2022/09/17/fam/
+Flour.,Esiam,noun,https://www.akandictionary.com/2021/04/16/esiam/
+Flower.,Nhwiren,noun,https://www.akandictionary.com/2021/04/22/nhwiren/
+Fluency.,Anotee,noun,https://www.akandictionary.com/2021/05/14/anotee/
+Flute/Horn/Siren.,Aben,noun,https://www.akandictionary.com/2021/05/11/aben/
+Fly whisk.,Bodua,noun,https://www.akandictionary.com/2022/10/13/bodua/
+Flying fox.,Nankwaasere,,https://www.akandictionary.com/2021/04/16/nankwaasere/
+Foal.,Ponko ba,noun,https://www.akandictionary.com/2021/04/16/ponko-ba/
+Followers.,Akyidifo,noun,https://www.akandictionary.com/2021/05/18/akyidifo/
+Fondle.,Miamia,verb,https://www.akandictionary.com/2022/05/21/miamia/
+Food.,Aduane,Noun,https://www.akandictionary.com/2021/04/10/aduane/
+Fool.,Kwasea,Noun,https://www.akandictionary.com/2021/04/16/kwasea/
+Fool/Stupid.,Gyimi,verb,https://www.akandictionary.com/2021/04/16/gyimi/
+Foot.,Nan tabono,noun,https://www.akandictionary.com/2021/04/12/nan-tabono/
+Footstep/Footprint.,Anammon,noun,https://www.akandictionary.com/2021/05/05/anammon/
+Force.,Nhye,noun,https://www.akandictionary.com/2021/04/14/nhye/
+Forehead.,Moma,noun,https://www.akandictionary.com/2021/04/12/moma/
+Foreskin.,Koteboto,noun,https://www.akandictionary.com/2023/11/10/koteboto/
+Forest squirrel.,Opurohemaa,,https://www.akandictionary.com/2021/04/16/opurohemaa/
+Forest.,Kwae,,https://www.akandictionary.com/2021/04/15/kwae/
+Forever.,Daa Daa,noun,https://www.akandictionary.com/2021/05/02/daa-daa/
+Forever/Lifelong/Permanent.,Afeboo,adjective,https://www.akandictionary.com/2021/08/02/afeboo/
+Forgetfulness.,Awerefire,noun,https://www.akandictionary.com/2021/05/01/awerefire/
+Forgive.,Fakye,verb,https://www.akandictionary.com/2021/08/02/fakye/
+Forgiveness/Amnesty.,Bonefakye,noun,https://www.akandictionary.com/2022/03/27/bonefakye/
+Fornication.,Adwaman,noun,https://www.akandictionary.com/2022/03/27/adwaman/
+Forty (40).,Aduanan,number,https://www.akandictionary.com/2021/08/13/aduanan/
+Forty days.,Adaduanan,adverb,https://www.akandictionary.com/2021/08/03/adaduanan/
+Forty eight (48).,Aduanan nwotwe,number,https://www.akandictionary.com/2021/08/13/aduanan-nwotwe/
+Forty five (45).,Aduanan num,number,https://www.akandictionary.com/2021/08/13/aduanan-num/
+Forty four (44).,Aduanan nan,number,https://www.akandictionary.com/2021/08/13/aduanan-nan/
+Forty nine (49).,Aduanan nkron,number,https://www.akandictionary.com/2021/08/13/aduanan-nkron/
+Forty one (41).,Aduanan baako,number,https://www.akandictionary.com/2021/08/13/aduanan-baako/
+Forty seven (47).,Aduanan nson,number,https://www.akandictionary.com/2021/08/13/aduanan-nson/
+Forty six (46).,Aduanan nsia,number,https://www.akandictionary.com/2021/08/13/aduanan-nsia/
+Forty three (43).,Aduanan mmiensa,number,https://www.akandictionary.com/2021/08/13/aduanan-mmiensa/
+Forty two (42).,Aduanan mmienu,number,https://www.akandictionary.com/2021/08/13/aduanan-mmienu/
+Four (4) O’clock.,Nnonnan,noun,https://www.akandictionary.com/2023/07/22/nnonnan/
+"Four Sacred days on the Akan calendar that falls on days 1 (Fodwo), 10 (Awukudae), 19 (Fofie) and 28 (Akwasidae).",Dabone,noun,https://www.akandictionary.com/2025/02/27/dabone/
+Four days.,Nnanan,adverb,https://www.akandictionary.com/2021/08/03/nnanan/
+Four/4.,Enan,number,https://www.akandictionary.com/2021/04/14/enan/
+Fourteen/14.,Dunan,,https://www.akandictionary.com/2021/08/02/dunan/
+Fourth.,Eto so nan,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-nan/
+Fraud.,Apoobo,noun,https://www.akandictionary.com/2023/11/10/apoobo/
+Freedom.,Fawohodie,,https://www.akandictionary.com/2021/04/15/fawohodie/
+Friday.,Fiada,,https://www.akandictionary.com/2021/04/16/fiada/
+Fried fish.,Kyenam,noun,https://www.akandictionary.com/2022/05/21/kyenam/
+Friend.,Odamfuo,,https://www.akandictionary.com/2021/04/21/odamfuo/
+Friend.,Yonko,noun,https://www.akandictionary.com/2021/04/24/yonko/
+Friend.,Adamfo,,https://www.akandictionary.com/2021/04/18/adamfo/
+Friend/Mate.,Kyale,noun,https://www.akandictionary.com/2021/04/15/kyale/
+Friends.,Nnamfo,,https://www.akandictionary.com/2021/04/18/nnamfo/
+Friends.,Nnamfonom,,https://www.akandictionary.com/2021/04/18/nnamfonom/
+Frighten/Terrify/Threaten.,Hunahuna,verb,https://www.akandictionary.com/2021/09/19/hunahuna/
+Frivolous/Ordinary/Vane.,Hunu,adverb,https://www.akandictionary.com/2021/12/04/hunu/
+Frog.,Aponkyerene,noun,https://www.akandictionary.com/2021/04/24/aponkyerene/
+From/To from/Go away from.,Firi,verb,https://www.akandictionary.com/2021/10/16/firi/
+Front wing Commander.,Adontehene,noun,https://www.akandictionary.com/2022/10/13/adontehene/
+Front.,Wanim,verb,https://www.akandictionary.com/2021/04/19/wanim/
+Frown.,Muna,verb,https://www.akandictionary.com/2022/05/28/muna/
+Fruit.,Aduaba,,https://www.akandictionary.com/2021/04/22/aduaba/
+Fuck.,Di,verb,https://www.akandictionary.com/2021/04/15/di/
+Full moon.,Bosome ato ma,noun,https://www.akandictionary.com/2025/06/19/bosome-ato-ma/
+Full stop.,Osiwieee,noun,https://www.akandictionary.com/2023/03/19/osiwieee/
+Full.,Ma,ADJECTIVE,https://www.akandictionary.com/2021/05/25/ma/
+Full/Satisfy.,Mee,noun,https://www.akandictionary.com/2024/11/18/mee/
+Funeral.,Ayie,noun,https://www.akandictionary.com/2021/05/08/ayie/
+Fungus.,Apotobibire,noun,https://www.akandictionary.com/2021/10/12/apotobibire/
+Future tense.,Daakye kabea,noun,https://www.akandictionary.com/2022/10/10/daakye-kabea/
+Future.,Daakye,noun,https://www.akandictionary.com/2021/05/02/daakye/
+Galago (Bush baby).,Aprekensema,noun,https://www.akandictionary.com/2023/12/16/aprekensema/
+Gallbladder.,Bonwono,noun,https://www.akandictionary.com/2021/04/15/bonwono/
+Gallon.,Galon,noun,https://www.akandictionary.com/2021/09/12/galon/
+Gamble.,Kyakya,verb,https://www.akandictionary.com/2021/10/12/kyakya/
+Game/Play.,Agoro,verb,https://www.akandictionary.com/2021/08/10/agoro/
+Garden eggs.,Nyaadewa,noun,https://www.akandictionary.com/2021/04/16/nyaadewa/
+Garden.,Mfikyifuo,noun,https://www.akandictionary.com/2021/08/13/mfikyifuo/
+Generation.,Awuo ntoatoaso,noun,https://www.akandictionary.com/2024/12/21/awuo-ntoatoaso/
+Gentleman.,Abrantee,noun,https://www.akandictionary.com/2021/04/25/abrantee/
+Get up.,Sore,verb,https://www.akandictionary.com/2021/04/19/sore/
+Get/Achieve.,Nya,verb,https://www.akandictionary.com/2021/04/15/nya/
+Ghanaian.,Ghanani,noun,https://www.akandictionary.com/2021/09/12/ghanani/
+Ghanaians.,Ghanafo,noun,https://www.akandictionary.com/2021/09/12/ghanafo/
+Gift card.,Akyedee kad,noun,https://www.akandictionary.com/2021/08/01/akyedee-kad/
+Gift.,Akyedee,noun,https://www.akandictionary.com/2021/05/12/akyedee/
+Ginger.,Akekaduro,,https://www.akandictionary.com/2021/04/16/akekaduro/
+Girl.,Akatasia,,https://www.akandictionary.com/2021/04/15/akatasia/
+Girl.,Abaayewa,noun,https://www.akandictionary.com/2021/04/29/abaayewa/
+Girl/Female/Woman.,Obaa,noun,https://www.akandictionary.com/2021/04/15/obaa/
+Give him a push.,Pia,verb,https://www.akandictionary.com/2021/04/24/pia/
+Give me two seconds.,Simma,noun,https://www.akandictionary.com/2021/04/24/simma/
+Glass.,Tomme,,https://www.akandictionary.com/2021/04/22/tomme/
+Go back.,Wakyi,verb,https://www.akandictionary.com/2021/04/19/wakyi/
+Goalkeeper.,Dee ogyina atena mu,noun,https://www.akandictionary.com/2021/04/19/dee-ogyina-atena-mu/
+Goat.,Abirekyie,noun,https://www.akandictionary.com/2021/04/16/abirekyie/
+God bless you.,Nhyira,noun,https://www.akandictionary.com/2021/04/11/nhyira/
+"God does not die, and so I cannot die.",Nyame Nnwu Na Mawu,Adinkra symbol,https://www.akandictionary.com/2021/04/28/nyame-nnwu-na-mawu-3/
+God/Supreme Being.,Nyame,noun,https://www.akandictionary.com/2021/04/11/nyame/
+God’s something is in the heavens.,Nyame Biribi Wo Soro,Adinkra symbol,https://www.akandictionary.com/2021/04/19/nyame-biribi-wo-soro/
+Golden Stool.,Sikadwa,noun,https://www.akandictionary.com/2021/04/25/sikadwa/
+Goldsmith.,Sikadwinnifuo,noun,https://www.akandictionary.com/2022/02/24/sikadwinnifuo/
+Gonorrhea.,Babaso,noun,https://www.akandictionary.com/2021/04/18/babaso/
+Good Girl.,Obaapa,noun,https://www.akandictionary.com/2021/04/29/obaapa/
+Good Morning.,Maakye,noun,https://www.akandictionary.com/2021/04/17/maakye/
+Good afternoon.,Maaha,noun,https://www.akandictionary.com/2021/04/17/maaha/
+Good bed.,Kete Pa,,https://www.akandictionary.com/2021/04/16/kete-pa/
+Good evening.,Maadwo,noun,https://www.akandictionary.com/2021/04/17/maadwo/
+Good name.,Dinpa,noun.,https://www.akandictionary.com/2021/04/29/dinpa/
+Good.,Paapa,,https://www.akandictionary.com/2021/04/16/paapa/
+Goodbye.,Nante yie,noun,https://www.akandictionary.com/2021/05/17/nante-yie/
+Goodnight.,Da yie,noun,https://www.akandictionary.com/2022/05/26/da-yie/
+Goods.,Nneema,noun,https://www.akandictionary.com/2021/04/29/nneema/
+Goosebumps/Goose pimples.,Awose,noun,https://www.akandictionary.com/2022/05/28/awose/
+Gossip.,Konkonsa,noun,https://www.akandictionary.com/2021/04/25/konkonsa/
+Government.,Aban,verb,https://www.akandictionary.com/2021/04/29/aban/
+Gradually.,Nkakrankakra,adverb,https://www.akandictionary.com/2021/06/17/nkakrankakra/
+Grammar.,Kasa mmara,noun,https://www.akandictionary.com/2022/10/10/kasa-mmara/
+Grasscutter.,Akrantee,noun,https://www.akandictionary.com/2021/04/16/akrantee/
+Grasshopper.,Abebe,,https://www.akandictionary.com/2021/04/16/abebe/
+Grave.,Odamena,noun,https://www.akandictionary.com/2022/02/24/odamena/
+Gravity.,Asaseduru,noun,https://www.akandictionary.com/2022/07/30/asaseduru/
+Greater Accra Region.,Nkran mantam,noun,https://www.akandictionary.com/2022/09/16/nkran-mantam/
+Greed/Selfishness.,Pesemenkomenya,noun,https://www.akandictionary.com/2022/05/14/pesemenkomenya/
+Green.,Ahabammono,noun,https://www.akandictionary.com/2024/06/20/ahabammono/
+Greet.,Kyea,verb,https://www.akandictionary.com/2021/04/19/kyea/
+Greeting.,Nkyea,noun,https://www.akandictionary.com/2021/04/25/nkyea/
+Grey.,Nsonso,noun,https://www.akandictionary.com/2024/06/20/nsonso/
+Grill.,Ho,verb,https://www.akandictionary.com/2021/04/15/ho/
+Ground squirrel.,Amoakua,noun,https://www.akandictionary.com/2021/04/16/amoakua/
+Group.,Kuo,noun,https://www.akandictionary.com/2021/05/05/kuo/
+Grow.,Nyini,verb,https://www.akandictionary.com/2021/10/11/nyini/
+Guava.,Oguaa,noun,https://www.akandictionary.com/2023/05/20/oguaa/
+Guest/Stranger/Visitor.,Ohohuo,noun.,https://www.akandictionary.com/2021/07/29/ohoho/
+Guinea Fowl.,Akomfem,noun,https://www.akandictionary.com/2021/04/16/akomfem/
+Gun.,Tuo,noun,https://www.akandictionary.com/2021/04/22/tuo/
+Gun.,Etuo,noun,https://www.akandictionary.com/2021/05/02/etuo/
+Hail.,Asukotwea,noun,https://www.akandictionary.com/2022/11/19/asukotwea/
+Hair.,Nwi,noun,https://www.akandictionary.com/2021/04/12/nwi/
+Half a mile.,Kwansini fa,noun,https://www.akandictionary.com/2021/05/14/kwansini-fa/
+Half moon.,Bosome ato fa,noun,https://www.akandictionary.com/2025/09/15/bosome-ato-fa/
+Half.,Fa,Number (nasal),https://www.akandictionary.com/2021/04/10/fa/
+Ham.,Prakontwere,noun,https://www.akandictionary.com/2023/09/30/prakontwere/
+Hand.,Nsa,noun,https://www.akandictionary.com/2021/04/12/nsa/
+Hand.,Nsa,noun,https://www.akandictionary.com/2021/04/14/nsa-2/
+Handcuffs.,Epa,,https://www.akandictionary.com/2021/04/16/epa-2/
+Happiness/Joy.,Anigye,noun,https://www.akandictionary.com/2021/05/01/anigye/
+Happy Akwasidae.,Adae tokye,noun,https://www.akandictionary.com/2021/10/09/adae-tokye/
+Happy New Year/Happy anniversary.,Afehyiapa,noun,https://www.akandictionary.com/2021/05/07/afehyiapa-2/
+Happy.,Ani agye,Adjective,https://www.akandictionary.com/2022/10/30/ani-agye/
+Hardship.,Ahokyere,noun,https://www.akandictionary.com/2021/10/21/ahokyere/
+Harlot/Prostitute.,Odwamanfuo,noun,https://www.akandictionary.com/2022/02/16/odwamanfuo/
+Harmattan/Drought.,Ope,noun,https://www.akandictionary.com/2021/04/21/ope/
+Hat/Cap.,kyew,noun,https://www.akandictionary.com/2021/04/19/kyew/
+Hat/Cap.,Kye,noun,https://www.akandictionary.com/2021/08/24/kye-2/
+Have.,Wo,verb,https://www.akandictionary.com/2021/05/22/wo-3/
+Hawk/Falcon/Kite/Bird of prey.,Akoroma,noun,https://www.akandictionary.com/2022/04/23/akoroma/
+He/She,Ono,Pronoun,https://www.akandictionary.com/2023/09/09/ono/
+He/She arrive.,Oduru,verb,https://www.akandictionary.com/2021/04/30/oduru/
+"He/She who does not know, will know from learning.",Nea Onnim No Sua A Ohu,,https://www.akandictionary.com/2021/04/21/nea-onnim-no-sua-a-ohu-3/
+Head gear.,Abotire,noun,https://www.akandictionary.com/2021/06/13/abotire/
+Head of Battalion/Lieutenant colonel.,Asafohene,noun,https://www.akandictionary.com/2022/10/13/asafohene-2/
+Head of Defense.,Tufohene,noun,https://www.akandictionary.com/2022/10/13/tufohene/
+Head of Interior.,Manwerehene,noun,https://www.akandictionary.com/2022/10/13/manwerehene/
+Head of Treasury.,Sanaahene,noun,https://www.akandictionary.com/2022/10/13/sanaahene/
+Head.,Etire,noun,https://www.akandictionary.com/2021/04/11/etire/
+Headache.,Tipaee,noun,https://www.akandictionary.com/2025/07/18/tipaee/
+Headgear.,Abotire,noun,https://www.akandictionary.com/2025/09/19/abotire-2/
+Health.,Apomuden,noun,https://www.akandictionary.com/2022/10/19/apomuden/
+Heap.,Puduo,noun,https://www.akandictionary.com/2023/11/21/puduo/
+Heart.,Akoma,noun/anatomy,https://www.akandictionary.com/2021/04/28/akoma/
+Heaven.,Osoro,noun,https://www.akandictionary.com/2022/11/21/osoro/
+Hedgehog.,Apese,noun,https://www.akandictionary.com/2021/04/16/apese/
+Heel.,Nantin,noun,https://www.akandictionary.com/2021/06/17/nantin/
+Hell.,Abonsam Gyam,noun,https://www.akandictionary.com/2021/04/24/abonsam-gyam/
+Hello/How are you?,Wo ho te sen,Phrase.,https://www.akandictionary.com/2021/08/13/wo-ho-te-sen/
+Help me and let me help you.,Boa Me Na Me Mmoa Wo,,https://www.akandictionary.com/2021/07/31/boa-me-na-me-mmoa-wo/
+Help me.,Boa me,Phrase.,https://www.akandictionary.com/2024/11/13/boa-me/
+Help/Aid/Assist.,Boa,verb,https://www.akandictionary.com/2021/05/10/boa/
+Hemorrhage/Bleeding.,Mogyahweree,noun,https://www.akandictionary.com/2022/06/28/mogyahweree/
+Hen.,Akoko bedee,,https://www.akandictionary.com/2021/04/16/akoko-bedee/
+Hepatitis/Liver infection.,Brebuo kaka,noun,https://www.akandictionary.com/2023/12/05/brebuo-kaka/
+Herbal Medicine.,Habae duro,noun,https://www.akandictionary.com/2021/04/15/habae-duro/
+Here is the book that you were looking for.,Eni,noun,https://www.akandictionary.com/2021/04/11/eni/
+Here.,eha,noun,https://www.akandictionary.com/2021/08/02/eha/
+Hernia.,Nkwoe,noun,https://www.akandictionary.com/2021/10/21/nkwoe/
+Herring.,Emane,noun,https://www.akandictionary.com/2021/04/16/emane/
+Heterosexual.,Bobeasu soronko nna,noun,https://www.akandictionary.com/2021/07/31/bobeasu-soronko-nna/
+Hexagram.,Ahinnsia,,https://www.akandictionary.com/2021/04/22/ahinnsia/
+Hiccup.,Kotereko,noun,https://www.akandictionary.com/2021/12/20/kotereko/
+Hide.,Te,verb,https://www.akandictionary.com/2021/12/20/te-2/
+High quality hand woven fabric.,Nsaa,,https://www.akandictionary.com/2021/04/28/nsaa-3/
+Highlife is a music genre that started in West Africa in coastal cities of present day Ghana in the 19th century. Highlife is a local fusion of African beats and western jazz melodies.,Highlife,noun,https://www.akandictionary.com/2024/02/24/highlife/
+Highlight.,Mpempenso kesee,noun,https://www.akandictionary.com/2022/01/16/mpempenso-kesee/
+Highway.,Kwantenpon,noun,https://www.akandictionary.com/2021/05/14/kwantenpo/
+Hill/Mountain.,Bepo,noun,https://www.akandictionary.com/2021/10/12/bepo/
+Hindrance.,Osiakwan,noun,https://www.akandictionary.com/2022/07/16/osiakwan/
+"Hiplife is a Ghanaian musical genre that fuses Ghanaian language, Ghanaian culture and hip hop. Hiplife is mostly recorded in the Akan language.",Hiplife,noun,https://www.akandictionary.com/2024/02/24/hiplife/
+Hippopotamus.,Susono,,https://www.akandictionary.com/2021/04/16/susono/
+History.,Abakosem,noun,https://www.akandictionary.com/2021/05/05/abakosem/
+Hoe.,Aso,noun,https://www.akandictionary.com/2021/04/22/aso-2/
+Hold.,Kita,verb,https://www.akandictionary.com/2021/10/19/kita/
+Hole/Opening/Tunnel.,Tokuro,noun,https://www.akandictionary.com/2021/05/12/tokuro/
+Holy.,Kronkron,Adjective,https://www.akandictionary.com/2021/04/24/kronkron/
+Homosexual.,Bobeasu koro a woda,noun,https://www.akandictionary.com/2021/07/31/bobeasu-koro-a-woda/
+Honey.,ewoo,noun,https://www.akandictionary.com/2021/12/05/ewoo/
+Honorable/Honourable/Worthy/Virtuous.,Deefuo,Adjective,https://www.akandictionary.com/2024/07/28/deefuo/
+Hook.,Kotokoro,noun,https://www.akandictionary.com/2021/05/08/kotokoro/
+Hope.,Anidasuo,noun,https://www.akandictionary.com/2022/07/19/anidasuo/
+Horse.,Ponko,noun,https://www.akandictionary.com/2021/04/16/ponko/
+Hospital/Clinic.,Ayaresabea,verb,https://www.akandictionary.com/2021/04/17/ayaresabea/
+Hostile.,Otan,adjective,https://www.akandictionary.com/2021/05/21/otan/
+Hour.,Donhwere,noun,https://www.akandictionary.com/2021/05/11/donhwere/
+Housefly.,Nwansena,noun,https://www.akandictionary.com/2021/04/16/nwansena/
+How are you.,Sen,adverb.,https://www.akandictionary.com/2021/04/16/sen/
+How do we say it in Twi?,Yeka,conditional verb,https://www.akandictionary.com/2021/04/26/yeka/
+How many?,Doduo,Adjective,https://www.akandictionary.com/2021/04/26/doduo/
+How much does it cost?,Ne buo ye sen?,Phrase.,https://www.akandictionary.com/2024/12/17/ne-buo-ye-sen/
+How much is this?,Wei,Pronoun/Adjective,https://www.akandictionary.com/2021/04/17/wei/
+How old are you?,W’adi mfee sen?,Phrase.,https://www.akandictionary.com/2024/12/15/wadi-mfee-sen/
+Human skeleton,Nipadua Nkrampan,,https://www.akandictionary.com/2025/04/20/nipadua-nkrampan/
+Human/Person/Individual.,Odasani,noun,https://www.akandictionary.com/2021/04/21/odasani/
+Humanitarian/Mercy.,Ahummoboro,adjective,https://www.akandictionary.com/2021/05/08/ahummoboro/
+Humbleness.,Ahobreasee,noun,https://www.akandictionary.com/2022/01/16/ahobreasee/
+Hundred (100).,Oha,number,https://www.akandictionary.com/2021/08/14/oha/
+Hunger.,Ekom,noun,https://www.akandictionary.com/2021/04/11/ekom/
+Hunter.,Bommofuo,noun,https://www.akandictionary.com/2021/04/21/bommofuo/
+Hurry.,Keka ho,verb,https://www.akandictionary.com/2022/08/21/keka-ho/
+Husband.,Kunu,noun,https://www.akandictionary.com/2021/06/10/kunu/
+Hyena.,Ofui,noun,https://www.akandictionary.com/2021/04/16/ofui/
+Hygiene.,Ahonidie,noun,https://www.akandictionary.com/2022/01/16/ahonidie/
+Hyperbole.,Anihanehane,noun,https://www.akandictionary.com/2022/10/10/anihanehane/
+Hypertension.,Mogyanhyesuo,noun,https://www.akandictionary.com/2021/04/10/mogyanhyesuo/
+Hyphen.,nkabom nsenkyerene,noun,https://www.akandictionary.com/2022/07/05/nkabom-nsenkyerene/
+Hypocrites.,Nyaatwomfuo,noun,https://www.akandictionary.com/2021/04/18/nyaatwomfuo/
+I am full/I am satisfy.,Ma mee,Phrase.,https://www.akandictionary.com/2024/11/18/ma-mee/
+I am going home.,Mereko fie,Phrase.,https://www.akandictionary.com/2025/07/20/mereko-fie/
+I am good,Me ho ye,Phrase.,https://www.akandictionary.com/2024/12/15/me-ho-ye/
+I am here for a meeting.,Me wo ha ma nhyiam,Phrase.,https://www.akandictionary.com/2024/12/20/me-wo-ha-ma-nhyiam/
+I am hungry,Ekom de me,Phrase.,https://www.akandictionary.com/2024/05/04/ekom-de-me/
+I come from.,mefiri,noun,https://www.akandictionary.com/2021/04/21/mefiri/
+I did not hear what you said.,Mante,verb,https://www.akandictionary.com/2021/04/26/mante/
+I do.,Mete,verb,https://www.akandictionary.com/2021/04/17/mete/
+I don’t like it.,Mempe,noun,https://www.akandictionary.com/2021/10/09/mempe/
+I don’t understand.,Mente,verb,https://www.akandictionary.com/2021/04/17/mente/
+I feel lazy.,Akwadworo,adjective,https://www.akandictionary.com/2021/04/16/akwadworo/
+I greet you.,Mekyea,verb,https://www.akandictionary.com/2021/04/19/mekyea/
+I have been coughing since catching a cold.,Ewa,noun,https://www.akandictionary.com/2021/04/11/ewa/
+I have lost my way.,Yera,verb,https://www.akandictionary.com/2021/08/27/yera/
+I know his name.,Menim,Pronoun.,https://www.akandictionary.com/2021/04/17/menim/
+I know that you are well.,Menim se wo ho ye,phrase,https://www.akandictionary.com/2021/05/15/menim-se-wo-ho-ye/
+I know you are home.,Nim,verb,https://www.akandictionary.com/2021/04/17/nim/
+I like you.,M’ani gye wo ho,Phrase,https://www.akandictionary.com/2021/04/14/mani-gye-wo-ho/
+I love you.,Me do wo,Phrase,https://www.akandictionary.com/2024/08/21/me-do-wo/
+I need.,Mehia,noun,https://www.akandictionary.com/2021/05/10/mehia/
+I pass through the market before coming home.,Ansa na,conjunction,https://www.akandictionary.com/2021/04/17/ansa-na/
+I thank you.,Ase,verb,https://www.akandictionary.com/2021/04/19/ase-2/
+I want you.,Mepe wo,phrase,https://www.akandictionary.com/2021/06/16/mepe-wo/
+I welcome you.,Mema wo akwaaba,Phrase.,https://www.akandictionary.com/2024/11/13/mema-wo-akwaaba/
+I wish you a happy birthday.,Awoda,noun,https://www.akandictionary.com/2021/05/07/awoda/
+Ice.,Nsukyeneee,noun,https://www.akandictionary.com/2022/06/28/nsukyeneee/
+Identification/ID/Identity card.,Ahyensodee,noun,https://www.akandictionary.com/2021/05/22/ahyensodee-2/
+Idiom.,Kasakoa,noun,https://www.akandictionary.com/2021/05/05/kasakoa/
+Idiot/Fool/Stupid.,Gyimifuo,noun,https://www.akandictionary.com/2021/04/21/gyimifuo/
+If you climb a good tree…,Woforo,verb,https://www.akandictionary.com/2021/04/24/woforo/
+"If you don’t hold the bird, it will fly away.",Woankyere,Conditional verb,https://www.akandictionary.com/2021/04/25/woankyere/
+Illegal gold mining.,Galamsey,noun,https://www.akandictionary.com/2021/05/23/galamsey-2/
+Imitate.,Suasua,verb,https://www.akandictionary.com/2022/02/02/suasua/
+Immigrant.,Otubra,noun,https://www.akandictionary.com/2023/11/04/otubra/
+Immigrant.,Otukotenani,noun,https://www.akandictionary.com/2021/05/22/otukotenani/
+Immigration.,Ntubra,noun,https://www.akandictionary.com/2023/11/04/ntubra/
+Imperative.,Ohye kabea,noun,https://www.akandictionary.com/2022/10/10/ohye-kabea/
+Import.,Kra,noun,https://www.akandictionary.com/2021/05/22/kra-2/
+In fact I did not understand what you said.,Anokwa,conjunction,https://www.akandictionary.com/2021/04/17/anokwa/
+In fact I did not understand what you said.,Nokorem,conjunction,https://www.akandictionary.com/2021/04/17/nokorem/
+Incantation.,Nkankyee,noun,https://www.akandictionary.com/2022/08/25/nkankyee/
+Incest.,Mmogyafra,noun,https://www.akandictionary.com/2022/01/14/mmogyafra/
+Incite/Arouse.,Kanyan,verb,https://www.akandictionary.com/2021/10/04/kanyan/
+Income/Wage/Salary.,Akatua,noun,https://www.akandictionary.com/2021/07/29/akatua/
+Increment.,Ntosuo,noun,https://www.akandictionary.com/2025/08/31/ntosuo/
+Independent.,Odeneho,noun,https://www.akandictionary.com/2022/10/13/odeneho/
+Indoor.,Dan mu,noun,https://www.akandictionary.com/2021/05/22/dan-mu/
+Infect.,San,verb (nasal).,https://www.akandictionary.com/2021/04/12/san-2/
+Infection.,Kaka,noun,https://www.akandictionary.com/2021/05/05/kaka/
+Inflammation.,Mpumpunnya,noun,https://www.akandictionary.com/2021/10/04/mpumpunnya/
+Inheritance.,Agyapadee,,https://www.akandictionary.com/2021/04/19/agyapadee/
+Inhibit.,Si kwan,verb,https://www.akandictionary.com/2022/07/16/si-kwan/
+Injury.,Pira,noun,https://www.akandictionary.com/2021/05/22/pira/
+Ink.,Akyerede ngo,noun,https://www.akandictionary.com/2021/05/22/akyerede-ngo/
+Insane person/Lunatic.,Obodamfuo,noun,https://www.akandictionary.com/2021/10/09/obodamfuo/
+Insects.,Mmoawa,noun,https://www.akandictionary.com/2023/09/02/mmoawa/
+Instrument.,Adeyodee,noun,https://www.akandictionary.com/2025/03/02/adeyodee/
+Insults.,Atennidie,noun,https://www.akandictionary.com/2023/02/13/atennidie/
+Intelligence/Wisdom.,Nyansa,noun,https://www.akandictionary.com/2021/05/06/nyansa/
+Interchange.,Di nsesa,verb,https://www.akandictionary.com/2021/08/11/di-nsesa/
+Interjection.,Tweaa,noun,https://www.akandictionary.com/2023/02/11/tweaa/
+Internet.,Intanet,noun,https://www.akandictionary.com/2023/07/01/intanet/
+Intervention.,Ntamgyina,noun,https://www.akandictionary.com/2022/08/25/ntamgyina/
+Intestine.,Nsono,,https://www.akandictionary.com/2021/04/15/nsono/
+Intimidation.,Ahunahuna,noun,https://www.akandictionary.com/2022/02/25/ahunahuna/
+Intoxicate/Drunk.,Boro,adjective.,https://www.akandictionary.com/2021/09/23/boro/
+Intuition/Sensation.,Atenka,noun,https://www.akandictionary.com/2022/02/24/atenka/
+Invisible.,Dee Wontumi nhunu,adjective,https://www.akandictionary.com/2022/08/25/dee-wontumi-nhunu/
+Invoice.,Akano krataa,noun,https://www.akandictionary.com/2022/08/25/akano-krataa/
+Iron.,Ayon,noun,https://www.akandictionary.com/2022/02/24/ayon/
+Is this all the goods?,Nie,verb,https://www.akandictionary.com/2021/04/29/nie/
+It is daybreak.,Ade akye,idiom,https://www.akandictionary.com/2021/04/21/ade-akye/
+It is nighttime.,Ade asa,noun,https://www.akandictionary.com/2021/04/21/ade-asa/
+It is trouble!,eye,noun,https://www.akandictionary.com/2021/05/10/eye/
+It shall be well.,Yie,adverb,https://www.akandictionary.com/2021/04/29/yie/
+I’m thirsty.,Nsukom de me,Phrase.,https://www.akandictionary.com/2024/11/18/nsukom-de-me/
+Jail.,Afiase,noun.,https://www.akandictionary.com/2021/04/12/ekom-2/
+January.,Sanda,noun,https://www.akandictionary.com/2021/04/14/sanda/
+January.,Opepon,,https://www.akandictionary.com/2021/04/14/opepon/
+Jaw.,Apantan,noun,https://www.akandictionary.com/2022/01/14/apantan/
+Jehovah.,Jehovah,noun,https://www.akandictionary.com/2021/08/24/jehovah/
+Jesus.,Yesu,noun,https://www.akandictionary.com/2022/01/14/yesu/
+Jew.,Yudani,noun,https://www.akandictionary.com/2021/08/27/yudani/
+Joint.,Eposo,noun,https://www.akandictionary.com/2021/04/30/eposo/
+Joint/Junction.,Epo so,noun,https://www.akandictionary.com/2021/04/30/epo-so/
+Joke.,Nsenkwaa,noun,https://www.akandictionary.com/2022/01/14/nsenkwaa/
+Judge.,Otenmuafuo,noun,https://www.akandictionary.com/2021/11/30/otenmuafuo/
+Judgement.,Atemmuo,noun,https://www.akandictionary.com/2022/04/12/atemmuo/
+July.,Ayewoho,noun,https://www.akandictionary.com/2021/04/14/ayewoho/
+July.,Kitawonsa,noun,https://www.akandictionary.com/2021/04/14/kitawonsa/
+Jump.,Huri,verb.,https://www.akandictionary.com/2021/05/21/huri/
+Junction.,Nkwanta,noun,https://www.akandictionary.com/2021/04/30/nkwanta/
+June.,Obiradzi,noun,https://www.akandictionary.com/2021/04/14/obiradzi/
+June.,Ayewohomumu,noun,https://www.akandictionary.com/2021/04/14/ayewohomumu/
+Justice.,Atentenenee,noun,https://www.akandictionary.com/2023/11/04/atentenenee/
+Kenkey.,Dokono,noun,https://www.akandictionary.com/2021/10/29/dokono/
+Kerosene.,Kresin,noun,https://www.akandictionary.com/2021/04/16/kresin/
+Key.,Safoa,noun,https://www.akandictionary.com/2021/05/09/safoa/
+Key.,Safe,noun,https://www.akandictionary.com/2021/05/23/safe/
+Kidney,Sawa,noun,https://www.akandictionary.com/2021/05/05/sawa/
+Kill.,Kum,verb,https://www.akandictionary.com/2021/05/05/kum/
+Killer.,Owudini,noun,https://www.akandictionary.com/2024/05/26/owudini/
+Kindergarten.,Mmofra sukuu,noun,https://www.akandictionary.com/2021/08/01/mmofra-sukuu/
+King of Asante (Ashanti) Kingdom.,Asantehene,noun,https://www.akandictionary.com/2024/04/08/asantehene/
+Kiss.,Mfeano,noun,https://www.akandictionary.com/2022/05/16/mfeano/
+Kitchen.,Mukaase,noun,https://www.akandictionary.com/2023/11/04/mukaase/
+Kite.,Adaman,,https://www.akandictionary.com/2021/04/22/adaman/
+Knife.,Sekan,noun,https://www.akandictionary.com/2021/04/22/sekan/
+Knot of reconciliation.,Mpatapo,,https://www.akandictionary.com/2021/04/16/mpatapo/
+Knot.,Po,noun,https://www.akandictionary.com/2021/04/12/po-2/
+Knowledge.,Nimdee,noun,https://www.akandictionary.com/2021/12/25/nimdee/
+Kola nut.,Bese,noun,https://www.akandictionary.com/2021/12/12/bese/
+Koran.,Nkramofuo Twere Kronkron,noun,https://www.akandictionary.com/2022/06/25/nkramofuo-twere-kronkron/
+Kumasi/Capital of Ashanti Region.,Kumasi,noun,https://www.akandictionary.com/2021/10/03/kumasi/
+Labia majora.,Etwe ano kesie,anatomy,https://www.akandictionary.com/2021/04/15/etwe-ano-kesie/
+Labia minora.,Etwe ano ketoa,anatomy,https://www.akandictionary.com/2021/04/15/etwe-ano-ketoa/
+Laboratory.,Abodee mu mpensempensemmubea,Noun,https://www.akandictionary.com/2025/12/01/abodee-mu-mpensempensemmubea/
+Ladder.,Atwedee,noun,https://www.akandictionary.com/2021/04/22/atwedee/
+Lady.,Obaasima,noun,https://www.akandictionary.com/2022/02/14/obaasima/
+Lady.,Akatesia,noun,https://www.akandictionary.com/2021/04/25/akatesia/
+Lady.,Ababawa,noun,https://www.akandictionary.com/2021/04/25/ababawa/
+Lamb.,Oguamaa,noun,https://www.akandictionary.com/2021/09/24/oguamaa/
+Landlord.,Efiewura,noun,https://www.akandictionary.com/2021/05/12/efiewura/
+Lanky/Slender.,Ateaadonko,adjective,https://www.akandictionary.com/2023/09/21/ateaadonko/
+Laptop Computer.,Sreso nkonta afidie,noun,https://www.akandictionary.com/2024/05/26/sreso-nkonta-afidie/
+Last born.,Kaakyire,noun,https://www.akandictionary.com/2021/10/09/kaakyire/
+Last born.,Kaakyiri,noun,https://www.akandictionary.com/2021/05/17/kaakyiri/
+Last year.,Afe atwam no,noun,https://www.akandictionary.com/2021/08/02/afe-atwam-no/
+Lastborn.,Abakyiba,noun,https://www.akandictionary.com/2021/12/25/abakyiba/
+Later.,Akyire yi,adverb,https://www.akandictionary.com/2021/10/04/akyire-yi/
+Latitude.,Wiase mfimfini nkyekyemu,noun,https://www.akandictionary.com/2024/11/25/wiase-mfimfini-nkyekyemu/
+Laugh.,Sere,verb,https://www.akandictionary.com/2023/09/21/sere/
+Lawyer.,Mmaranimfuo,noun,https://www.akandictionary.com/2021/04/24/mmaranimfuo/
+Laxative.,Afaseduro,noun,https://www.akandictionary.com/2022/06/25/afaseduro/
+Lead (Metal).,Sunbui,noun,https://www.akandictionary.com/2022/02/28/sunbui/
+Leaf.,Habae,noun,https://www.akandictionary.com/2021/04/15/habae/
+Leaf.,Odunsini,noun,https://www.akandictionary.com/2022/01/16/odunsini/
+Leaf.,Ahaban,noun,https://www.akandictionary.com/2021/04/25/ahaban/
+Learning.,Nwomasua,noun,https://www.akandictionary.com/2021/04/18/nwomasua/
+Left wing Commander.,Benkumhene,noun,https://www.akandictionary.com/2022/10/13/benkumhene/
+Left.,Benkum,,https://www.akandictionary.com/2021/04/19/benkum/
+Leg.,Nan,noun,https://www.akandictionary.com/2021/04/12/nan/
+Lemon/Lime.,Ankaa twadee,noun,https://www.akandictionary.com/2021/04/16/ankaa-twadee/
+Leopard.,Etwie,noun,https://www.akandictionary.com/2021/04/12/etwie/
+Leprosy.,Kwata,noun,https://www.akandictionary.com/2021/10/15/kwata/
+Let alone.,Kampese,conjunction,https://www.akandictionary.com/2021/04/17/kampese/
+Let us live with love and understand.,Odo,verb,https://www.akandictionary.com/2021/04/13/odo/
+Let us live with love and understand.,Nteasee,noun,https://www.akandictionary.com/2021/04/13/nteasee/
+Letter/Writing.,Atweredee,noun,https://www.akandictionary.com/2021/04/17/atweredee/
+Let’s go.,Yenko,Phrase.,https://www.akandictionary.com/2025/11/23/yenko/
+Liberation.,Ahofadie,noun,https://www.akandictionary.com/2021/05/14/ahofadie/
+Liberator of state.,Okogyeaman,noun,https://www.akandictionary.com/2022/10/13/okogyeaman/
+Liberty.,Faahodie,noun,https://www.akandictionary.com/2021/05/19/faahodie/
+Library.,Akenkanbea,noun.,https://www.akandictionary.com/2021/04/14/akakaduro/
+Lice.,Edwie,noun,https://www.akandictionary.com/2021/04/16/edwie/
+Lie.,Ntoro,noun.,https://www.akandictionary.com/2021/04/14/ntoro/
+Lien.,Awowasie,noun,https://www.akandictionary.com/2021/05/12/awowasie/
+Life.,Nkwa,noun,https://www.akandictionary.com/2021/09/01/nkwa/
+Light (natural light).,Hann,noun,https://www.akandictionary.com/2021/04/14/hann/
+Lightning.,Anyinam,noun,https://www.akandictionary.com/2021/07/24/anyinam/
+Like.,Pe,verb,https://www.akandictionary.com/2025/04/12/pe/
+Likewise.,Saa ara,adverb,https://www.akandictionary.com/2021/05/23/saa-ara/
+Limit.,Twa so,noun,https://www.akandictionary.com/2021/08/27/twa-so/
+Linguist.,Okyeame,noun,https://www.akandictionary.com/2022/10/13/okyeame/
+Linguistics.,Kasahoduo mu nimdepe,noun,https://www.akandictionary.com/2022/10/13/kasahoduo-mu-nimdepe/
+Lion.,Gyata,noun,https://www.akandictionary.com/2021/04/12/gyata/
+Lips.,Anofafa,noun.,https://www.akandictionary.com/2021/09/19/anofafa/
+Liqueur/Strong alcohol.,Nsaden,noun,https://www.akandictionary.com/2021/05/22/nsaden/
+Little weaver.,Akyem,noun,https://www.akandictionary.com/2022/04/23/akyem/
+Little/Meager/Few.,Kakra,adjective,https://www.akandictionary.com/2021/05/17/kakra-2/
+Liver.,Breboo,,https://www.akandictionary.com/2021/04/15/breboo/
+Lizard.,Kotere,Animal,https://www.akandictionary.com/2021/04/16/kotere/
+Load.,Adesoa,verb,https://www.akandictionary.com/2021/08/02/adesoa/
+Loads.,Nnesoa,verb,https://www.akandictionary.com/2021/08/02/nnesoa/
+Loan.,Bosea,noun,https://www.akandictionary.com/2021/05/12/bosea/
+Lobster/Shrimp.,Monko,noun,https://www.akandictionary.com/2021/04/16/monko/
+Location/Place/Zone.,Bea,noun,https://www.akandictionary.com/2022/08/10/bea/
+Locker.,Adaka a wotom,noun,https://www.akandictionary.com/2021/08/10/adaka-a-wotom/
+Locust.,Atuboa,noun,https://www.akandictionary.com/2021/04/16/atuboa/
+Long-nosed mongoose.,Ahweaa,noun,https://www.akandictionary.com/2023/12/16/ahweaa/
+Longitude.,Atifi anaafuo nkyekyemu,noun,https://www.akandictionary.com/2024/11/25/atifi-anaafuo-nkyekyemu/
+Loose.,Go mu,verb,https://www.akandictionary.com/2021/05/14/go-mu/
+Lord.,Wura,noun,https://www.akandictionary.com/2021/04/26/wura-2/
+Lose in competition.,Di nkoguo,verb,https://www.akandictionary.com/2024/12/28/di-nkoguo/
+Lose.,Hwere,verb,https://www.akandictionary.com/2024/12/28/hwere/
+Lotion/Cream.,Nku,noun,https://www.akandictionary.com/2021/04/30/nku/
+Love never loses its way home.,Odo Nyera Fie Kwan,,https://www.akandictionary.com/2021/07/31/odo-nyera-fie-kwan/
+Luminous object/Lamp.,Kanea,noun,https://www.akandictionary.com/2021/04/14/kanea/
+Lunch.,Awia aduane,noun,https://www.akandictionary.com/2021/10/09/awia-aduane/
+Lung.,Ahrawa,,https://www.akandictionary.com/2021/04/15/ahrawa/
+Lust.,Akonno bone,noun,https://www.akandictionary.com/2022/05/14/akonno-bone/
+Lymph node.,Dwoa,noun,https://www.akandictionary.com/2021/09/17/dwoa/
+Macaroni.,Taalia,noun,https://www.akandictionary.com/2021/05/12/taalia/
+Machete/Cutlass.,Nkrante,noun,https://www.akandictionary.com/2021/04/22/nkrante/
+Machine learning.,Afidie nwomasua,noun,https://www.akandictionary.com/2022/07/30/afidie-nwomasua/
+Magnet.,Twebuo,noun,https://www.akandictionary.com/2024/12/09/twebuo/
+Mail.,To nkra,noun,https://www.akandictionary.com/2021/08/27/to-nkra/
+Mail.,Nkrato,noun,https://www.akandictionary.com/2021/06/19/nkrato/
+Main clause.,Okasamufa titire,noun,https://www.akandictionary.com/2022/10/10/okasamufa-titire/
+Main.,Ankasa,Adjective,https://www.akandictionary.com/2021/04/30/ankasa/
+Main/Notable.,Titire,adjective,https://www.akandictionary.com/2021/05/10/titire/
+Maize.,Aburoo,noun,https://www.akandictionary.com/2021/04/16/aburoo/
+Malaria.,Ntontom Nokommoa yaree,noun,https://www.akandictionary.com/2025/05/03/ntontom-nokommoa-yaree/
+"Male, Friday born.",Kofi,noun,https://www.akandictionary.com/2021/04/12/kofi/
+"Male, Monday born.",Kwadwo,noun,https://www.akandictionary.com/2021/04/12/kwadwo/
+"Male, Saturday born.",Kwame,noun,https://www.akandictionary.com/2021/04/11/kwame/
+"Male, Thursday born.",Yaw,noun,https://www.akandictionary.com/2021/04/12/yaw/
+"Male, Tuesday born.",Kwabena,noun,https://www.akandictionary.com/2021/04/12/kwabena/
+"Male, Wednesday born.",Kweku,noun,https://www.akandictionary.com/2021/04/12/kweku/
+Male/Boy/Man.,Barima,noun,https://www.akandictionary.com/2021/04/25/barima/
+Mall/Market place.,Dwam,noun.,https://www.akandictionary.com/2021/04/29/dwam/
+March.,Obenem,noun,https://www.akandictionary.com/2021/04/14/obenem/
+March.,Ebow,noun,https://www.akandictionary.com/2021/04/14/ebow/
+Marijuana.,Tampe,noun,https://www.akandictionary.com/2022/01/14/tampe/
+Market.,Edwom,noun.,https://www.akandictionary.com/2021/04/29/edwom/
+Marriage.,Awaree,noun,https://www.akandictionary.com/2021/04/19/awaree/
+Marry.,Ware,verb,https://www.akandictionary.com/2021/05/12/ware/
+Marsh mongoose.,Odompo,noun,https://www.akandictionary.com/2021/10/29/odompo/
+Marsh.,Poto,verb,https://www.akandictionary.com/2021/10/29/poto/
+Marvelous.,Nwonwade,adjective,https://www.akandictionary.com/2023/10/29/nwonwade/
+Masquerade.,Kaakaamotobi,noun,https://www.akandictionary.com/2022/01/09/kaakaamotobi/
+Mass.,Duru,noun,https://www.akandictionary.com/2021/04/14/duru/
+Mathematics.,Nkontabuo,noun,https://www.akandictionary.com/2022/01/14/nkontabuo/
+Maximum.,Kese paa,Adjective,https://www.akandictionary.com/2021/08/16/kese-paa/
+May.,Esusow,noun,https://www.akandictionary.com/2021/04/14/esusow/
+May.,Kotonimma,noun,https://www.akandictionary.com/2021/04/14/kotonimma/
+May.,Betumi,noun,https://www.akandictionary.com/2023/03/27/betumi/
+Maybe.,Ebia,,https://www.akandictionary.com/2021/04/18/ebia/
+Me/I.,me,Pronoun,https://www.akandictionary.com/2021/04/10/me/
+Meaning.,Nkyerease,,https://www.akandictionary.com/2021/04/18/nkyerease/
+Meaning.,Asee,noun,https://www.akandictionary.com/2021/04/17/asee/
+Measles.,Ntoburo,noun,https://www.akandictionary.com/2021/09/04/ntoburo/
+Measurement.,Nsusuie,noun,https://www.akandictionary.com/2021/04/18/nsusuie/
+Measuring stick.,Hwemudua,,https://www.akandictionary.com/2021/04/15/hwemudua-2/
+Meat.,Mogyanam,noun,https://www.akandictionary.com/2021/04/16/mogyanam/
+Mechanic.,Fitani,noun,https://www.akandictionary.com/2021/05/13/fitani/
+Medal,Animuonyamhyedee,noun,https://www.akandictionary.com/2022/06/25/animuonyamhyedee/
+Medal.,Abasobodee,noun,https://www.akandictionary.com/2021/04/29/abasobodee/
+Medicine.,Duro,noun,https://www.akandictionary.com/2021/04/14/duro/
+Medicine/Potion.,Aduro,noun.,https://www.akandictionary.com/2021/09/19/aduro/
+Meditation.,Adwen Dinnyo,,https://www.akandictionary.com/2021/04/22/adwen-dinnyo/
+Meet.,Hyia,verb,https://www.akandictionary.com/2021/09/19/hyia/
+Meeting.,Nhyiamu,noun,https://www.akandictionary.com/2021/05/12/nhyiamu/
+Melon.,Efere,noun,https://www.akandictionary.com/2023/10/30/efere/
+Melt.,Nane,verb,https://www.akandictionary.com/2021/09/01/nane/
+Memorial.,Nkaede,noun,https://www.akandictionary.com/2021/06/17/nkaede/
+Menstruation,Bra,noun,https://www.akandictionary.com/2021/04/10/bra/
+Menstruation.,Afikyireko,noun,https://www.akandictionary.com/2022/01/10/afikyireko/
+Merger.,Nkabomu,noun,https://www.akandictionary.com/2022/01/10/nkabomu/
+Mermaid.,Maame wata,noun,https://www.akandictionary.com/2022/01/10/maame-wata/
+Message.,Nkra,noun,https://www.akandictionary.com/2021/06/19/nkra/
+Metal.,Dadee,noun,https://www.akandictionary.com/2021/04/22/dadee/
+Metaphor.,Nnyinahoma,noun,https://www.akandictionary.com/2022/10/10/nnyinahoma/
+Method/Path.,Ekwan,noun,https://www.akandictionary.com/2025/06/22/ekwan/
+Metro station.,Metro gyinabea,noun,https://www.akandictionary.com/2021/08/24/metro-gyinabea/
+Metropolis/Metropolitan.,Ahenkuro,noun,https://www.akandictionary.com/2024/08/25/ahenkuro/
+Microphone.,Okasamu,noun,https://www.akandictionary.com/2022/04/12/okasamu/
+Midday/Noon.,Premo Ato,noun,https://www.akandictionary.com/2023/07/22/premo-ato/
+Mighty/His or Her Majesty.,Otumfuo,noun,https://www.akandictionary.com/2021/04/11/otumfuo/
+Mile.,Kwansini,noun,https://www.akandictionary.com/2021/05/14/kwansini/
+Millet.,Atokuo,noun,https://www.akandictionary.com/2023/05/20/atokuo/
+"Million (1,000,000).",Opepem,number,https://www.akandictionary.com/2021/08/14/opepem-2/
+Millipede.,Kankabi,,https://www.akandictionary.com/2021/04/16/kankabi/
+Mineral.,Fagudee,noun,https://www.akandictionary.com/2024/09/28/fagudee/
+Minister.,Osoafuo,noun,https://www.akandictionary.com/2024/09/20/osoafuo/
+Ministry of interior.,Afisem asoee,noun,https://www.akandictionary.com/2024/09/20/afisem-asoee/
+Ministry.,Asoee,noun,https://www.akandictionary.com/2024/09/20/asoee/
+Minority/Smaller part.,Ofa ketewa,noun,https://www.akandictionary.com/2024/09/28/ofa-ketewa/
+Mint.,Nunum,noun,https://www.akandictionary.com/2021/12/25/nunum/
+Minutes.,Sima,adjective,https://www.akandictionary.com/2021/05/14/sima/
+Miracle.,Nsenkyerenne,noun,https://www.akandictionary.com/2021/05/14/nsenkyerenne/
+Mirror.,Ahwehwe,noun,https://www.akandictionary.com/2021/05/14/ahwehwe/
+Misfortune.,Mmusu,noun,https://www.akandictionary.com/2021/08/01/mmusu/
+Miss/Ms/Mistress.,Awuraa,noun,https://www.akandictionary.com/2021/05/16/awuraa/
+Mistake.,Mfomsuo,noun,https://www.akandictionary.com/2021/04/18/mfomsuo/
+Mix.,Fra,verb,https://www.akandictionary.com/2021/05/12/fra/
+Mobile phone.,Akasabonten,noun,https://www.akandictionary.com/2021/12/12/akasabonten/
+Modern.,Abeefo,noun,https://www.akandictionary.com/2021/11/17/abeefo/
+Momentum.,Anoden,noun,https://www.akandictionary.com/2022/07/30/anoden/
+Monday.,Edwoada,noun,https://www.akandictionary.com/2021/04/16/edwoada/
+Money/Gold.,Sika,noun.,https://www.akandictionary.com/2021/04/17/sika/
+Monitor lizard.,Omampam,,https://www.akandictionary.com/2021/04/16/omampam/
+Monkey.,Adoe,noun,https://www.akandictionary.com/2021/04/16/adoe/
+Monster.,Kakae,noun,https://www.akandictionary.com/2023/12/10/kakae/
+Monument.,Nkaedua,noun,https://www.akandictionary.com/2021/06/17/nkaedua/
+Morgue/Mortuary.,Efunu korabea,noun,https://www.akandictionary.com/2021/05/12/efunu-korabea/
+Morning.,Anopa,noun,https://www.akandictionary.com/2022/02/18/anopa/
+Mortar.,Waduro,noun,https://www.akandictionary.com/2022/01/16/waduro/
+Mortguage.,Awowa,noun,https://www.akandictionary.com/2021/05/12/awowa/
+Moslem.,Kramoni,noun,https://www.akandictionary.com/2021/08/03/kramoni/
+Mosque.,Masalakyi,noun,https://www.akandictionary.com/2022/07/06/masalakyi/
+Mosquito.,Ntontom,noun,https://www.akandictionary.com/2021/04/16/ntontom/
+Mother-in-law.,Ase baa,noun,https://www.akandictionary.com/2021/05/12/ase-baa/
+Mother.,Ena,noun,https://www.akandictionary.com/2021/04/13/ena/
+Mother’s brother/Uncle (Maternal).,Wofa,noun,https://www.akandictionary.com/2021/04/13/wofa/
+Mouse.,Akura,noun,https://www.akandictionary.com/2021/04/16/akura/
+Moustache.,Mfemfem,noun,https://www.akandictionary.com/2021/06/13/mfemfem/
+Mouth.,Ano,noun,https://www.akandictionary.com/2021/04/12/ano/
+Mud.,Atekye,noun,https://www.akandictionary.com/2021/04/24/atekye/
+Multiplication.,Mpemso,noun,https://www.akandictionary.com/2021/04/14/mpemso/
+Murder.,Nipakum,noun,https://www.akandictionary.com/2021/09/04/nipakum/
+Murmur.,Nwiinwii,verb,https://www.akandictionary.com/2022/11/21/nwiinwii/
+Mushroom.,Mmire,noun,https://www.akandictionary.com/2021/10/29/mmire/
+Music/Song.,Nnwom,noun,https://www.akandictionary.com/2023/09/04/nnwom/
+Mutiny.,Atuatee,noun,https://www.akandictionary.com/2021/12/23/atuatee/
+Mutton.,Odwannam,noun,https://www.akandictionary.com/2021/04/16/odwannam/
+My Lord.,Mewura,noun.,https://www.akandictionary.com/2021/04/26/mewura/
+My heart.,Makoma,noun,https://www.akandictionary.com/2021/04/15/makoma/
+My skin is itching.,Keka,noun,https://www.akandictionary.com/2021/04/15/keka/
+Nail (Metal).,Dadewa,noun,https://www.akandictionary.com/2022/01/14/dadewa/
+Naked.,Kwaterekwaa,adjective,https://www.akandictionary.com/2021/05/14/kwaterekwaa/
+Name.,Din,noun,https://www.akandictionary.com/2021/05/25/din/
+Name/Noun.,Edin,noun,https://www.akandictionary.com/2022/10/10/edin/
+Nation/Country.,Man,noun,https://www.akandictionary.com/2021/05/18/man/
+Native.,Kuromani,Adjective,https://www.akandictionary.com/2021/12/11/kuromani/
+Natural.,Dee efiri abodee,adjective,https://www.akandictionary.com/2022/07/30/dee-efiri-abodee/
+Nature/Personality.,Su,adjective.,https://www.akandictionary.com/2021/08/03/su/
+Nausea.,Abofono,noun,https://www.akandictionary.com/2021/06/13/abofono/
+Necklace.,Konmu adee,noun,https://www.akandictionary.com/2021/08/16/konmu-adee/
+Need/Want.,Hia,verb,https://www.akandictionary.com/2021/09/24/hia/
+Negative.,Dabi kabea,noun,https://www.akandictionary.com/2022/10/10/dabi-kabea/
+Neighbour/Neighbor.,Ofipamni,noun,https://www.akandictionary.com/2023/02/02/ofipamni/
+Nephew/Sister’s child only.,Wofase,noun,https://www.akandictionary.com/2021/04/13/wofase/
+Nest.,Anomaabuo,noun,https://www.akandictionary.com/2023/12/24/anomaabuo/
+Neutrons.,Ahim Mmosea Ngyinaho,,https://www.akandictionary.com/2021/04/22/ahim-mmosea-ngyinaho/
+Never.,Da,Adjective,https://www.akandictionary.com/2021/05/02/da-3/
+New Moon.,Bosome mono,noun,https://www.akandictionary.com/2025/06/19/bosome-mono/
+New Year.,Afe foforo,noun,https://www.akandictionary.com/2021/08/02/afe-foforo/
+New Year’s Day.,Afe foforo da,noun,https://www.akandictionary.com/2021/08/02/afe-foforo-da/
+New.,Mono,noun,https://www.akandictionary.com/2022/01/15/mono/
+New.,Foforo,noun,https://www.akandictionary.com/2021/05/13/foforo/
+News.,Kaseebo,noun,https://www.akandictionary.com/2021/05/05/kaseebo/
+Nine (9) O’clock.,Nnonkron,noun,https://www.akandictionary.com/2023/07/22/nnonkron/
+Nine/9.,Nkron,Number,https://www.akandictionary.com/2021/04/14/nkron/
+Nineteen/19.,Dunkron,,https://www.akandictionary.com/2021/08/02/dunkron/
+Ninety (90).,Aduokron,number,https://www.akandictionary.com/2022/02/14/aduokron/
+Ninety-eight (98).,Aduokron nwotwe,number,https://www.akandictionary.com/2022/02/14/aduokron-nwotwe/
+Ninety-five (95).,Aduokron num,number,https://www.akandictionary.com/2022/02/14/aduokron-num/
+Ninety-four (94).,Aduokron nan,number,https://www.akandictionary.com/2022/02/14/aduokron-nan/
+Ninety-nine (99).,Aduokron nkron,number,https://www.akandictionary.com/2022/02/14/aduokron-nkron/
+Ninety-one (91).,Aduokron baako,number,https://www.akandictionary.com/2022/02/14/aduokron-baako/
+Ninety-seven (97).,Aduokron nson,number,https://www.akandictionary.com/2022/02/14/aduokron-nson/
+Ninety-six (96).,Aduokron nsia,number,https://www.akandictionary.com/2022/02/14/aduokron-nsia/
+Ninety-three (93).,Aduokron mmiensa,number,https://www.akandictionary.com/2022/02/14/aduokron-miensa/
+Ninety-two (92).,Aduokron mmienu,number,https://www.akandictionary.com/2022/02/14/aduokron-mienu/
+Ninth.,Eto so nkron,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-nkron/
+No.,Daabi,Exclamation/noun,https://www.akandictionary.com/2021/04/19/daabi/
+Noble.,Onounyamfuo,noun,https://www.akandictionary.com/2021/05/06/onounyamfuo/
+Nobles.,Adehyee,noun,https://www.akandictionary.com/2021/04/26/adehyee/
+North pole.,Atifi poma,noun,https://www.akandictionary.com/2024/11/25/atifi-poma/
+North.,Atifi,noun,https://www.akandictionary.com/2021/04/12/atifi/
+Nose.,Hwene,noun,https://www.akandictionary.com/2021/04/12/hwene/
+Notification.,Nkaebo,noun,https://www.akandictionary.com/2021/05/15/nkaebo/
+November.,Oberefew,noun,https://www.akandictionary.com/2021/04/14/oberefew/
+November.,Obubuo,noun,https://www.akandictionary.com/2021/04/14/obubuo/
+Now.,Seesei,adverb,https://www.akandictionary.com/2023/12/24/seesei/
+Nucleic acid (DNA/RNA).,Nkwa Nhyehyeee aduro,noun,https://www.akandictionary.com/2023/12/05/nkwa-nhyehyeee-aduro/
+Nude.,Adagya,adjective,https://www.akandictionary.com/2021/05/14/adagya/
+Numb.,Titiritii,Adjective,https://www.akandictionary.com/2024/08/17/titiritii/
+Numbers.,Nnumre,noun.,https://www.akandictionary.com/2021/09/19/nnumre/
+Numeral.,Akontabudee,noun,https://www.akandictionary.com/2022/10/10/akontabudee/
+Nurse.,Ayarehwedwuma mu boafuo,noun,https://www.akandictionary.com/2024/05/25/ayarehwedwuma-mu-boafuo/
+Oak.,Odum,noun,https://www.akandictionary.com/2021/05/11/odum/
+Oar.,Tabono,noun,https://www.akandictionary.com/2021/05/11/tabono/
+Oath/Swear.,Ntam,noun,https://www.akandictionary.com/2021/05/11/ntam/
+Obedience/Humility.,Asuommerew,noun,https://www.akandictionary.com/2022/03/01/asuommerew/
+Object.,Adee,noun,https://www.akandictionary.com/2025/09/20/adee/
+Object.,Ayedee,noun,https://www.akandictionary.com/2022/10/10/ayedee/
+Objective/Aim/Target/Purpose.,Botaee,noun,https://www.akandictionary.com/2021/05/15/botaee/
+October.,Ahinime,noun,https://www.akandictionary.com/2021/04/14/ahinime/
+October.,Obese,noun,https://www.akandictionary.com/2021/04/14/obese/
+Octopus.,Posena,noun,https://www.akandictionary.com/2023/05/21/posena/
+Offence.,Mmaratuo,noun,https://www.akandictionary.com/2025/03/31/mmaratuo/
+Offend/Err/Make a Mistake.,Fom,verb,https://www.akandictionary.com/2021/04/19/mfomsoo/
+Offering.,Aforebodee,noun,https://www.akandictionary.com/2021/05/15/aforebodee/
+Okay.,Yoo,noun,https://www.akandictionary.com/2021/05/10/yoo/
+Okra/Ochro.,Nkruma,noun,https://www.akandictionary.com/2021/10/08/nkruma/
+Okro.,Nkuruma,noun,https://www.akandictionary.com/2021/04/16/nkuruma/
+Old ladies/Old women.,Mmerewa,noun,https://www.akandictionary.com/2021/05/11/mmerewa/
+Old lady/Old woman.,Aberewa,noun,https://www.akandictionary.com/2021/05/11/aberewa/
+Old man.,Akokora,noun,https://www.akandictionary.com/2022/02/27/akokora/
+Old.,Dada,noun,https://www.akandictionary.com/2021/05/02/dada/
+Omnipotent God.,Onyankopon,noun,https://www.akandictionary.com/2021/04/11/onyankopon/
+Omnipresent God.,Otwedeapon,noun,https://www.akandictionary.com/2021/04/11/otwedeapon/
+Omniscient God.,Odomankoma,noun,https://www.akandictionary.com/2021/04/11/odomankoma/
+On.,So,preposition,https://www.akandictionary.com/2021/08/03/so-3/
+Once.,Preko,adverb,https://www.akandictionary.com/2022/07/18/preko/
+One (1) pm.,Awia donko,noun,https://www.akandictionary.com/2023/07/22/awia-donko/
+One Hundred (100).,Oha,number,https://www.akandictionary.com/2022/02/14/oha-2/
+One O’clock.,Donkoro,noun,https://www.akandictionary.com/2021/06/29/donkoro/
+One day.,Da bi,Adverb,https://www.akandictionary.com/2021/07/26/da-bi/
+One day.,Da koro bi,Idiom,https://www.akandictionary.com/2021/07/26/da-koro-bi/
+One week.,Nnawotwe,adverb,https://www.akandictionary.com/2021/08/03/nnawotwe/
+One/1.,Baako,number,https://www.akandictionary.com/2021/04/14/baako/
+Onion.,Gyeene,noun,https://www.akandictionary.com/2021/04/16/gyeene/
+Only/Alone.,Nko,Adjective,https://www.akandictionary.com/2021/05/11/nko/
+Open.,Bue,verb,https://www.akandictionary.com/2021/05/10/bue/
+Opportunity.,Akwannya,,https://www.akandictionary.com/2021/04/18/akwannya/
+Opposite.,Abira,adjective,https://www.akandictionary.com/2025/06/21/abira/
+Or.,Anaa,Conjunction,https://www.akandictionary.com/2022/10/17/anaa/
+Orange.,Ankaa,noun,https://www.akandictionary.com/2021/04/16/ankaa/
+Orange.,Akutuo,,https://www.akandictionary.com/2021/04/16/akutuo/
+Order/Arrangement/Policy/Proposition.,Nhyehyeee,noun,https://www.akandictionary.com/2021/04/14/nhyehyeee-2/
+Organism.,Nkwaboa,noun,https://www.akandictionary.com/2022/07/14/nkwaboa/
+Orgasm.,Ahoba,noun,https://www.akandictionary.com/2021/12/11/ahoba/
+Original.,Mfiase,adjective,https://www.akandictionary.com/2021/08/13/mfiase/
+Orphan.,Agyanka,noun,https://www.akandictionary.com/2022/08/11/agyanka/
+Orphanage.,Nnyankafie,noun,https://www.akandictionary.com/2022/07/14/nnyankafie/
+Our Lord.,Yenwura,noun,https://www.akandictionary.com/2021/04/26/yenwura/
+Outdoor.,Yi kyere,Adjective,https://www.akandictionary.com/2021/08/27/yi-kyere/
+Oven.,Foonoo,noun,https://www.akandictionary.com/2021/05/13/foonoo/
+Overseas.,Aburokyire,noun,https://www.akandictionary.com/2021/05/14/aburokyire/
+Overseas.,Amannone,noun,https://www.akandictionary.com/2021/05/14/amannone/
+Owl.,Patuo,noun,https://www.akandictionary.com/2021/04/16/patuo/
+O’clock.,Don,adjective,https://www.akandictionary.com/2021/05/14/don/
+Padlock.,Krado,noun,https://www.akandictionary.com/2021/04/22/krado/
+Page.,Kratafa,noun,https://www.akandictionary.com/2021/04/18/kratafa/
+Pain.,Ya,verb,https://www.akandictionary.com/2021/08/27/ya/
+Pain.,Eyeaa,verb,https://www.akandictionary.com/2025/07/05/eyeaa/
+Painkiller.,Kum yaw,noun,https://www.akandictionary.com/2021/12/11/kum-yaw/
+Palace.,Ahenfie,noun,https://www.akandictionary.com/2021/05/07/ahenfie/
+Palanquin.,Apakan,noun,https://www.akandictionary.com/2022/10/13/apakan/
+Pale.,Sakoo,adjective,https://www.akandictionary.com/2021/05/23/sakoo/
+Palm Kernel.,Adwe,noun,https://www.akandictionary.com/2021/04/16/adwe/
+Palm Sunday.,Mmerenkenson Kwasiada,noun,https://www.akandictionary.com/2021/04/22/mmerenkenson-kwasiada/
+Palm Weevil Larvae.,Akokono,noun,https://www.akandictionary.com/2024/07/22/akokono/
+Palm civet.,Abrebee,noun,https://www.akandictionary.com/2023/12/16/abrebee/
+Palm fruit.,Abe,,https://www.akandictionary.com/2021/04/16/abe/
+Palm kernel oil.,Adwe Ngo,noun,https://www.akandictionary.com/2021/04/16/adwe-ngo/
+Palm nut soup.,Abenkwan,noun,https://www.akandictionary.com/2021/09/19/abenkwan/
+Palm oil.,Abe ngo,,https://www.akandictionary.com/2021/04/16/abe-ngo/
+Palm tree,Abe,noun,https://www.akandictionary.com/2021/05/16/abe-2/
+Palm tree.,Adobe,noun,https://www.akandictionary.com/2021/04/11/adobe/
+Palm weevil/snout beetle,Asomorodwe,verb,https://www.akandictionary.com/2024/07/22/asomorodwe/
+Palm wine.,Nsafufuo,noun,https://www.akandictionary.com/2021/05/06/nsafufu/
+Palpitations.,Akomabo,noun,https://www.akandictionary.com/2024/05/18/akomabo/
+Pamper.,Gyegye so,verb,https://www.akandictionary.com/2021/05/16/gyegye-so/
+Pancreas.,Tann,noun,https://www.akandictionary.com/2021/05/16/tann/
+Pangolin.,Aprawa,noun,https://www.akandictionary.com/2021/04/16/aprawa/
+Panic attack.,Akomatuo,noun,https://www.akandictionary.com/2021/05/22/akomatuo/
+Paper/Document.,Krataa,noun,https://www.akandictionary.com/2021/05/10/krataa/
+Paragraph.,Kasapen,noun,https://www.akandictionary.com/2022/10/10/kasapen/
+Paralysis/Palsy.,Mmubui,noun,https://www.akandictionary.com/2021/08/01/mmubui/
+Paramount Chief.,Omanhene,noun,https://www.akandictionary.com/2022/10/13/omanhene/
+Parasite.,Nokommoa,noun,https://www.akandictionary.com/2021/04/22/nokommoa/
+Parellelogram.,Nsanehina,,https://www.akandictionary.com/2021/04/22/nsanehina/
+Parenthesis/Bracket.,Nkahyemde,noun,https://www.akandictionary.com/2021/04/18/nkahyemde-2/
+Parents.,Awofo,noun,https://www.akandictionary.com/2021/10/09/awofo/
+Park/Stadium.,Agodibea,noun,https://www.akandictionary.com/2021/08/10/agodibea/
+Parliament.,Mmarahyebadwa,noun,https://www.akandictionary.com/2023/10/28/mmarahyebadwa/
+Parrot.,Ako,noun,https://www.akandictionary.com/2021/05/16/ako/
+Parts.,Akwaa,,https://www.akandictionary.com/2021/04/15/akwaa/
+Passenger.,Okwantuni,noun.,https://www.akandictionary.com/2021/05/21/okwantuni/
+Pastor/Clergy.,Osofuo,noun,https://www.akandictionary.com/2024/09/20/osofuo/
+Patience.,Abotre,noun,https://www.akandictionary.com/2021/04/29/abotre/
+Pawpaw.,Borofere,plant,https://www.akandictionary.com/2021/04/16/borofere/
+Pay.,Tua,verb,https://www.akandictionary.com/2021/08/27/tua/
+Peanut/Groundnut.,Nkatee,noun,https://www.akandictionary.com/2021/04/16/nkatee/
+Pear.,Paya,noun,https://www.akandictionary.com/2021/04/16/paya/
+Pebble.,Abosea,noun,https://www.akandictionary.com/2021/05/16/abosea/
+Pebbles.,Mmosea,noun,https://www.akandictionary.com/2021/05/16/mmosea/
+Peel.,Sensene,noun,https://www.akandictionary.com/2021/05/16/sensene/
+Pelvis.,Ayase,noun,https://www.akandictionary.com/2021/04/12/ayase/
+Pen.,Tweredua,noun,https://www.akandictionary.com/2021/04/17/tweredua/
+Pencil.,Twere dua,noun,https://www.akandictionary.com/2021/08/27/twere-dua/
+Penetrate.,Wura mu,verb,https://www.akandictionary.com/2021/05/16/wura-mu/
+Penetration.,Nwuramu,noun,https://www.akandictionary.com/2021/05/16/nwuramu/
+Penis.,Kotee,noun,https://www.akandictionary.com/2021/05/16/kotee/
+Pentagram.,Ahinnum,,https://www.akandictionary.com/2021/04/22/ahinnum/
+Pentecostal.,Pentikosni,noun,https://www.akandictionary.com/2021/08/03/pentikosni/
+People.,Nkurofo,noun,https://www.akandictionary.com/2021/10/08/nkurofo/
+Pepper.,Mako,noun,https://www.akandictionary.com/2021/04/14/mako/
+Percent.,Oha nkyekyemu,noun,https://www.akandictionary.com/2021/10/08/oha-nkyekyemu/
+Perfect tense.,Ayeasie kabea,noun,https://www.akandictionary.com/2022/10/10/ayeasie-kabea/
+Peripheral nerves.,Adwenentuaso ahoma,noun,https://www.akandictionary.com/2021/04/15/adwenentuaso-ahoma/
+Permit.,Pene,verb,https://www.akandictionary.com/2023/08/08/pene/
+Person.,Akowa,adjective,https://www.akandictionary.com/2021/05/23/akowa/
+Person/Human.,Nipa,noun,https://www.akandictionary.com/2021/05/23/nipa/
+Personality.,Tebea,noun,https://www.akandictionary.com/2021/07/26/tebea/
+Pestle/Grinder.,Tapoli,noun,https://www.akandictionary.com/2024/08/15/tapoli/
+Pharmacist.,Nnufrafuo,noun,https://www.akandictionary.com/2021/04/21/sorry/
+Pharmacy.,Adurufra bea,noun,https://www.akandictionary.com/2021/08/02/adurufra-bea/
+Phlegm.,Ahoro,noun,https://www.akandictionary.com/2022/05/20/ahoro/
+Photo/Picture/Photography.,Mfonin,noun,https://www.akandictionary.com/2021/12/12/mfonin/
+Phrase.,Kasasin,noun,https://www.akandictionary.com/2021/05/05/kasasin/
+Physical exercise.,Apomutenetene,noun,https://www.akandictionary.com/2021/12/24/apomutenetene/
+Piano/Organ.,Sankuo,noun,https://www.akandictionary.com/2021/05/10/sankuo/
+Picture.,Nfonini,,https://www.akandictionary.com/2021/04/17/nfonini/
+Pig.,Prako,noun,https://www.akandictionary.com/2021/04/16/prako/
+Pigeon.,Aboronoma,noun,https://www.akandictionary.com/2021/06/13/aboronoma/
+Pillow/Cushion.,Sumii,noun,https://www.akandictionary.com/2022/01/29/sumii/
+Pineapple.,Aborobe,noun,https://www.akandictionary.com/2021/04/16/aborobe/
+Pink.,Memen,noun,https://www.akandictionary.com/2024/06/20/memen/
+Plantain.,Borodee,noun,https://www.akandictionary.com/2021/04/16/borodee/
+Plate.,Prete,noun,https://www.akandictionary.com/2021/07/26/prete/
+Platform.,Asenka dwaso,noun,https://www.akandictionary.com/2021/05/23/asenka-dwaso/
+Please.,Mepa Wo Kyew,verb,https://www.akandictionary.com/2021/04/26/mepa-wo-kyew/
+Plenty.,Bebree,noun,https://www.akandictionary.com/2025/04/26/bebree/
+Plural.,Doduo kabea,noun,https://www.akandictionary.com/2022/10/10/doduo-kabea/
+Pneumonia.,Ahrawa kaka,noun,https://www.akandictionary.com/2021/04/22/ahrawa-kaka/
+Poem.,Anwensem,noun,https://www.akandictionary.com/2021/12/25/anwensem/
+Poison.,Awuduro,noun,https://www.akandictionary.com/2021/05/16/awuduro/
+Police.,Polisi,noun,https://www.akandictionary.com/2021/05/16/polisi/
+Popliteal fossa (Knee pit).,Nan kokom,noun,https://www.akandictionary.com/2022/05/16/nan-kokom/
+Population.,Oman mu nnipa doduo,noun,https://www.akandictionary.com/2022/09/16/oman-mu-nnipa-doduo/
+Porcupine/Brush-tailed porcupine.,kotoko,,https://www.akandictionary.com/2021/04/12/kotoko/
+Pork.,Prakonam,noun,https://www.akandictionary.com/2021/04/16/prakonam/
+Porridge.,Koko,noun,https://www.akandictionary.com/2021/08/16/koko-2/
+Positive affirmation.,Aane kabea,Affirmation,https://www.akandictionary.com/2022/10/10/aane-kabea/
+Possessive pronoun.,Odedee,noun,https://www.akandictionary.com/2022/10/10/odedee/
+Postage.,Nkratoo,noun,https://www.akandictionary.com/2021/06/19/nkratoo/
+Postcard.,Nkratoo krataa,noun,https://www.akandictionary.com/2021/06/19/nkratoo-krataa/
+Pot.,Ahina,noun,https://www.akandictionary.com/2021/05/11/ahina/
+Pot.,Kukuo,noun,https://www.akandictionary.com/2021/05/11/kukuo/
+Potato.,Aborodwomaa,noun,https://www.akandictionary.com/2021/04/16/aborodwomaa/
+Pothole.,Bonka,noun,https://www.akandictionary.com/2022/03/28/bonka/
+Potto (Tree bear).,Nkutagyena,noun,https://www.akandictionary.com/2023/12/16/nkutagyena/
+Poultry/Domestic fowls.,Efie ntakrammoa,noun,https://www.akandictionary.com/2025/04/26/efie-ntakrammoa/
+Pour.,Hwie,verb,https://www.akandictionary.com/2021/09/19/hwie/
+Power.,Tumi,noun,https://www.akandictionary.com/2021/04/14/tumi/
+Praise.,Nkamfo,noun,https://www.akandictionary.com/2021/06/17/nkamfo/
+Prayer.,Mpaee,noun,https://www.akandictionary.com/2021/04/22/mpaee/
+Praying mantis.,Akokromfi,,https://www.akandictionary.com/2021/04/16/akokromfi/
+Preacher.,Osenkafo,noun,https://www.akandictionary.com/2021/04/24/osenkafo/
+Precious stone.,Ahemmuo,noun,https://www.akandictionary.com/2021/05/22/ahemmuo/
+Predicate.,Nkasaee,noun,https://www.akandictionary.com/2022/10/10/nkasaee/
+Preface.,Nnianimu,noun,https://www.akandictionary.com/2022/10/10/nnianimu/
+Prefix.,Nsianimu,noun,https://www.akandictionary.com/2022/10/10/nsianimu/
+Pregnancy.,Nyinsen,noun,https://www.akandictionary.com/2021/05/23/nyinsen/
+Pregnant.,Onyem,adjective,https://www.akandictionary.com/2023/05/21/onyem/
+President.,Omanpanin,noun,https://www.akandictionary.com/2021/04/21/omanpanin/
+Pressure.,Nhyesuo,noun,https://www.akandictionary.com/2021/04/14/nhyesuo/
+Price/Amount/Cost/Stone/Worth.,Bo,noun,https://www.akandictionary.com/2021/12/24/bo-3/
+Price/Stone.,Buo,Noun,https://www.akandictionary.com/2021/04/26/buo/
+Pride/Arrogance/Ego.,Ahomasuo,noun,https://www.akandictionary.com/2022/05/14/ahomasuo/
+Priest.,Osofo,,https://www.akandictionary.com/2021/04/22/osofo/
+Priest.,Okomfo,noun.,https://www.akandictionary.com/2021/05/21/okomfo/
+Prince or Princess.,Oheneba,noun,https://www.akandictionary.com/2021/04/11/oheneba/
+Print,Tintim,verb,https://www.akandictionary.com/2025/07/13/tintim/
+Prison.,Afiase,noun,https://www.akandictionary.com/2021/05/09/afiase/
+Prisoner,Odaduani,noun,https://www.akandictionary.com/2022/03/22/odaduani/
+Privilege.,Ahonya,,https://www.akandictionary.com/2021/04/18/ahonya/
+Problem.,Ohaw,noun,https://www.akandictionary.com/2023/03/27/ohaw/
+Professor.,Obenfo,noun,https://www.akandictionary.com/2021/08/02/obenfo/
+Profit/Function.,Mfasuo,noun,https://www.akandictionary.com/2021/05/09/mfasuo/
+Promiscuity.,Adwamammo,noun,https://www.akandictionary.com/2021/05/09/adwamammo/
+Promise.,,Noun,https://www.akandictionary.com/twi-dictionary-2/
+Promise.,Bohye,Noun,https://www.akandictionary.com/2025/12/06/bohye/
+Promise.,Hye bo,verb,https://www.akandictionary.com/2023/10/23/hye-bo/
+Pronoun.,Edinnsiananmu,noun,https://www.akandictionary.com/2022/01/02/edinnsiananmu/
+Proper noun.,Edin pa,noun,https://www.akandictionary.com/2022/10/10/edin-pa/
+Prophecy.,Nkomhye,noun,https://www.akandictionary.com/2022/01/02/nkomhye/
+Prophet/Messenger.,Somafo,noun,https://www.akandictionary.com/2021/04/21/somafo/
+Prostate cancer.,Dwonsotwaa badwoa kokoram,noun,https://www.akandictionary.com/2021/09/17/dwonsotwaa-badwoa-kokoram/
+Prostitute/Whore.,Tuutuuni,noun,https://www.akandictionary.com/2022/01/16/tuutuuni/
+Protein calorie malnutrition.,Kwashiorkor,noun,https://www.akandictionary.com/2025/06/03/kwashiorkor/
+Protons.,Ahim Mmosea Nkaho,,https://www.akandictionary.com/2021/04/22/ahim-mmosea-nkaho/
+Proverbs.,Mmebusem,noun.,https://www.akandictionary.com/2021/04/14/mmebusem/
+Province/Suburb.,Mantam,noun,https://www.akandictionary.com/2021/08/13/mantam/
+Public.,Badwam,noun,https://www.akandictionary.com/2021/04/12/badwam/
+Puffed up extravagance.,Kintinkantan,,https://www.akandictionary.com/2021/04/16/kintinkantan/
+Puncture.,Tue,verb,https://www.akandictionary.com/2021/08/27/tue/
+Punish.,Twe aso,verb,https://www.akandictionary.com/2021/08/27/twe-aso/
+Punishment.,Asotwee,noun,https://www.akandictionary.com/2022/04/12/asotwee/
+Purple.,Beredum,noun,https://www.akandictionary.com/2024/06/20/beredum/
+Put it under the chair.,Ase,preposition,https://www.akandictionary.com/2021/04/13/ase/
+Put the cup in the basket.,mu,verb,https://www.akandictionary.com/2021/04/11/mu/
+Python.,Onini,noun,https://www.akandictionary.com/2024/02/15/onini/
+Qualify.,Nkunimdie,adjective,https://www.akandictionary.com/2021/05/14/nkunimdie/
+Quarrel/Fight/Wrestle/Brawl.,Ntokwa,noun,https://www.akandictionary.com/2021/04/24/ntokwa/
+Quarter.,Sempoa,noun,https://www.akandictionary.com/2021/05/20/sempoa/
+Question.,Asemmisa,noun,https://www.akandictionary.com/2021/10/11/asemmisa/
+Queue/Row/Line.,Santene,noun,https://www.akandictionary.com/2022/01/14/santene/
+Quiet.,Koom,verb,https://www.akandictionary.com/2021/05/14/koom/
+Rabbit.,Adanko,noun,https://www.akandictionary.com/2021/04/16/adanko/
+Racing thought.,Adwennwene,noun,https://www.akandictionary.com/2021/05/22/adwennwene/
+Radio.,Kasafidie,noun,https://www.akandictionary.com/2021/04/17/kasafidie/
+Rainbow.,Nyankonton,noun,https://www.akandictionary.com/2021/05/23/nyankonton/
+Rainy or Wet Season.,Osutobere,noun,https://www.akandictionary.com/2022/07/24/osutobere/
+Ram.,Odwannini,noun,https://www.akandictionary.com/2021/04/16/odwannini/
+Ram’s horns.,Dwennimmen,Adinkra symbol,https://www.akandictionary.com/2021/04/25/dwennimmen/
+Rape.,Mmonnaatuo,noun,https://www.akandictionary.com/2025/03/07/mmonnaatuo/
+Rash.,Nsaa,noun,https://www.akandictionary.com/2021/09/23/nsaa/
+Rat.,Okusie,,https://www.akandictionary.com/2021/04/16/okusie/
+Rather.,Mmom,conjunction,https://www.akandictionary.com/2021/08/01/mmom/
+Razor/Blade.,Yiwan,noun,https://www.akandictionary.com/2023/09/30/yiwan/
+Reach.,Tena nsa,verb,https://www.akandictionary.com/2023/09/25/tena-nsa/
+Reach.,Du,verb,https://www.akandictionary.com/2021/04/18/du/
+Reached.,Duu,verb,https://www.akandictionary.com/2021/04/18/duu/
+Ready.,krado,adjective,https://www.akandictionary.com/2021/08/16/krado-2/
+Rectangle.,Fasene,noun,https://www.akandictionary.com/2022/08/10/fasene-2/
+Rectum.,Trumu,noun.,https://www.akandictionary.com/2021/04/15/trumu/
+Red ant.,Nhohoa,,https://www.akandictionary.com/2021/04/16/nhohoa/
+Red.,kokoo,Adjective,https://www.akandictionary.com/2021/04/12/kokoo/
+Reduce/Tear.,TE,verb.,https://www.akandictionary.com/2021/04/16/te/
+Referee.,Ntamgyinafuo,noun,https://www.akandictionary.com/2022/10/10/ntamgyinafuo/
+Refrigerator.,Sukokyea adaka,noun,https://www.akandictionary.com/2023/09/05/sukokyea-adaka/
+Refuge.,Guankobea,noun,https://www.akandictionary.com/2021/12/03/guankobea/
+Region.,Omantam,noun.,https://www.akandictionary.com/2021/05/21/omantam/
+Relative.,Abusuani,noun,https://www.akandictionary.com/2021/06/13/abusuani/
+Reliever of Hunger.,Okumkom,noun,https://www.akandictionary.com/2022/10/13/okumkom/
+Religion.,Osom,noun,https://www.akandictionary.com/2021/05/21/osom/
+Reminder/Memory.,Nkae,noun,https://www.akandictionary.com/2021/06/17/nkae-2/
+Remove/Pick.,Yi,verb (progressive),https://www.akandictionary.com/2021/08/27/yi/
+Rent.,Hae,noun,https://www.akandictionary.com/2021/12/04/hae/
+Repeat/Again.,Bio,verb,https://www.akandictionary.com/2021/04/17/bio/
+Rescue.,Ogyee,verb,https://www.akandictionary.com/2021/09/24/ogyee/
+Resemble.,Se,verb,https://www.akandictionary.com/2021/09/04/se/
+Respect.,Obuo,noun,https://www.akandictionary.com/2021/05/08/obuo/
+Respect/Regard,Bu,verb,https://www.akandictionary.com/2021/04/11/bu/
+Responses.,Mmuae,noun,https://www.akandictionary.com/2021/08/01/mmuae/
+Rest in Peace.,Damirifa due,noun,https://www.akandictionary.com/2025/09/01/damirifa-due/
+Restaurant.,Adidibea,noun,https://www.akandictionary.com/2021/08/02/adidibea/
+Resting period.,Ahomegyebere,noun,https://www.akandictionary.com/2021/10/04/ahomegyebere/
+Resting.,Ahomegyee,,https://www.akandictionary.com/2021/04/22/ahomegyee/
+Restroom.,Agyananbea,noun,https://www.akandictionary.com/2021/04/21/agyananbea/
+Return and get it.,Sankofa,,https://www.akandictionary.com/2021/04/20/sankofa-2/
+Reverse.,Ko akyi,verb,https://www.akandictionary.com/2021/08/16/ko-akyi/
+Rib.,Mfe mpadie,noun,https://www.akandictionary.com/2021/05/05/mfe-mpadie/
+"Rice dish made with long grain rice, tomatoes, onions, spices, vegetables and meat.",Jollof Rice,noun,https://www.akandictionary.com/2021/04/14/jollof-rice/
+Rice.,Emoo,noun,https://www.akandictionary.com/2021/04/16/emoo/
+Rich person.,Sikani,Adjective,https://www.akandictionary.com/2021/04/19/sikani/
+Ride.,Twi,,https://www.akandictionary.com/2021/04/18/twi/
+Right wing Commander.,Nifahene,noun,https://www.akandictionary.com/2022/10/13/nifahene/
+Right.,Nifa,,https://www.akandictionary.com/2021/04/19/nifa/
+Ring/Wedding ring/Marriage token.,Kawa,noun,https://www.akandictionary.com/2021/05/05/kawa/
+River.,Asubontene,noun,https://www.akandictionary.com/2021/10/03/asubontene/
+Road.,Kwan,noun,https://www.akandictionary.com/2021/04/21/kwan/
+Roast/Smoke the meat.,Toto,verb,https://www.akandictionary.com/2022/01/26/toto/
+Root.,Nhini,noun,https://www.akandictionary.com/2024/05/17/nhini/
+Rot.,Pro,verb,https://www.akandictionary.com/2021/05/16/pro/
+Rotation.,Ntwaho,noun,https://www.akandictionary.com/2022/03/27/ntwaho/
+Round.,Kurukuruwa,adjective,https://www.akandictionary.com/2025/03/29/kurukuruwa/
+Royal Antelope.,Adowa,noun,https://www.akandictionary.com/2021/04/16/adowa/
+Royal.,Odehyee,noun,https://www.akandictionary.com/2021/04/26/odehyee/
+Rush.,Pere,verb,https://www.akandictionary.com/2021/04/22/pere/
+Rust.,Nnaakyene,verb,https://www.akandictionary.com/2022/06/28/nnaakyene/
+Sabbath.,Homeda,noun,https://www.akandictionary.com/2021/08/01/homeda/
+Sack of Cola nuts.,Bese Saka,noun,https://www.akandictionary.com/2021/04/21/bese-saka-3/
+Sacrificial.,Aforebo,Adjective,https://www.akandictionary.com/2022/01/16/aforebo/
+Sad news.,Awerehosem,noun,https://www.akandictionary.com/2021/10/09/awerehosem/
+Sad/Grief/Sorrow/Depressed,Awerehuo,noun,https://www.akandictionary.com/2021/05/01/awerehuo/
+Sail.,Po so akwantu,noun,https://www.akandictionary.com/2021/05/23/po-so-akwantu/
+Saliva.,Ntasuo,noun,https://www.akandictionary.com/2022/02/16/ntasuo/
+Salt.,Nkyene,noun,https://www.akandictionary.com/2021/04/16/nkyene/
+Salted tilapia.,Koobi,noun,https://www.akandictionary.com/2021/04/16/koobi/
+Salvation.,Nkwagyee,noun,https://www.akandictionary.com/2022/02/16/nkwagyee/
+Sand.,Anwea,noun,https://www.akandictionary.com/2021/04/15/anwea/
+Sandal/Slippers.,Mpaboa,noun,https://www.akandictionary.com/2022/02/16/mpaboa/
+Sarcasm.,Akutia,noun,https://www.akandictionary.com/2021/05/22/akutia/
+Satisfy.,Ma akoma to yam,Phrase.,https://www.akandictionary.com/2024/11/18/ma-akoma-to-yam/
+Saturday.,Memeneda,noun,https://www.akandictionary.com/2021/04/16/memeneda/
+Sauce/Stew/Gravy.,Abom,noun,https://www.akandictionary.com/2021/06/13/abom/
+Saucepan/Cookware/Silver dishware.,Kyensee,noun,https://www.akandictionary.com/2021/05/11/kyensee/
+Savior/Messiah.,Agyenkwa,noun,https://www.akandictionary.com/2022/01/10/agyenkwa/
+Saw.,Asradaa,,https://www.akandictionary.com/2021/04/22/asradaa/
+Scabies.,Nkoronsankoransa,noun,https://www.akandictionary.com/2022/02/16/nkoronsankoransa/
+Scar.,Twa,"noun, nasal",https://www.akandictionary.com/2021/04/21/twa/
+Scary.,Hu,"Adjective, nasal",https://www.akandictionary.com/2021/10/04/hu/
+Scholar.,Onimdefuo,noun,https://www.akandictionary.com/2022/02/28/onimdefuo/
+Science.,Abodee mu nyansape,noun,https://www.akandictionary.com/2021/08/10/abodee-mu-nyansa-pe/
+Scissors.,Apasuo,noun,https://www.akandictionary.com/2021/04/22/apasuo/
+Scorpion.,Nyanyankyere,noun,https://www.akandictionary.com/2021/04/16/nyanyankyere/
+Scrape/Scratch.,Were,Verb,https://www.akandictionary.com/2025/03/25/were/
+Screw.,Kyim,verb,https://www.akandictionary.com/2021/05/06/kyim/
+Sea/Ocean.,Epo,noun,https://www.akandictionary.com/2021/05/10/epo/
+Seafood.,Po mu nam,noun,https://www.akandictionary.com/2021/04/14/dumsor/
+Search.,Hwehwe,verb,https://www.akandictionary.com/2021/05/22/hwehwe/
+Season/Time.,Bere,noun,https://www.akandictionary.com/2021/04/21/bere/
+Seat belt.,Adwa mu abosuo,noun,https://www.akandictionary.com/2021/08/02/adwa-mu-abosuo/
+Seat/Stool.,Dwa,noun,https://www.akandictionary.com/2021/04/25/dwa/
+Second Hand goods.,Broniwewu,Pronoun,https://www.akandictionary.com/2021/04/29/broniwewu/
+Second Hand goods.,Foos,noun,https://www.akandictionary.com/2021/04/29/fose/
+Second.,Eto so mmienu,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-mmienu/
+Seconds.,Anitete,adjective,https://www.akandictionary.com/2021/05/14/anitete/
+Secret.,Ahintasem,noun,https://www.akandictionary.com/2021/12/12/ahintasem/
+Security.,Akyigyinade,noun,https://www.akandictionary.com/2021/05/18/akyigyinade/
+See you later.,Merekoaba,Phrase.,https://www.akandictionary.com/2025/11/23/merekoaba/
+See you.,Yebehyia,noun,https://www.akandictionary.com/2021/04/19/yebehyia/
+See/Check/Look/View/Watch.,Hwe,verb,https://www.akandictionary.com/2021/12/04/hwe/
+Seed of the Wawa tree.,Wawa Aba,,https://www.akandictionary.com/2021/04/21/wawa-aba-2/
+Seed.,Aba,noun,https://www.akandictionary.com/2021/04/22/aba/
+Seeds of fofo plant.,Fofo,,https://www.akandictionary.com/2021/07/31/fofo/
+Sell.,Ton,verb,https://www.akandictionary.com/2021/05/12/ton/
+Semi Circle.,Kankofa,noun,https://www.akandictionary.com/2021/04/22/kankofa/
+Semicolon.,Osisan,noun,https://www.akandictionary.com/2022/04/12/osisan/
+Send.,Soma,verb,https://www.akandictionary.com/2021/11/18/soma/
+September.,Ebo,noun,https://www.akandictionary.com/2021/04/14/ebo/
+September.,Fankwa,noun,https://www.akandictionary.com/2021/04/14/fankwa/
+Servant/Laborer.,Kaya,noun,https://www.akandictionary.com/2021/11/18/kaya/
+Servant/Workhorse.,Donko,noun,https://www.akandictionary.com/2021/04/15/donko/
+Serve.,Som,verb,https://www.akandictionary.com/2021/11/18/som-2/
+Seven (7) O’clock.,Nnonson,noun,https://www.akandictionary.com/2023/07/22/nnonson/
+Seven (7) a.m.,Anopa nnonson,noun,https://www.akandictionary.com/2023/07/22/anopa-nnonson/
+Seven/7.,Nson,number,https://www.akandictionary.com/2021/04/14/nson/
+Seventeen/17.,Dunson,,https://www.akandictionary.com/2021/08/02/dunson/
+Seventh.,Eto so nson,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-nson/
+Seventy (70).,Aduoson,number,https://www.akandictionary.com/2022/02/07/aduoson/
+Seventy-eight (78).,Aduoson nwotwe,number,https://www.akandictionary.com/2022/02/14/aduoson-nwotwe/
+Seventy-five (75).,Aduoson num,number,https://www.akandictionary.com/2022/02/14/aduoson-num/
+Seventy-four (74).,Aduoson nan,number,https://www.akandictionary.com/2022/02/14/aduoson-nan/
+Seventy-nine (79).,Aduoson nkron,number,https://www.akandictionary.com/2022/02/14/aduoson-nkron/
+Seventy-one (71).,Aduoson baako,number,https://www.akandictionary.com/2022/02/14/aduoson-baako/
+Seventy-seven (77).,Aduoson nson,number,https://www.akandictionary.com/2022/02/14/aduoson-nson/
+Seventy-six (76).,Aduoson nsia,number,https://www.akandictionary.com/2022/02/14/aduoson-nsia/
+Seventy-three (73).,Aduoson mmiensa,number,https://www.akandictionary.com/2022/02/14/aduoson-miensa/
+Seventy-two (72).,Aduoson mmienu,number,https://www.akandictionary.com/2022/02/14/aduoson-mienu/
+Sew.,Pam,verb,https://www.akandictionary.com/2021/04/21/pam/
+Shade.,Onwunu,noun,https://www.akandictionary.com/2022/07/06/onwunu/
+Shake it.,Woso,verb,https://www.akandictionary.com/2021/04/18/woso/
+Shame.,Animguase,,https://www.akandictionary.com/2021/04/18/animguase/
+Shark.,Oboodede,,https://www.akandictionary.com/2021/04/16/oboodede/
+Sharp,Nam,Adjective,https://www.akandictionary.com/2021/06/17/nam/
+Shaving on the back of Gyawu’s head.,Gyawu Atiko,,https://www.akandictionary.com/2021/07/31/gyawu-atiko/
+Shea butter.,Nkuto,noun,https://www.akandictionary.com/2022/07/06/nkuto/
+Shed.,Pata,noun,https://www.akandictionary.com/2021/05/20/panin/
+Sheep.,Odwan,noun,https://www.akandictionary.com/2021/04/16/odwan/
+Shellfish.,Tantra nam,noun,https://www.akandictionary.com/2023/10/25/tantra-nam/
+Shine/Brighten.,Hyeren,verb,https://www.akandictionary.com/2021/04/21/hyeren/
+Ship.,Nsuomhyen,noun,https://www.akandictionary.com/2021/04/18/nsuomhyen/
+Short.,Tiatia,Adjective,https://www.akandictionary.com/2022/02/25/tiatia/
+Shortcoming.,Sinto,noun,https://www.akandictionary.com/2022/07/06/sinto/
+Shoulder.,Abatire,noun,https://www.akandictionary.com/2021/07/31/abatire/
+Shout/Yell.,Team,verb,https://www.akandictionary.com/2021/04/24/team/
+Shrink.,Pompono,verb,https://www.akandictionary.com/2022/06/28/pompono/
+Sibling.,Onua,noun,https://www.akandictionary.com/2021/04/13/onua/
+Sick.,Yare,,https://www.akandictionary.com/2021/04/15/yare/
+Sickle Cell.,Ahotutuo,noun,https://www.akandictionary.com/2022/01/15/ahotutuo/
+Side.,Nkyen,noun,https://www.akandictionary.com/2021/10/08/nkyen/
+Significant other/Partner.,Hokani,noun,https://www.akandictionary.com/2021/05/01/hokani/
+Silence.,Dinnyo,,https://www.akandictionary.com/2021/04/22/dinnyo/
+Silver.,Dwete,noun.,https://www.akandictionary.com/2024/11/30/dwete/
+Simile.,Asesesem,noun,https://www.akandictionary.com/2022/10/10/asesesem/
+Simple past tense.,Twam kabea,noun,https://www.akandictionary.com/2022/10/10/twam-kabea/
+Simple present tense.,Daa kabea,noun,https://www.akandictionary.com/2022/10/10/daa-kabea/
+Simple sentence.,Okasamu tiawa,noun,https://www.akandictionary.com/2022/10/10/okasamu-tiawa/
+Sing me a song.,To,verb,https://www.akandictionary.com/2021/04/11/to/
+Singer.,Dwontoni,noun,https://www.akandictionary.com/2022/07/20/dwontoni/
+Singular.,Baako kabea,noun,https://www.akandictionary.com/2022/10/10/baako-kabea/
+Sir/Mister/Mr.,Owura,noun,https://www.akandictionary.com/2021/05/15/owura/
+Six (6) O’clock.,Nnonsia,noun,https://www.akandictionary.com/2023/07/22/nnonsia/
+Six (6) pm.,Anwummere nnonsia,noun,https://www.akandictionary.com/2023/07/22/anwummere-nnonsia/
+Six/6.,Nsia,number,https://www.akandictionary.com/2021/04/14/nsia/
+Sixteen/16.,Dunsia,,https://www.akandictionary.com/2021/08/02/dunsia/
+Sixth.,Eto so nsia,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-nsia/
+Sixty (60).,Aduosia,number,https://www.akandictionary.com/2022/01/15/aduosia/
+Sixty-eight (68).,Aduosia nwotwe,number,https://www.akandictionary.com/2022/02/07/aduosia-nwotwe/
+Sixty-five (65).,Aduosia num,number,https://www.akandictionary.com/2022/02/07/aduosia-num/
+Sixty-four (64).,Aduosia nan,number,https://www.akandictionary.com/2022/02/07/aduosia-nan/
+Sixty-nine (69).,Aduosia nkron,number,https://www.akandictionary.com/2022/02/07/aduosia-nkron/
+Sixty-one (61).,Aduosia baako,number,https://www.akandictionary.com/2022/02/07/aduosia-baako/
+Sixty-seven (67).,Aduosia nson,number,https://www.akandictionary.com/2022/02/07/aduosia-nson/
+Sixty-six (66).,Aduosia nsia,number,https://www.akandictionary.com/2022/02/07/aduosia-nsia/
+Sixty-three (63).,Aduosia mmiensa,number,https://www.akandictionary.com/2022/02/07/aduosia-miensa/
+Sixty-two (62).,Aduosia mmienu,number,https://www.akandictionary.com/2022/02/07/aduosia-mienu/
+Sky/Firmament.,Ewiem,noun,https://www.akandictionary.com/2021/05/02/ewiem/
+Skyscraper/Story building.,Abansoro,noun,https://www.akandictionary.com/2021/05/11/abansoro/
+Slavery.,Nkoasom,noun.,https://www.akandictionary.com/2022/11/19/nkoasom/
+Sleep.,Da,verb,https://www.akandictionary.com/2021/04/19/da/
+Sleepiness.,Anikum,noun,https://www.akandictionary.com/2022/02/25/anikum/
+Sleeplessness/Insomnia.,Kodaanna,noun,https://www.akandictionary.com/2022/05/26/kodaanna/
+Slide/Slip.,Pa,verb,https://www.akandictionary.com/2021/05/20/pa/
+Slide/Slip.,Patere,verb,https://www.akandictionary.com/2021/05/20/patere/
+Slim.,Teatea,Adjective,https://www.akandictionary.com/2022/02/25/teatea/
+Slim.,Feaa,Adjective,https://www.akandictionary.com/2024/07/28/feaa/
+Slip.,Patiriw,verb,https://www.akandictionary.com/2021/05/20/patiriw/
+Slippery.,Torotoro,adjective,https://www.akandictionary.com/2022/02/25/torotoro/
+Slogan.,Efene,noun,https://www.akandictionary.com/2022/02/25/efene/
+Slope.,Sianeee,noun,https://www.akandictionary.com/2022/10/09/sianeee/
+Slow.,Nyaa,adjective,https://www.akandictionary.com/2021/12/24/nyaa/
+Sly,Onitefuo,adjective,https://www.akandictionary.com/2021/04/16/onitefuo/
+Small.,Sua,adjective,https://www.akandictionary.com/2021/04/18/sua/
+Small.,Ketewa,Adjective,https://www.akandictionary.com/2022/02/07/ketewa/
+Small/Younger.,Kumaa,adjective,https://www.akandictionary.com/2021/06/10/kumaa/
+Smock.,Batakari,noun,https://www.akandictionary.com/2021/07/24/batakari/
+Smock.,Fugu,noun,https://www.akandictionary.com/2021/07/24/fugu/
+Smoke.,Wisie,noun,https://www.akandictionary.com/2021/08/27/wisie/
+Snail.,Nwa,,https://www.akandictionary.com/2021/04/16/nwa/
+Snake climb the raffia palm.,Owo Foro Adobe,Adinkra symbol/Alphabet,https://www.akandictionary.com/2021/04/14/owo-foro-adobe/
+Snake.,Owo,noun,https://www.akandictionary.com/2021/04/10/owo/
+Sneeze.,Nwansi,verb,https://www.akandictionary.com/2023/10/29/nwansi/
+Snore.,Nkurom,noun,https://www.akandictionary.com/2021/10/08/nkurom/
+Snow.,Sukyeremma,noun,https://www.akandictionary.com/2022/09/11/sukyeremma/
+So what do you mean.,Enti,conjuction,https://www.akandictionary.com/2021/04/17/enti/
+Soap bubbles.,Samina ahuru,noun,https://www.akandictionary.com/2021/05/23/samina-ahuru/
+Soap/Detergent.,Samina,noun,https://www.akandictionary.com/2021/05/23/samina/
+Soft/Flabby.,Betee,adjective,https://www.akandictionary.com/2022/02/25/betee/
+Soil.,Dotee,noun,https://www.akandictionary.com/2022/01/16/dotee/
+Soldier ant.,Hahini,,https://www.akandictionary.com/2021/04/16/hahini/
+Soldier.,Osraani,,https://www.akandictionary.com/2021/04/17/osraani/
+Someone.,Obi,pronoun,https://www.akandictionary.com/2021/05/09/obi/
+Son.,Babarima,noun,https://www.akandictionary.com/2021/05/16/babarima/
+Songs.,Ndwom,noun,https://www.akandictionary.com/2021/04/11/ndwom/
+Soon.,Enkye,adverb,https://www.akandictionary.com/2021/10/04/enkye/
+Sore/Ulcer.,Kuru,noun,https://www.akandictionary.com/2021/06/10/kukurudu-2/
+Sorry.,Kafra,adjective,https://www.akandictionary.com/2021/05/23/kafra/
+Sorry.,Kose,adjective,https://www.akandictionary.com/2021/04/19/kose/
+Soul.,Kra,noun,https://www.akandictionary.com/2021/04/11/kra/
+Soup.,Nkwan,noun,https://www.akandictionary.com/2021/10/08/nkwan/
+Sour.,Nwe,adjective,https://www.akandictionary.com/2023/10/26/nwe/
+South Pole.,Anaafuo poma,noun,https://www.akandictionary.com/2024/11/25/anaafuo-poma/
+South.,Anaafuo,noun,https://www.akandictionary.com/2021/04/12/anaafuo/
+Sow to preserve.,Pempamsie,,https://www.akandictionary.com/2021/04/20/pempamsie-4/
+Sow.,Prako bedee,,https://www.akandictionary.com/2021/04/16/prako-bedee/
+Space.,Ewiem,noun,https://www.akandictionary.com/2024/12/11/ewiem-2/
+Spare/Favor/Pardon.,Dom,verb,https://www.akandictionary.com/2021/06/29/dom-2/
+Sparrow.,Akasanoma,noun,https://www.akandictionary.com/2021/10/09/akasanoma/
+Speak slowly.,Kasa bokoo,Phrase.,https://www.akandictionary.com/2021/04/19/kasa-bokoo/
+"Speak, I am listening.",Kasa,verb,https://www.akandictionary.com/2021/04/17/kasa/
+Speak.,Ka,verb.,https://www.akandictionary.com/2021/05/20/ka/
+"Special hairstyle of Kwatakye, a war captain of old Asante.",Kwatakye Atiko,,https://www.akandictionary.com/2021/07/31/kwatakye-atiko/
+Special.,Esom bo,adjective,https://www.akandictionary.com/2022/12/14/esom-bo/
+Speech impairment.,Mmum,noun,https://www.akandictionary.com/2021/12/23/mmum/
+Speed.,Mirika,noun,https://www.akandictionary.com/2021/04/14/mirika/
+Spicy Ghanaian sauce.,Shito,noun,https://www.akandictionary.com/2021/04/14/shito/
+Spicy.,Mako atwa mu,noun,https://www.akandictionary.com/2021/08/13/mako-atwa-mu/
+Spider web.,Ananse ntontan,noun,https://www.akandictionary.com/2021/06/13/ananse-ntontan/
+Spider.,Ananse,noun,https://www.akandictionary.com/2021/04/11/ananse/
+Spinal cord.,Adwenentuaso,noun,https://www.akandictionary.com/2021/04/15/adwenetuaso/
+Spirit.,Sunsum,noun,https://www.akandictionary.com/2021/04/11/sunsum/
+Spirit.,Honhom,noun,https://www.akandictionary.com/2021/04/22/honhom/
+Sponge.,Sapow,noun,https://www.akandictionary.com/2022/01/16/sapow/
+Square.,Ahinanan,,https://www.akandictionary.com/2021/04/22/ahinanan/
+Squat.,Koto,verb,https://www.akandictionary.com/2021/04/25/koto-2/
+Squeeze/Compress.,Mia,verb,https://www.akandictionary.com/2021/09/04/mia/
+Squint.,Nyam,verb,https://www.akandictionary.com/2024/05/18/nyam/
+Squirrel.,Opuro,noun,https://www.akandictionary.com/2021/04/16/opuro/
+Stable.,Aponkodan,noun,https://www.akandictionary.com/2022/11/27/aponkodan/
+Stammer.,Po dodow,verb,https://www.akandictionary.com/2021/07/26/po-dodow/
+Star.,Nsoromma,,https://www.akandictionary.com/2021/04/18/nsoromma/
+Starve.,Kyene kom,verb,https://www.akandictionary.com/2024/05/18/kyene-kom/
+Station/Rest place/Stop.,Gyinabea,noun,https://www.akandictionary.com/2021/05/12/gyinabea/
+Statue.,Ohoni,noun,https://www.akandictionary.com/2024/05/18/ohoni/
+Stem.,Dutan,noun,https://www.akandictionary.com/2025/08/16/dutan/
+Stiff.,Pintin,,https://www.akandictionary.com/2021/04/18/pintin/
+Stink.,Bon,verb,https://www.akandictionary.com/2022/02/02/bon/
+Stomach ulcer.,Ayamkuro,,https://www.akandictionary.com/2021/04/18/ayamkuro/
+Stomach.,Yafunu,noun,https://www.akandictionary.com/2021/04/12/yafunu/
+Stomach/Abdomen.,Yam,noun,https://www.akandictionary.com/2022/05/16/yam/
+Stone.,Eboba,noun,https://www.akandictionary.com/2021/04/22/eboba/
+Stop/Halt/Abandon/leave behind.,Gyae,verb,https://www.akandictionary.com/2021/04/22/gyae/
+Storm.,Ahum,noun,https://www.akandictionary.com/2022/02/02/ahum/
+Story.,Abasem,noun,https://www.akandictionary.com/2021/06/13/abasem/
+Straight.,Tene,adjective,https://www.akandictionary.com/2021/04/30/tene-2/
+Stream.,Nsutene,noun,https://www.akandictionary.com/2021/10/03/nsutene/
+Street/Outside.,Abonten,noun,https://www.akandictionary.com/2021/06/13/abonten-2/
+Strife/Quarrel/Argument.,Akasakasa,noun,https://www.akandictionary.com/2021/10/09/akasakasa/
+Stroke.,Nnwodwoee,noun,https://www.akandictionary.com/2021/04/18/nnwodwoee/
+Student.,Sukuuni,noun,https://www.akandictionary.com/2022/02/28/sukuuni/
+Subatomic Particle.,Ahim Mmosea Nkyekyemu,noun,https://www.akandictionary.com/2021/04/22/ahim-mmosea-nkyekyemu/
+Subject.,Oyefuo,noun,https://www.akandictionary.com/2022/10/10/oyefuo/
+Subordinate clause.,Okasamufa kumaa,noun,https://www.akandictionary.com/2022/10/10/okasamufa-kumaa/
+Subtraction.,Ntefirimu,noun,https://www.akandictionary.com/2021/04/14/ntefirimu/
+Suffering,Amanehunu,noun,https://www.akandictionary.com/2021/04/24/amanehunu/
+Suffix.,Nsiakyire,noun,https://www.akandictionary.com/2022/10/10/nsiakyire/
+Sugar.,Asikyire,noun,https://www.akandictionary.com/2021/05/05/asikyire/
+Sugarcane.,Ahwedee,noun,https://www.akandictionary.com/2021/04/16/ahwedee/
+Summon.,Saman,noun,https://www.akandictionary.com/2021/04/24/saman/
+Sun/Afternoon/Noon.,Awia,noun,https://www.akandictionary.com/2021/10/09/awia/
+Sunbird.,Aserewa,noun,https://www.akandictionary.com/2022/04/23/aserewa/
+Sunday.,Kwesiada,,https://www.akandictionary.com/2021/04/16/kwesiada/
+Sunday.,Kwasiada,,https://www.akandictionary.com/2021/04/16/kwasiada/
+Superstition.,Gyedihunu,noun,https://www.akandictionary.com/2021/05/12/gyedihunu/
+Surname.,Abusua din,noun,https://www.akandictionary.com/2021/05/02/abusua-din/
+"Surprise, Wonder, Wonderful.",Nwonwa,noun,https://www.akandictionary.com/2023/10/26/nwonwa/
+Swallow.,Mene,verb,https://www.akandictionary.com/2021/08/24/mene/
+Sweat/Perspire.,Mfifire,verb,https://www.akandictionary.com/2021/05/16/mfifire/
+Sweep.,Pra,verb,https://www.akandictionary.com/2021/05/08/pra/
+Sword.,Afena,noun,https://www.akandictionary.com/2022/10/13/afena/
+Synonym.,Nkyerease koro,noun,https://www.akandictionary.com/2022/10/10/nkyerease-koro/
+Syringe/Needle.,Panee,noun,https://www.akandictionary.com/2021/04/22/panee/
+Tadpole.,Konkontiba,,https://www.akandictionary.com/2021/04/24/konkontiba/
+Talisman that is used to ward off negativity.,Mmusuyidee,,https://www.akandictionary.com/2021/07/31/mmusuyidee/
+Tall/High/Long.,Tenten,Adjective,https://www.akandictionary.com/2021/04/18/tenten/
+Tax.,Etoo,noun,https://www.akandictionary.com/2021/12/05/etoo/
+Tea.,Tii,noun,https://www.akandictionary.com/2021/08/16/tii/
+Teach/Show.,Kyere,verb,https://www.akandictionary.com/2022/02/28/kyere/
+Teacher.,Okyerekyereni,noun,https://www.akandictionary.com/2021/04/17/okyerekyereni/
+Teardrop/tears.,Anisuo,noun,https://www.akandictionary.com/2024/01/02/anisuo/
+Technical.,Nimdee soronko,adjective,https://www.akandictionary.com/2022/07/31/nimdee-soronko/
+Technology.,Abodee nimdee soronko,noun,https://www.akandictionary.com/2022/07/31/abodee-nimdee-soronko/
+Teeth.,Ese,noun,https://www.akandictionary.com/2021/06/17/ese/
+Telephone.,Ahomatorofuo,,https://www.akandictionary.com/2021/04/22/ahomatorofuo/
+Television.,Akasamfonini afidie,noun,https://www.akandictionary.com/2021/04/17/akasamfonini-afidie/
+Ten (10) O’clock.,Nnondu,noun,https://www.akandictionary.com/2023/07/22/nnondu/
+Ten (10) P.M.,Anadwo nnondu,noun,https://www.akandictionary.com/2023/07/22/anadwo-nnondu/
+"Ten Thousand/10,000.",Mpem du,,https://www.akandictionary.com/2021/05/16/mpem-du/
+Ten days.,Dadu,adverb,https://www.akandictionary.com/2021/08/03/dadu/
+Ten/10.,Edu,number,https://www.akandictionary.com/2021/04/14/edu/
+Tenth.,Eto so du,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-du/
+Termite.,Mfotee,,https://www.akandictionary.com/2021/04/16/mfotee/
+Termite.,Nkanka,,https://www.akandictionary.com/2021/04/16/nkanka/
+Testify/Proof.,Adansedi,noun,https://www.akandictionary.com/2021/06/10/adansedi/
+Testimony.,Adanse,noun,https://www.akandictionary.com/2021/06/10/adanse/
+Thank you.,Medaase,noun,https://www.akandictionary.com/2021/04/16/medaase/
+Thanks be to God.,Nka,verb,https://www.akandictionary.com/2021/06/17/nka/
+Thanks/Gratitude/Acknowledgement.,Aseda,noun,https://www.akandictionary.com/2022/03/01/aseda/
+That is mine.,Me dee,Pronoun.,https://www.akandictionary.com/2021/10/09/me-dee/
+That is not mine.,Ennye,adverb,https://www.akandictionary.com/2021/10/09/ennye/
+That is what I meant.,Saa,adjective,https://www.akandictionary.com/2021/05/23/saa/
+That tree behind the house has fallen.,A,Pronoun.,https://www.akandictionary.com/2021/04/12/a/
+That which cannot be burnt.,Hye Wonhye,Adinkra symbol,https://www.akandictionary.com/2021/04/28/hye-wonhye-3/
+That/it.,No,Pronoun,https://www.akandictionary.com/2021/04/10/no/
+The Cell.,Nkwa ahyease aba,noun,https://www.akandictionary.com/2023/12/05/nkwa-ahyease-aba/
+The Earth has weight.,Asase Ye Duru,,https://www.akandictionary.com/2021/04/20/asase-ye-duru-3/
+The Grace of God be with you.,Adom,noun,https://www.akandictionary.com/2021/04/13/adom/
+The Grace of God be with you.,ntina,verb,https://www.akandictionary.com/2021/04/13/ntina/
+The Lord God.,Awurade,noun,https://www.akandictionary.com/2021/04/24/awurade/
+The Moon and the Star.,Osram Ne Nsoromma,Adinkra symbol,https://www.akandictionary.com/2021/04/25/osram-ne-nsoromma-2/
+The Moon.,Osram,"Adinkra symbol, noun",https://www.akandictionary.com/2021/07/31/osram/
+The Self or spiritual determinants of an individual.,Nton,noun,https://www.akandictionary.com/2021/09/04/nton/
+The afterlife/Land of the dead.,Asamando,noun,https://www.akandictionary.com/2021/04/24/asamando/
+The house is big.,Edan,noun,https://www.akandictionary.com/2021/04/11/edan/
+The ladder of death.,Owuo Atwedee,,https://www.akandictionary.com/2021/07/31/owuo-atwedee/
+The leg of a hen.,Akokonan,,https://www.akandictionary.com/2021/04/21/akokonan-2/
+The medicine gave me healing.,Ayaresa,noun,https://www.akandictionary.com/2021/04/11/ayaresa/
+The peace of God be with you.,Asomdwoee,verb,https://www.akandictionary.com/2021/04/11/asomdwoee/
+The pot is behind the chair.,Akyi,conjunction,https://www.akandictionary.com/2021/05/11/akyi/
+The state ceremonial swords.,Akofena,,https://www.akandictionary.com/2021/07/31/akofena/
+The talons of the Eagle.,Okodee Mmowere,Adinkra symbol,https://www.akandictionary.com/2021/04/28/okodee-mmowere-2/
+The teeth and the tongue.,Ese Ne Tekrema,,https://www.akandictionary.com/2021/04/15/ese-ne-tekrema/
+There.,eho,adverb,https://www.akandictionary.com/2021/08/02/eho/
+They/Them.,Won,Pronoun,https://www.akandictionary.com/2021/04/17/won/
+Thief.,Okoromfuo,adjective,https://www.akandictionary.com/2021/05/14/okoromfuo/
+Thievery/Robbery.,Korono,noun,https://www.akandictionary.com/2021/05/14/korono/
+Thieves.,Akoronfoo,noun,https://www.akandictionary.com/2021/05/14/akoronfoo/
+Thigh.,Sre,noun,https://www.akandictionary.com/2021/04/12/sre/
+Thing/Object.,Ade,noun,https://www.akandictionary.com/2021/06/10/ade/
+Think.,Adwene,verb/Perfect,https://www.akandictionary.com/2021/05/22/adwene-2/
+Think.,Dwene,verb,https://www.akandictionary.com/2021/04/22/adwen/
+Think.,Dwin,,https://www.akandictionary.com/2021/04/18/dwin/
+Thinking.,Adwendwen,noun,https://www.akandictionary.com/2021/04/22/adwendwen/
+Thinking.,Redwene,verb/Progressive,https://www.akandictionary.com/2021/05/22/redwene/
+Third.,Eto so mmiensa,ordinal number,https://www.akandictionary.com/2025/04/10/eto-so-mmiensa/
+Thirst.,Nsukom,noun,https://www.akandictionary.com/2021/10/09/nsukom/
+Thirteen/13.,Dumiensa,,https://www.akandictionary.com/2021/05/11/dumiensa/
+Thirty (30).,Aduasa,number,https://www.akandictionary.com/2021/08/11/aduasa/
+Thirty eight (38).,Aduasa nwotwe,number,https://www.akandictionary.com/2021/08/13/aduasa-nwotwe/
+Thirty five (35).,Aduasa num,number,https://www.akandictionary.com/2021/08/13/aduasa-num/
+Thirty four (34).,Aduasa nan,number,https://www.akandictionary.com/2021/08/13/aduasa-nan/
+Thirty nine (39).,Aduasa nkron,number,https://www.akandictionary.com/2021/08/13/aduasa-nkron/
+Thirty one (31).,Aduasa baako,number,https://www.akandictionary.com/2021/08/13/aduasa-baako/
+Thirty seven (37).,Aduasa nson,number,https://www.akandictionary.com/2021/08/13/aduasa-nson/
+Thirty six (36).,Aduasa nsia,number,https://www.akandictionary.com/2021/08/13/aduasa-nsia/
+Thirty three (33).,Aduasa mmiensa,number,https://www.akandictionary.com/2021/08/13/aduasa-mmiensa/
+Thirty two (32).,Aduasa mmienu,number,https://www.akandictionary.com/2021/08/13/aduasa-mmienu/
+Those.,Enonom,pronoun,https://www.akandictionary.com/2021/11/20/enonom/
+Thought.,Dweneee,verb/Past tense of think,https://www.akandictionary.com/2021/05/22/dweneee/
+Thought.,Dwenee,verb/Past tense of think,https://www.akandictionary.com/2021/05/22/dwenee/
+Thousand (1000).,Apem,number,https://www.akandictionary.com/2021/08/14/apem-2/
+Three (3) O’clock.,Nnonmiensa,noun,https://www.akandictionary.com/2023/07/22/nnonmiensa/
+Three (3).,Mmiensa,number,https://www.akandictionary.com/2021/04/14/mmiensa/
+Three days.,Nnansa,adverb,https://www.akandictionary.com/2021/08/03/nnansa/
+Thrice.,Mprensa,adverb,https://www.akandictionary.com/2022/08/11/mprensa/
+Throne.,Ahennwa,noun,https://www.akandictionary.com/2022/11/27/ahennwa/
+Thumb.,Kokuromotie,noun,https://www.akandictionary.com/2021/08/16/kokuromotie/
+Thunder.,Agradaa,noun,https://www.akandictionary.com/2021/04/14/agradaa/
+Thursday.,Yawoada,noun,https://www.akandictionary.com/2021/04/16/yawoada/
+Tick.,Sommoro,,https://www.akandictionary.com/2021/04/16/sommoro/
+Tie.,Kyekyere,verb,https://www.akandictionary.com/2021/05/06/kyekyere/
+Tiger.,Sebo,noun,https://www.akandictionary.com/2021/04/12/sebo/
+Tigernut.,Atadwe,noun,https://www.akandictionary.com/2021/04/16/atadwe/
+Tilapia.,Apataa,noun,https://www.akandictionary.com/2023/04/17/apataa/
+Time changes.,Mmere Dane,,https://www.akandictionary.com/2021/04/16/mmere-dane/
+Time pass.,Donhwere,noun,https://www.akandictionary.com/2021/05/14/donhwere-2/
+Time.,Mmere,noun,https://www.akandictionary.com/2021/04/14/mmere/
+Tingle.,Femfem,verb,https://www.akandictionary.com/2024/08/17/femfem/
+To abolish/To annul/To place.,Gu,verb,https://www.akandictionary.com/2021/09/12/gu/
+To affirm.,Si so,verb,https://www.akandictionary.com/2021/05/11/si-so/
+To alter/To change/To transform.,Sakra,verb,https://www.akandictionary.com/2021/05/23/sakra/
+To appoint.,Si,verb,https://www.akandictionary.com/2021/05/11/si-2/
+To arrive.,Duru,verb,https://www.akandictionary.com/2021/04/30/duru-2/
+To be finished.,Sa,verb,https://www.akandictionary.com/2021/05/23/sa-2/
+To bother/To tempt.,Gyigye,verb,https://www.akandictionary.com/2021/05/12/gyigye-2/
+To change mind.,Sakra adwen,verb,https://www.akandictionary.com/2021/05/23/sakra-adwen/
+To come down/To alight/To descend.,Si fam,verb,https://www.akandictionary.com/2021/05/11/si-fam/
+To compete.,Si akan,verb,https://www.akandictionary.com/2021/05/11/si-akan/
+To depart.,Si kwan so,verb,https://www.akandictionary.com/2021/05/11/si-kwan-so/
+To distinguish/To alter/To change.,Sakra ho,verb,https://www.akandictionary.com/2021/05/23/sakra-ho/
+To enthrone.,Si hene,verb,https://www.akandictionary.com/2021/05/11/si-hene/
+To go on sale.,Donkomi,noun.,https://www.akandictionary.com/2021/04/29/donkomi/
+To heal/To cure.,Saa yare,verb,https://www.akandictionary.com/2021/05/23/saa-yare/
+To join together.,Bom,verb,https://www.akandictionary.com/2021/12/23/bom/
+To leave.,Si mu,verb,https://www.akandictionary.com/2021/05/11/si-mu/
+To make bright/Ignite.,So,verb,https://www.akandictionary.com/2021/04/14/so/
+To make dim/Extinguish.,Dum,verb,https://www.akandictionary.com/2021/04/14/dum/
+To replace.,Si anan mu,verb,https://www.akandictionary.com/2021/05/11/si-anan-mu/
+To settle a dispute/To mediate/To reconcile/To pacify.,Pata,verb,https://www.akandictionary.com/2021/05/20/pata/
+To spray/To castrate.,Sa,verb,https://www.akandictionary.com/2021/05/23/sa/
+To stop/To remain.,Gyina,verb,https://www.akandictionary.com/2021/04/17/gyina/
+To you.,Woaa,Adverb,https://www.akandictionary.com/2021/04/26/woaa/
+Toad.,Apotoro,noun,https://www.akandictionary.com/2021/04/24/apotoro/
+Tobacco.,Tawa,noun,https://www.akandictionary.com/2021/11/20/tawa/
+Today.,Enne,noun,https://www.akandictionary.com/2021/11/20/enne/
+Toes.,Nannsowaa,noun.,https://www.akandictionary.com/2021/09/19/nannsowaa/
+Toilet/Feces/Stools.,Tiafi,noun,https://www.akandictionary.com/2021/08/27/tiafi/
+Tomato.,Nenkyemoono,,https://www.akandictionary.com/2021/04/16/nenkyemoono/
+Tomato.,Ntoosi,,https://www.akandictionary.com/2021/04/16/ntoosi/
+Tomorrow.,Okyena,noun.,https://www.akandictionary.com/2021/05/21/okyena/
+Tool.,Adwumaye dadee,noun,https://www.akandictionary.com/2025/03/02/adwumaye-dadee/
+Toothbrush.,Sedua,noun,https://www.akandictionary.com/2022/03/05/sedua/
+Tortoise.,Akyekyedee,,https://www.akandictionary.com/2021/04/16/akyekyedee/
+Totem.,Agyinahyedee,noun,https://www.akandictionary.com/2022/03/05/agyinahyedee/
+Tower.,Abantenten,noun,https://www.akandictionary.com/2021/06/13/abantenten/
+Town.,Kuro,noun,https://www.akandictionary.com/2021/04/15/kuro/
+Trachea.,Ahrawa droben kesee,,https://www.akandictionary.com/2025/09/29/ahrawa-droben-kesee/
+Tract.,Krataasin,,https://www.akandictionary.com/2021/04/18/krataasin/
+Traditional battalions in Akan based on lineal descent.,Asafo,noun,https://www.akandictionary.com/2022/10/13/asafo-2/
+Traditional worshiper.,Bosomsorefuo,noun,https://www.akandictionary.com/2021/08/03/bosomsorefuo/
+Traffic.,Mfidie akoneaba,noun,https://www.akandictionary.com/2021/08/13/mfidie-akoneaba/
+Train.,Keteke,noun,https://www.akandictionary.com/2021/12/22/keteke/
+Translate/Interpret.,Kyere ase,,https://www.akandictionary.com/2021/04/18/kyere-ase/
+Translation.,Nkyerease,,https://www.akandictionary.com/2021/04/18/nkyerease-2/
+Treasury/Mint.,Sikatwabea,noun,https://www.akandictionary.com/2022/08/12/sikatwabea/
+Tree hyrax.,Owea,noun,https://www.akandictionary.com/2021/04/16/owea/
+Tree of God.,Nyame Dua,Adinkra symbol,https://www.akandictionary.com/2021/07/31/nyame-dua/
+Tree.,Dua,noun,https://www.akandictionary.com/2021/04/22/dua/
+Trial.,Asennie,noun,https://www.akandictionary.com/2021/05/23/asennie/
+Triangle.,Ahinasa,noun,https://www.akandictionary.com/2022/08/10/ahinasa-2/
+Triangular.,Ahinasa,,https://www.akandictionary.com/2021/04/22/ahinasa/
+Tribe.,Abusuakuo,noun,https://www.akandictionary.com/2021/05/02/abusuakuo/
+Trick.,Nnaadaa,noun,https://www.akandictionary.com/2021/09/04/nnaadaa-2/
+"Trillion (1,000,000,000,000).",Opepepepem,number,https://www.akandictionary.com/2021/08/14/opepepepem/
+Trinity.,Onyame Baasakoro,noun,https://www.akandictionary.com/2022/05/21/onyame-baasakoro/
+Truth.,Nokore,noun,https://www.akandictionary.com/2021/04/15/nokore/
+Truthful person.,Nokwafuo,noun,https://www.akandictionary.com/2023/12/10/nokwafuo/
+Tsetsefly.,Huruie,,https://www.akandictionary.com/2021/04/16/huruie/
+Tuberculosis (TB).,Nsamanwa,noun,https://www.akandictionary.com/2021/04/18/nsamanwa/
+Tuesday.,Benada,Calendar,https://www.akandictionary.com/2021/04/16/benada/
+Turn on and off.,Dumso,noun,https://www.akandictionary.com/2021/04/14/dumso/
+Turn right when you reach the junction.,Potee,adjective,https://www.akandictionary.com/2021/04/30/potee/
+Turn.,Dane,noun,https://www.akandictionary.com/2021/11/18/dane/
+Tutor.,Okyerekyerefuo,noun.,https://www.akandictionary.com/2021/05/21/okyerekyerefuo/
+Twelve (12) O’clock.,Nnondumienu,noun,https://www.akandictionary.com/2023/07/22/nnondumienu/
+Twelve/12.,Dumienu,,https://www.akandictionary.com/2021/05/11/dummienu/
+Twenty eight (28).,Aduonu nwotwe,number,https://www.akandictionary.com/2021/08/11/aduonu-nwotwe/
+Twenty five (25).,Aduanu num,number,https://www.akandictionary.com/2021/08/12/aduanu-num/
+Twenty four (24).,Aduonu nan,number,https://www.akandictionary.com/2021/08/11/aduonu-nan/
+Twenty nine (29).,Aduonu nkron,number,https://www.akandictionary.com/2021/08/11/aduonu-nkron/
+Twenty one/21.,Aduonu baako,number,https://www.akandictionary.com/2021/08/11/aduonu-baako/
+Twenty seven (27).,Aduonu nson,number,https://www.akandictionary.com/2021/08/11/aduonu-nson/
+Twenty six (26).,Aduonu nsia,number,https://www.akandictionary.com/2021/08/11/aduonu-nsia/
+Twenty three (23).,Aduonu mmiensa,number,https://www.akandictionary.com/2021/08/11/aduonu-mmiensa/
+Twenty two/22.,Aduonu mmienu,number,https://www.akandictionary.com/2021/08/11/aduonu-mmienu/
+Twenty/20.,Aduonu,,https://www.akandictionary.com/2021/08/02/aduonu/
+Twice.,Mprenu,adverb,https://www.akandictionary.com/2022/08/11/mprenu/
+Twin.,Ata,noun,https://www.akandictionary.com/2022/08/28/ata/
+Twisting.,Nkyinkyim,Adinkra symbol,https://www.akandictionary.com/2021/04/16/nkyinkyim/
+Two (2) O’clock.,Nnonmienu,noun,https://www.akandictionary.com/2023/07/22/nnonmienu/
+Two (2).,Mmienu,number,https://www.akandictionary.com/2021/04/14/mmienu/
+Two days.,Nnanu,adverb,https://www.akandictionary.com/2021/04/18/nnanu/
+Two weeks.,Nnawotwemmienu,adverb,https://www.akandictionary.com/2021/08/03/nnawotwemmienu/
+Umbrella bearer.,Kyinyekyemfuo,noun,https://www.akandictionary.com/2025/08/25/kyinyekyemfuo/
+Umbrella.,Akatawia,noun,https://www.akandictionary.com/2021/05/10/akatawia/
+Uncle (paternal).,Papa nuabarima,noun,https://www.akandictionary.com/2021/08/13/papa-nuabarima/
+Underground.,Asase ase,noun,https://www.akandictionary.com/2021/05/23/asase-ase/
+Underwear.,Twakoto,noun,https://www.akandictionary.com/2022/01/16/twakoto/
+Underwear.,Pieto,noun,https://www.akandictionary.com/2021/05/14/pieto/
+Unity.,Nkabom,noun,https://www.akandictionary.com/2021/04/21/nkabom/
+University/College.,Sukuupon,noun,https://www.akandictionary.com/2022/02/28/sukuupon/
+Until when.,Da ben,adverb,https://www.akandictionary.com/2021/07/26/da-ben/
+Until when.,Kosi,Conjunction,https://www.akandictionary.com/2021/07/26/kosi/
+Urethral opening.,Dwonsoben apueye,,https://www.akandictionary.com/2021/04/15/dwonsoben-apueye/
+Urine.,Dwonso,noun,https://www.akandictionary.com/2021/05/11/dwonso/
+Use the thread to tie the woods.,Ahoma,noun.,https://www.akandictionary.com/2021/04/12/ahoma-2/
+Vacation/Holiday.,Akwamma,noun,https://www.akandictionary.com/2021/10/04/akwamma/
+Vaccinate.,Aduru wo,noun,https://www.akandictionary.com/2021/08/02/aduru-wo/
+Vagina.,Etwe,anatomy,https://www.akandictionary.com/2021/04/15/etwe/
+Valley.,Amena,noun,https://www.akandictionary.com/2022/09/16/amena/
+Valve.,Kotokrado,noun,https://www.akandictionary.com/2024/05/01/kotokrado/
+Vegetables.,Atosodee,noun,https://www.akandictionary.com/2021/04/16/atosodee/
+Vegetarian.,Dee onwe nammono,noun,https://www.akandictionary.com/2023/04/17/dee-onwe-nammono/
+Vegetation.,Mfudee,noun,https://www.akandictionary.com/2023/04/17/mfudee/
+Veil.,Nkataanim,noun,https://www.akandictionary.com/2024/08/07/nkataanim/
+Velocity.,Emirika,noun,https://www.akandictionary.com/2021/04/14/emirika/
+Vendor.,Adetonni,noun,https://www.akandictionary.com/2024/08/07/adetonni/
+Venom.,Eboro,noun,https://www.akandictionary.com/2024/08/07/eboro/
+Verb complement.,Adeyo boafuo,noun,https://www.akandictionary.com/2022/10/10/adeyo-boafuo/
+Verb.,Adeyo,noun,https://www.akandictionary.com/2021/04/12/adeyo/
+Verbatim.,Pepeepe,Adjective,https://www.akandictionary.com/2022/01/14/pepeepe/
+Vernacular.,Obi kurom kasa,noun,https://www.akandictionary.com/2024/08/07/obi-kurom-kasa/
+Very Small/Tiny.,Ketekete,Adjective,https://www.akandictionary.com/2022/02/07/ketekete/
+Vice President.,Omanpanin Abediakyire,noun,https://www.akandictionary.com/2021/04/21/omanpanin-abediakyire/
+Victory.,Nkonim,verb,https://www.akandictionary.com/2022/05/28/nkonim/
+Video.,Akasamfonini,,https://www.akandictionary.com/2021/04/17/akasamfonini/
+Village.,Kuroase,noun,https://www.akandictionary.com/2021/04/15/kuroase/
+Vinegar.,Nsa Kekakeka,noun,https://www.akandictionary.com/2024/02/04/nsa-kekakeka/
+Violet.,Afasebiri,noun,https://www.akandictionary.com/2024/06/20/afasebiri/
+Virtue.,Suban pa,noun,https://www.akandictionary.com/2024/11/23/suban-pa/
+Virus.,Nkwa Nhyehyeee aduro mmoawammoawa,noun,https://www.akandictionary.com/2023/12/05/nkwa-nhyehyeee-aduro-mmoawammoawa/
+Visit.,Nsrahwe,noun.,https://www.akandictionary.com/2021/07/29/nsrahwe/
+Visit.,Sra,verb,https://www.akandictionary.com/2021/05/10/sra/
+Vitamin.,Nnuaneduro,noun,https://www.akandictionary.com/2025/09/22/nnuaneduro/
+Volta Region.,Volta mantam,noun,https://www.akandictionary.com/2023/11/22/volta-mantam/
+Vomit.,Fe,verb,https://www.akandictionary.com/2021/05/14/fe/
+Vomit.,Efee,Noun,https://www.akandictionary.com/2022/04/16/efee/
+Vowels.,Enne nnyegyee,noun,https://www.akandictionary.com/2021/04/12/enne-nnyegyee/
+Vulture.,Kokosakyi,noun,https://www.akandictionary.com/2021/04/16/kokosakyi/
+Waist.,Sisi,noun,https://www.akandictionary.com/2022/01/16/sisi/
+Wait.,Twen,verb,https://www.akandictionary.com/2021/08/27/twen/
+Walk.,Nante,verb,https://www.akandictionary.com/2021/09/01/nante/
+Walking stick.,Poma,,https://www.akandictionary.com/2021/04/17/poma/
+Wandering.,Akyinkyin,noun,https://www.akandictionary.com/2021/05/18/akyinkyin/
+War horn.,Akoben,,https://www.akandictionary.com/2021/07/31/akoben/
+Warn.,Koko,verb,https://www.akandictionary.com/2021/08/16/koko/
+Warning.,kokobo,noun,https://www.akandictionary.com/2022/01/16/kokobo-2/
+Warthog/Bush pig.,Kokote,noun,https://www.akandictionary.com/2023/12/16/kokote/
+Wash.,Si,verb,https://www.akandictionary.com/2021/05/11/si/
+Wash/Clean.,Hohoro,verb,https://www.akandictionary.com/2021/08/01/hohoro/
+Wasp.,Kotokurodu,,https://www.akandictionary.com/2021/04/16/kotokurodu/
+Watch your step.,Hwe fam,verb,https://www.akandictionary.com/2021/12/04/hwe-fam/
+Water.,Nsuo,noun,https://www.akandictionary.com/2021/04/15/nsuo/
+Watermelon.,Anamuna,noun,https://www.akandictionary.com/2021/04/17/anamuna/
+Wave.,Him,noun,https://www.akandictionary.com/2024/11/23/him/
+We are worshiping.,Yeresom,verb,https://www.akandictionary.com/2021/04/26/yeresom/
+We arrive.,Yeduru,verb,https://www.akandictionary.com/2021/04/30/yeduru/
+We call bread burodo in Twi.,Yefre,conditional verb,https://www.akandictionary.com/2021/04/26/yefre/
+We gave him a push.,Yepia,verb,https://www.akandictionary.com/2021/04/24/yepia/
+We will worship God always.,Yebesom,verb,https://www.akandictionary.com/2021/05/02/yebesom/
+We will worship God always.,Daa,noun,https://www.akandictionary.com/2021/05/02/daa/
+We/Us.,Yen,Pronoun,https://www.akandictionary.com/2021/08/27/yen/
+Wealth.,Ahonyadee,,https://www.akandictionary.com/2021/04/19/ahonyadee/
+Wear/Score.,Hye,verb,https://www.akandictionary.com/2021/09/19/hye-2/
+"Weave, Create.",Nwene,verb,https://www.akandictionary.com/2022/05/16/nwene/
+Web.,Ntontan,noun,https://www.akandictionary.com/2021/06/13/ntontan/
+Website/World Wide Web.,Wiase ntontan,noun,https://www.akandictionary.com/2022/11/15/wiase-ntontan/
+Wedding.,Ayeforo,noun,https://www.akandictionary.com/2022/05/22/ayeforo/
+Wednesday.,Wukuada,,https://www.akandictionary.com/2021/04/16/wukuada/
+Weeds.,Nwura,noun,https://www.akandictionary.com/2021/04/18/nwura/
+Weekday/Working day.,Adwuma da,noun,https://www.akandictionary.com/2022/10/06/adwuma-da/
+Weight.,Emuduru,noun,https://www.akandictionary.com/2021/04/14/emuduru/
+Welcome.,Akwaaba,verb,https://www.akandictionary.com/2021/04/16/akwaaba/
+Well done/Good job.,Ayeeko,noun,https://www.akandictionary.com/2021/05/08/ayeeko/
+Well.,Asubura,noun,https://www.akandictionary.com/2021/10/03/asubura/
+Well.,Aah,interjection,https://www.akandictionary.com/2021/07/31/aah/
+West.,Atoee,noun,https://www.akandictionary.com/2021/04/12/atoee/
+Western Region.,Atoee mantam,noun,https://www.akandictionary.com/2022/09/16/atoee-mantam/
+Wet.,Fo,verb.,https://www.akandictionary.com/2021/04/24/fo/
+Wet.,Afo,Adjective.,https://www.akandictionary.com/2021/04/24/afo/
+Whale.,Bonsu,noun,https://www.akandictionary.com/2021/04/16/bonsu/
+"What I hear, I keep.",Mate Masie,,https://www.akandictionary.com/2021/04/16/mate-masie/
+What do you like?,Deen,pronoun,https://www.akandictionary.com/2021/05/17/deen/
+What does that mean.,Ekyere,pronoun,https://www.akandictionary.com/2021/04/17/ekyere/
+What is the meaning of this word?,Asem,noun,https://www.akandictionary.com/2021/04/26/asem-2/
+What is your name.,Fre,verb,https://www.akandictionary.com/2021/05/14/fre/
+What is your name?,De sen,Pronoun,https://www.akandictionary.com/2021/05/26/de-sen/
+What is your name?,Wo din de sen?,Phrase.,https://www.akandictionary.com/2024/05/04/wo-din-de-sen/
+What the hell.,Apuuto,Exclamation,https://www.akandictionary.com/2021/04/24/apuuto/
+What time is it?,Abo,Idiom,https://www.akandictionary.com/2021/04/12/bo-2/
+What work do you do?,Adwuma ben na wo ye?,phrase,https://www.akandictionary.com/2021/05/01/adwuma-ben-na-wo-ye/
+Where are you from?/Where do you come from?,Wofiri he?,Phrase.,https://www.akandictionary.com/2021/04/21/wofiri-he/
+Where are you going?,Ne,conjunction (for connecting words and phrases),https://www.akandictionary.com/2021/04/13/ne/
+Where do you work?,Wo ye adwuma wo he?,phrase,https://www.akandictionary.com/2021/05/01/where-do-you-work/
+Where.,He,adverb,https://www.akandictionary.com/2021/08/02/he/
+Whiskers.,Putuo,noun,https://www.akandictionary.com/2023/11/21/putuo/
+White.,Fitaa,noun,https://www.akandictionary.com/2021/04/12/fitaa/
+White.,Fufu,noun,https://www.akandictionary.com/2021/10/29/fufu/
+"Who, Whom, Which, That.",A,Pronoun,https://www.akandictionary.com/2021/04/29/a-2/
+Who’s there/Response to “agoo“.,Amee,noun,https://www.akandictionary.com/2022/01/16/amee/
+Why do you worry?,Haw,verb,https://www.akandictionary.com/2021/04/29/haw/
+Why.,Aden,adverb,https://www.akandictionary.com/2021/08/02/aden/
+Width.,Tetrete,noun,https://www.akandictionary.com/2021/04/18/tetrete/
+Wife.,Yere,noun,https://www.akandictionary.com/2021/05/01/yere/
+Wild dog.,Sakraman,noun,https://www.akandictionary.com/2023/12/08/sakraman-2/
+Will (Future marker).,Be,verb,https://www.akandictionary.com/2021/04/11/be/
+Will think.,Bedwene,verb/Future,https://www.akandictionary.com/2021/05/22/bedwene/
+Wind-resistant house.,Mframadan,,https://www.akandictionary.com/2021/04/28/mframadan-2/
+Winding/Crooked.,Akonkon,Adjective,https://www.akandictionary.com/2021/04/24/akonkon/
+Window.,Mpoma,noun,https://www.akandictionary.com/2022/03/28/mpoma/
+Wine.,Bobesa,noun,https://www.akandictionary.com/2024/12/02/bobesa/
+Wing.,Ataban,noun,https://www.akandictionary.com/2024/12/02/ataban/
+Wisdom knot.,Nyansapo,Adinkra symbol,https://www.akandictionary.com/2021/04/28/nyansapo-2/
+Wise Person.,Nyansafuo,noun,https://www.akandictionary.com/2021/05/06/nyansafuo/
+Witch/Wizard.,Bayifuo,noun,https://www.akandictionary.com/2021/04/25/bayifuo/
+Witchcraft.,Bayie,noun,https://www.akandictionary.com/2021/04/25/bayie/
+Witchcraft.,Abayisem,noun,https://www.akandictionary.com/2021/04/25/abayisem/
+Wofa‘s child.,Wofaba,noun,https://www.akandictionary.com/2021/04/13/wofaba/
+Wolf.,Pataku,noun,https://www.akandictionary.com/2022/08/23/pataku/
+Wooden comb.,Duafe,,https://www.akandictionary.com/2021/04/21/duafe-2/
+Wooden planks.,Ntaaboo,,https://www.akandictionary.com/2021/04/22/ntaaboo/
+Woodpecker.,Anoma Abobonnua,Bird,https://www.akandictionary.com/2022/08/22/anoma-abobonnua/
+Word.,Asemfua,noun,https://www.akandictionary.com/2022/10/10/asemfua/
+Work.,Dwuma,noun,https://www.akandictionary.com/2021/04/24/dwoma/
+Work/Job/Employment/Occupation.,Adwuma,noun,https://www.akandictionary.com/2021/04/24/adwoma/
+Worker.,Adwumayeni,noun,https://www.akandictionary.com/2025/03/02/adwumayeni-2/
+World/Solar system.,Wiase,noun,https://www.akandictionary.com/2022/01/15/wiase/
+Worship.,Som,,https://www.akandictionary.com/2021/04/21/som/
+Wrapper.,Nnuraho,noun,https://www.akandictionary.com/2022/01/16/nnuraho/
+X-ray.,Mfoni saman,noun,https://www.akandictionary.com/2021/05/05/mfoni-saman/
+Xylophone.,Adakaben,noun,https://www.akandictionary.com/2021/06/10/adakaben/
+Yam.,Bayere,noun,https://www.akandictionary.com/2021/04/14/bayere/
+Yard.,Abasamfa,noun,https://www.akandictionary.com/2022/08/12/abasamfa/
+Yard.,Basafa,noun,https://www.akandictionary.com/2021/05/08/basafa/
+Year.,Afe,,https://www.akandictionary.com/2021/04/12/afe/
+Yellow-backed duiker.,Okwaaduo,noun,https://www.akandictionary.com/2023/12/16/okwaaduo/
+Yellow.,Akokosradee,noun,https://www.akandictionary.com/2024/06/20/akokosradee/
+Yes.,Aane,Interjection,https://www.akandictionary.com/2021/04/19/aane/
+Yesterday.,Ennora,noun/adverb,https://www.akandictionary.com/2021/11/17/ennora/
+You arrive.,Woduru,verb,https://www.akandictionary.com/2021/04/30/woduru/
+You did not give me some.,Woamma,Adverb,https://www.akandictionary.com/2021/04/24/woamma/
+You did not say goodbye when you left home.,Fihankra,,https://www.akandictionary.com/2021/04/21/fihankra-2/
+You give me.,Wo ma me,Phrase,https://www.akandictionary.com/2021/04/19/wo-ma-me/
+You too.,Wonso,Pronoun,https://www.akandictionary.com/2021/04/24/wonso/
+You will not see it again.,Wonhu,Conditional verb,https://www.akandictionary.com/2021/04/25/wonhu/
+You.,Mo,PRONOUN,https://www.akandictionary.com/2021/08/01/mo-3/
+Young Female.,Abaawa,noun,https://www.akandictionary.com/2021/06/13/abaawa/
+Young Female.,Ababaa,noun,https://www.akandictionary.com/2021/06/13/ababaa/
+You’re welcome.,Yenna ase,noun/Phrase,https://www.akandictionary.com/2021/05/22/yenna-ase/
+Zebra.,Masae Ponko,noun,https://www.akandictionary.com/2024/03/10/masae-ponko/
+Zero/0.,Hwee,number,https://www.akandictionary.com/2021/04/14/hwee/
+a Methodist.,Metadisni,noun,https://www.akandictionary.com/2021/08/03/metadisni/
+a month.,Bosome,noun,https://www.akandictionary.com/2021/08/03/bosome/
+account/report.,Amanee,noun,https://www.akandictionary.com/2021/05/08/amanee/
+as of/Concerning/with regards to.,De,Conjunction,https://www.akandictionary.com/2022/08/29/de-2/
+bring me,Bre,verb,https://www.akandictionary.com/2021/04/10/bre/
+count/read.,Kan,verb,https://www.akandictionary.com/2021/07/30/kan/
+god.,Bosom,noun,https://www.akandictionary.com/2021/04/15/bosom/
+gods.,Abosom,noun,https://www.akandictionary.com/2021/04/15/abosom/
+here,Ha,adverb,https://www.akandictionary.com/2021/04/10/ha/
+home,Fie,noun,https://www.akandictionary.com/2021/04/10/fie/
+oil.,Ngo,noun,https://www.akandictionary.com/2021/04/16/ngo/
+“Knock” “knock”/Call attention.,Agoo,noun,https://www.akandictionary.com/2022/01/16/agoo/
