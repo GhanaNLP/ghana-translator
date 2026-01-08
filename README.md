@@ -13,7 +13,7 @@ bash
 
 ```
 git clone https://github.com/GhanaNLP/ghana-translator.git
-cd tc-translate
+cd ghana-translator
 pip install -e .
 ```
 
