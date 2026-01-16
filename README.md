@@ -1,6 +1,6 @@
-# Ghana Translator
+# Nkrane Translator
 
-A Python package that extends Google Translate with terminology control and augmentation to enhance translation quality.  
+A Python package that extends Google Translate and other MT models with terminology control and augmentation to enhance translation quality.  
 
 ## Features
 
