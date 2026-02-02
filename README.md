@@ -2,15 +2,6 @@
 
 A Python package that extends Google Translate and other MT models with terminology control and noun phrase augmentation to enhance translation quality for low-resource languages.
 
-## Features
-
-- **Terminology Control**: Use your own translations for specific vocabulary
-- **Noun Phrase Detection**: Automatically detects noun phrases using spaCy
-- **Smart Replacement**: Only replaces phrases found in your terminology
-- **Case Preservation**: Maintains original text case patterns in translations
-- **Multiple Formats**: Supports CSV terminology files
-- **Batch Processing**: Translate multiple texts efficiently
-
 ## Installation
 
 ```bash
