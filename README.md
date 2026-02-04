@@ -202,15 +202,6 @@ translator = NkraneTranslator(
 
 ---
 
-## 🧪 Development
-
-### Running Tests
-
-```bash
-pip install pytest
-pytest tests/
-```
-
 ### Project Structure
 
 ```
