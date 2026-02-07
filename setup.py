@@ -60,7 +60,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "nkrane-translate=translate:main",
+            "nkrane-translate=nkrane_gt.cli:main",
         ],
     },
     include_package_data=True,

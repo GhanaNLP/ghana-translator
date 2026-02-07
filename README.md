@@ -23,8 +23,8 @@ The default setup supports translation from **English** to any of the following 
 
 ```bash
 # Clone the repository
-git clone https://github.com/ghananlp/nkrane-gt.git
-cd nkrane-gt
+git clone https://github.com/ghananlp/nkrane_gt.git
+cd nkrane_gt
 
 # Install the package
 pip install -e .
