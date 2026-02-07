@@ -4,11 +4,11 @@ Enhanced machine translation with terminology control using Google Translate.
 
 ## How It Works
 
-1. **Extract**: Identify noun phrases in your text
-2. **Match**: Check if they exist in your terminology
-3. **Replace**: Substitute matches with placeholders
-4. **Translate**: Send to Google Translate
-5. **Restore**: Replace placeholders with your translations
+1. Identifies nouns and noun phrases in your text
+2. Checks if they exist in your translated terminologies csv 
+3. Substitutes all matched nouns with unique placeholders
+4. Sends the text with placeholders to Google Translate for translation
+5. Replaces the placeholders in the translated text with your defined translations in your csv 
 
 ## Supported Languages
 
@@ -16,8 +16,6 @@ The default setup supports translation from **English** to any of the following 
 - `ak` - Akan/Twi
 - `ee` - Ewe
 - `gaa` - Ga
-
-
 
 ## Installation
 
