@@ -1,8 +1,8 @@
-# Nkrane-GT
+# Nkrane
 
 Enhanced machine translation with terminology control.
 
-### How It Works
+**How It Works**
 
 1. Identifies nouns and noun phrases in your input text.
 2. Checks if they exist in your translated terminologies csv file.
