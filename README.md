@@ -1,6 +1,6 @@
 # Nkrane-GT
 
-Enhanced machine translation with terminology control using Google Translate.
+Enhanced machine translation with terminology control.
 
 ### How It Works
 
