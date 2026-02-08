@@ -1,6 +1,6 @@
 # Nkrane
 
-Enhanced machine translation with terminology control.
+Machine Translation enhanced with terminolgy controlled translation for Ghanaian languages.
 
 **How It Works**
 
